@@ -1,7 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1,Maroon 5
-http://206.189.150.129:8088/hls/stream.m3u8
-#EXTINF:-1,Babybus Indonesia
+#EXTINF:-1,Raffasya TV - Babybus 107
 http://206.189.150.129:8088/hls/babybus.m3u8
-
+#EXTINF:-1,Raffasya TV - Babybus 3 
+http://206.189.150.129:8088/hls/babybus.m3u8
