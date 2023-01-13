@@ -72,3 +72,5 @@ http://206.189.150.129:8088/hls/ASuperMemoryRaffasya5th.m3u8
 http://206.189.150.129:8088/hls/AGameMasterBandung.m3u8
 #EXTINF:-1 tvg-logo="https://www.israhadi.com/wp-content/uploads/2023/01/Logo-Raffa-F7CBCB-1.png" group-title="Raffasya TV", A-SD Ocean Park BSD 
 http://206.189.150.129:8088/hls/AOceanParkBSD.m3u8
+#EXTINF:-1 tvg-logo="https://www.israhadi.com/wp-content/uploads/2023/01/Logo-Raffa-F7CBCB-1.png" group-title="Raffasya TV", A-HD Ultah 5 Angku Mbah Imam 
+http://206.189.150.129:8088/hls/AUltah5AngkuMbahImam.m3u8
