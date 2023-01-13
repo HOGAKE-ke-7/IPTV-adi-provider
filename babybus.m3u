@@ -56,3 +56,5 @@ http://206.189.150.129:8088/hls/RaffaNgintip.m3u8
 http://206.189.150.129:8088/hls/RaffaBercanda.m3u8
 #EXTINF:-1 tvg-logo="https://www.israhadi.com/wp-content/uploads/2023/01/Logo-Raffa-F7CBCB-1.png" group-title="Raffasya TV", Raffa main Dot - Umur 0-1th 
 http://206.189.150.129:8088/hls/RaffaMainDot.m3u8
+#EXTINF:-1 tvg-logo="https://www.israhadi.com/wp-content/uploads/2023/01/Logo-Raffa-F7CBCB-1.png" group-title="Raffasya TV", Raffa renang ClubHouse - Umur 0-1th 
+http://206.189.150.129:8088/hls/RaffaRenangClubhouse.m3u8
