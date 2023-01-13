@@ -61,6 +61,6 @@ http://206.189.150.129:8088/hls/RaffaRenangClubhouse.m3u8
 #EXTINF:-1 tvg-logo="https://www.israhadi.com/wp-content/uploads/2023/01/Logo-Raffa-F7CBCB-1.png" group-title="Raffasya TV", Raffa belajar Jalan - Umur 0-1th 
 http://206.189.150.129:8088/hls/RaffaBelajarJalan.m3u8
 #EXTINF:-1 tvg-logo="https://www.israhadi.com/wp-content/uploads/2023/01/Logo-Raffa-F7CBCB-1.png" group-title="Raffasya TV", A-2K Naima Resto Main 
-http://206.189.150.129:8088/hls/ANaimaRestoMain.m3u8
+http://206.189.150.129:8088/hls/ANaimaMain.m3u8
 #EXTINF:-1 tvg-logo="https://www.israhadi.com/wp-content/uploads/2023/01/Logo-Raffa-F7CBCB-1.png" group-title="Raffasya TV", A-2K Naima Resto Full 
-http://206.189.150.129:8088/hls/ANaimaRestoFull.m3u8
+http://206.189.150.129:8088/hls/ANaimaFull.m3u8
