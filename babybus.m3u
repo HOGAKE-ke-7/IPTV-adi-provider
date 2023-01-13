@@ -82,3 +82,5 @@ http://206.189.150.129:8088/hls/JanjiRaffaBantuAyahBunda.m3u8
 http://206.189.150.129:8088/hls/Ultah5Foto.m3u8
 #EXTINF:-1 tvg-logo="https://www.israhadi.com/wp-content/uploads/2023/01/Logo-Raffa-F7CBCB-1.png" group-title="Raffasya TV", A-HD Prosotan Tinggi AEON 
 http://206.189.150.129:8088/hls/ProsotanTinggi.m3u8
+#EXTINF:-1 tvg-logo="https://www.israhadi.com/wp-content/uploads/2023/01/Logo-Raffa-F7CBCB-1.png" group-title="Raffasya TV", A-HD Raffa ke Dokter Gigi 
+http://206.189.150.129:8088/hls/RaffaDokterGigi.m3u8
