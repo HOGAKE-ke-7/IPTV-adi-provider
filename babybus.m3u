@@ -24,6 +24,8 @@ http://206.189.150.129:8088/hls/Raffa011.m3u8
 http://206.189.150.129:8088/hls/babybussatujam.m3u8
 #EXTINF:-1 tvg-logo="https://www.israhadi.com/wp-content/uploads/2023/01/Logo-Raffa-F7CBCB-1.png" group-title="Raffasya TV", Babybus 3 
 http://206.189.150.129:8088/hls/babybus.m3u8
+#EXTINF:-1 tvg-logo="https://www.israhadi.com/wp-content/uploads/2023/01/Logo-Raffa-F7CBCB-1.png" group-title="Raffasya TV", Babybus LIVE 
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1673723378/ei/kanCY4CVOs2OvcAPsuK3gAw/ip/2001%3A448a%3A2042%3A8251%3A799f%3Ab3e6%3Adb57%3Accce/id/GTk16BAO5e0.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgBc46Njvd-bW2s5BnTN5yV0TUUAt2lq4XwlfJ2fj1XIoCIGOeQh5HoVneav07xllG7tnV8QwjBuvSSIlX1vC358fh/file/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.israhadi.com/wp-content/uploads/2023/01/Logo-Raffa-F7CBCB-1.png" group-title="Raffasya TV", Nussa Rara 
 http://206.189.150.129:8088/hls/Raffa-NussaRara.m3u8
 #EXTINF:-1 tvg-logo="https://www.israhadi.com/wp-content/uploads/2023/01/Logo-Raffa-F7CBCB-1.png" group-title="Raffasya TV", Amarossa view 
