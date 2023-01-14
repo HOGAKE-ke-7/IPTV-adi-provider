@@ -86,3 +86,9 @@ http://206.189.150.129:8088/hls/ProsotanTinggi.m3u8
 http://206.189.150.129:8088/hls/RaffaDokterGigi.m3u8
 #EXTINF:-1 tvg-logo="https://www.israhadi.com/wp-content/uploads/2023/01/Logo-Raffa-F7CBCB-1.png" group-title="Raffasya TV", A-HD Raffa 17an2022 
 http://206.189.150.129:8088/hls/Raffa17an.m3u8
+#EXTINF:-1 tvg-logo="https://www.israhadi.com/wp-content/uploads/2023/01/Logo-Raffa-F7CBCB-1.png" group-title="Raffasya TV", Raffa Handstand 
+http://206.189.150.129:8088/hls/RaffaHandstand.m3u8
+#EXTINF:-1 tvg-logo="https://www.israhadi.com/wp-content/uploads/2023/01/Logo-Raffa-F7CBCB-1.png" group-title="Raffasya TV", Raffa Pijit 
+http://206.189.150.129:8088/hls/RaffaPijit.m3u8
+#EXTINF:-1 tvg-logo="https://www.israhadi.com/wp-content/uploads/2023/01/Logo-Raffa-F7CBCB-1.png" group-title="Raffasya TV", Raffa Jungkir
+http://206.189.150.129:8088/hls/RaffaJungkir.m3u8
