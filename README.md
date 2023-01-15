@@ -1,2 +1,2 @@
 # IPTV-adi-provider
-dari s
+Auto Update link LIVE youtube
