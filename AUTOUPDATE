@@ -1,8 +1,0 @@
-#!/bin/sh
-
-GIT=`which git`
-REPO_DIR=/IPTV-adi-provider
-cd ${REPO_DIR}
-${GIT} add --all .
-${GIT} commit -m "Test commit"
-${GIT} push https://github.com/HOGAKE-ke-7/IPTV-adi-provider.git
