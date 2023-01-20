@@ -176,7 +176,7 @@ http://103.167.167.5:8111/play/a00c/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.glints.com/unsafe/glints-dashboard.s3.amazonaws.com/company-banner-pic/e7a4fac9be0623de94a3277330c41991.jpg" group-title="SKYINDO DIGITAL DVB T2/S2", MING XE (192.168.240.26)
 http://103.167.167.5:8111/play/a00w/index.m3u8
 
-#EXTINF:-1 tvg-id="mnctv.id" tvg-logo="https://images.glints.com/unsafe/glints-dashboard.s3.amazonaws.com/company-banner-pic/e7a4fac9be0623de94a3277330c41991.jpg" group-title="SKYINDO DIGITAL DVB T2/S2", MNC TV 
+#EXTINF:-1 tvg-id="mnctv.id" tvg-logo="https://images.glints.com/unsafe/glints-dashboard.s3.amazonaws.com/company-banner-pic/e7a4fac9be0623de94a3277330c41991.jpg" group-title="SKYINDO DIGITAL DVB T2/S2" tvg-name="MNCTV", MNCTV 
 http://103.167.167.5:8111/play/a011/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.glints.com/unsafe/glints-dashboard.s3.amazonaws.com/company-banner-pic/e7a4fac9be0623de94a3277330c41991.jpg" group-title="SKYINDO DIGITAL DVB T2/S2", MTV (192.168.240.22)
@@ -2106,7 +2106,7 @@ https://d-rcti.rctiplus.id/RCTI2022-avc1_800000=4-mp4a_128000=2.m3u8|referer=htt
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://d-gtv.rctiplus.id/GTV2021-avc1_450000=4-mp4a_96000=2.m3u8|referer=https://m.rctiplus.com/
 
-#EXTINF:-1 tvg-id="mnctv.id" group-title="NASIONAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/MNCTV_logo_2015.svg/1600px-MNCTV_logo_2015.svg.png",MNC TV
+#EXTINF:-2 tvg-id="mnctv.id" group-title="NASIONAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/MNCTV_logo_2015.svg/1600px-MNCTV_logo_2015.svg.png" tvg-name="MNCTV",MNCTV
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://d-mnctv.rctiplus.id/MNCTV_2021-avc1_450000=4-mp4a_96000=2.m3u8|referer=https://m.rctiplus.com/
 
@@ -2197,7 +2197,7 @@ http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjhkOWZkZjYtOGViOC0zNTkzLWFhOWEtNGFhMzJkMDk3NGE2
-#EXTINF:-1 tvg-id="MNCTV.MACAN" tvg-logo="https://i.postimg.cc/bwvxnwcQ/mnc.png" group-title=" NASIONAL", MNC TV HD
+#EXTINF:-3 tvg-id="MNCTV.MACAN" tvg-logo="https://i.postimg.cc/bwvxnwcQ/mnc.png" group-title=" NASIONAL" tvg-name="MNCTV", MNCTV
 https://liveaneviadev.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 
 
