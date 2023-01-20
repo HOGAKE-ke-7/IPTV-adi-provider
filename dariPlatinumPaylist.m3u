@@ -1,6 +1,4 @@
-#EXTM3U url-tvg="https://macan.tv/xmltv.php?username=epg&password=epg" x-tvg-url="https://macan.tv/xmltv.php?username=epg&password=epg"
-#EXTM3U url-tvg="http://cx1.supercloud9.xyz:2095/xmltv.php?username=wKLDF3Lt6j&password=f9K6ZMCikh&type=dreambox&output=mpegts" x-tvg-url="http://cx1.supercloud9.xyz:2095/xmltv.php?username=wKLDF3Lt6j&password=f9K6ZMCikh&type=dreambox&output=mpegts"
-
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/es.xml, https://iptv-org.github.io/epg/guides/se.xml, https://iptv-org.github.io/epg/guides/de.xml, https://iptv-org.github.io/epg/guides/id.xml, https://iptv-org.github.io/epg/guides/it.xml, https://iptv-org.github.io/epg/guides/jp.xml, https://iptv-org.github.io/epg/guides/my.xml, https://iptv-org.github.io/epg/guides/mx.xml, https://iptv-org.github.io/epg/guides/pt.xml, https://iptv-org.github.io/epg/guides/sg.xml, https://iptv-org.github.io/epg/guides/za.xml, https://iptv-org.github.io/epg/guides/kr.xml, https://iptv-org.github.io/epg/guides/tw.xml, https://iptv-org.github.io/epg/guides/th.xml, https://iptv-org.github.io/epg/guides/uk.xml, https://iptv-org.github.io/epg/guides/us.xml, https://iptv-org.github.io/epg/guides/vn.xml, https://iptv-org.github.io/epg/guides/nl.xml, https://iptv-org.github.io/epg/guides/in.xml, https://iptv-org.github.io/epg/guides/fr.xml, https://iptv-org.github.io/epg/guides/dk.xml, https://iptv-org.github.io/epg/guides/hr.xml, https://iptv-org.github.io/epg/guides/cn.xml, https://iptv-org.github.io/epg/guides/ar.xml, https://iptv-org.github.io/epg/guides/au.xml, https://iptv-org.github.io/epg/guides/qa.xml, https://iptv-org.github.io/epg/guides/pl.xml, https://iptv-org.github.io/epg/guides/no.xml, http://gg.gg/epgvn03, https://iptv-org.github.io/epg/guides/ca.xml, https://iptv-org.github.io/epg/guides/ro.xml, https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/au/all/epg.xml" refresh="3600"
 ###########################################
 
 ////DIGITAL ID////
@@ -1373,6 +1371,8 @@ http://51.79.82.208:16006
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/FzxDFYwt/Round-Photo-Jul072022-092150.png" group-title="MALAYSIA",TV IKIM
 https://edge-sg1.vediostream.com/abr/tvikim/live/tvikim_source/chunks.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/FzxDFYwt/Round-Photo-Jul072022-092150.png" group-title="MALAYSIA",TV IKIM
+http://edge-sg1.vediostream.com/abr/tvikim/live/tvikim_source/chunks.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/duniasinema/
@@ -1574,9 +1574,521 @@ http://skylogic.site:8080/LeCyGodF/de198ad6/157491
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/ab95d8e974bb7f697b1dd79c7ac0f765.png" group-title="MALAYSIA", Warner TV
 http://skylogic.site:8080/LeCyGodF/de198ad6/157550
 
+//////ASTRO/////
 
 
 
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="MY / ASTRO",  8TV
+http://ys-users.com:8080/obconline021/6eQmVNsDZY/497579
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="MY / ASTRO",  ABC AUSTRALIA
+http://ys-users.com:8080/obconline021/6eQmVNsDZY/497580
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="MY / ASTRO",  ABO Movies Thangathirai
+http://ys-users.com:8080/obconline021/6eQmVNsDZY/497581
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="MY / ASTRO",  ADITHYA
+http://ys-users.com:8080/obconline021/6eQmVNsDZY/497582
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="MY / ASTRO",  AFC
+http://ys-users.com:8080/obconline021/6eQmVNsDZY/497583
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="MY / ASTRO",  ANIMAL PLANET
+http://ys-users.com:8080/obconline021/6eQmVNsDZY/497584
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="MY / ASTRO",  ANIMAX
+http://ys-users.com:8080/obconline021/6eQmVNsDZY/497585
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="MY / ASTRO",  AOD 363
+http://ys-users.com:8080/obconline021/6eQmVNsDZY/497587
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="MY / ASTRO",  AOD 351
+http://ys-users.com:8080/obconline021/6eQmVNsDZY/497588
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="MY / ASTRO",  AOD 353
+http://ys-users.com:8080/obconline021/6eQmVNsDZY/497590
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="MY / ASTRO",  AOD 362
+http://ys-users.com:8080/obconline021/6eQmVNsDZY/497591
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="MY / ASTRO",  ARENA
+http://ys-users.com:8080/obconline021/6eQmVNsDZY/497592
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="MY / ASTRO",  ARENA 2
+http://ys-users.com:8080/obconline021/6eQmVNsDZY/497593
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="MY / ASTRO",  ARENA HD 50fps
+http://ys-users.com:8080/obconline021/6eQmVNsDZY/497594
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="MY / ASTRO",  Astro Arena (D)
+http://ys-users.com:8080/obconline021/6eQmVNsDZY/497595
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="MY / ASTRO",  Astro Arena 2 (D)
+http://ys-users.com:8080/obconline021/6eQmVNsDZY/497596
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="MY / ASTRO",  Astro AWANI
+http://ys-users.com:8080/obconline021/6eQmVNsDZY/497597
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="MY / ASTRO",  Astro AWANI (D)
+http://ys-users.com:8080/obconline021/6eQmVNsDZY/497598
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="MY / ASTRO",  Astro Birmingham 2022 Feed 1 (D)
+http://ys-users.com:8080/obconline021/6eQmVNsDZY/497599
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="MY / ASTRO",  Astro Birmingham 2022 Feed 4 (D)
+http://ys-users.com:8080/obconline021/6eQmVNsDZY/497602
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="MY / ASTRO",  Astro Box Office
+http://ys-users.com:8080/obconline021/6eQmVNsDZY/497603
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="MY / ASTRO",  Astro Ceria
+http://ys-users.com:8080/obconline021/6eQmVNsDZY/497604
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="MY / ASTRO",  Astro Citra
+http://ys-users.com:8080/obconline021/6eQmVNsDZY/497605
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="MY / ASTRO",  Astro OASIS
+http://ys-users.com:8080/obconline021/6eQmVNsDZY/497606
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="MY / ASTRO",  Astro Premier 1 (D)
+http://ys-users.com:8080/obconline021/6eQmVNsDZY/497607
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="MY / ASTRO",  Astro Premier 2 (D)
+http://ys-users.com:8080/obconline021/6eQmVNsDZY/497696
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="MY / ASTRO",  Astro PRIMA
+http://ys-users.com:8080/obconline021/6eQmVNsDZY/497608
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="MY / ASTRO",  Astro RANIA
+http://ys-users.com:8080/obconline021/6eQmVNsDZY/497609
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="MY / ASTRO",  Astro RIA
+http://ys-users.com:8080/obconline021/6eQmVNsDZY/497610
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="MY / ASTRO",  Astro Sensasi (D)
+http://ys-users.com:8080/obconline021/6eQmVNsDZY/497611
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="MY / ASTRO",  Astro Supersport
+http://ys-users.com:8080/obconline021/6eQmVNsDZY/497612
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="MY / ASTRO",  Astro Supersport 1 (D)
+http://ys-users.com:8080/obconline021/6eQmVNsDZY/497613
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="MY / ASTRO",  Astro Supersport 2
+http://ys-users.com:8080/obconline021/6eQmVNsDZY/497614
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="MY / ASTRO",  Astro Supersport 2 (D)
+http://ys-users.com:8080/obconline021/6eQmVNsDZY/497615
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="MY / ASTRO",  Astro Supersport 2 UHD/4K
+http://ys-users.com:8080/obconline021/6eQmVNsDZY/497577
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="MY / ASTRO",  Astro Supersport 2 50fps
+http://ys-users.com:8080/obconline021/6eQmVNsDZY/497616
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="MY / ASTRO",  Astro Supersport 3
+http://ys-users.com:8080/obconline021/6eQmVNsDZY/497617
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="MY / ASTRO",  Astro Supersport 3 (D)
+http://ys-users.com:8080/obconline021/6eQmVNsDZY/497618
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="MY / ASTRO",  Astro Supersport 3 50fps
+http://ys-users.com:8080/obconline021/6eQmVNsDZY/497619
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="MY / ASTRO",  Astro Supersport 4
+http://ys-users.com:8080/obconline021/6eQmVNsDZY/497620
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="MY / ASTRO",  Astro Supersport 4 (D)
+http://ys-users.com:8080/obconline021/6eQmVNsDZY/497621
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="MY / ASTRO",  Astro Supersport 4 50fps
+http://ys-users.com:8080/obconline021/6eQmVNsDZY/497622
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="MY / ASTRO",  Astro Supersport 5
+http://ys-users.com:8080/obconline021/6eQmVNsDZY/497623
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="MY / ASTRO",  Astro Supersport 5 (D)
+http://ys-users.com:8080/obconline021/6eQmVNsDZY/497624
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="MY / ASTRO",  Astro Supersport 5 50fps
+http://ys-users.com:8080/obconline021/6eQmVNsDZY/497625
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="MY / ASTRO",  Astro Supersport Feed 1 (FHD) (D)
+http://ys-users.com:8080/obconline021/6eQmVNsDZY/497626
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="MY / ASTRO",  Astro Supersport_50fps
+http://ys-users.com:8080/obconline021/6eQmVNsDZY/497627
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="MY / ASTRO",  Astro TUTOR TV SK
+http://ys-users.com:8080/obconline021/6eQmVNsDZY/497628
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="MY / ASTRO",  Astro TUTOR TV SMK
+http://ys-users.com:8080/obconline021/6eQmVNsDZY/497629
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="MY / ASTRO",  Astro TUTOR TV UPSR
+http://ys-users.com:8080/obconline021/6eQmVNsDZY/497630
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="MY / ASTRO",  Astro TVIQ
+http://ys-users.com:8080/obconline021/6eQmVNsDZY/497631
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="MY / ASTRO",  Astro VAANAVIL
+http://ys-users.com:8080/obconline021/6eQmVNsDZY/497632
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="MY / ASTRO",  Astro Vellithirai
+http://ys-users.com:8080/obconline021/6eQmVNsDZY/497633
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="MY / ASTRO",  ASTRO AURA
+http://ys-users.com:8080/obconline021/6eQmVNsDZY/497634
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="MY / ASTRO",  ASTRO CRICKET
+http://ys-users.com:8080/obconline021/6eQmVNsDZY/497635
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="MY / ASTRO",  ASTRO CRICKET 50fps
+http://ys-users.com:8080/obconline021/6eQmVNsDZY/497636
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="MY / ASTRO",  Astro Xiao Tai Yang
+http://ys-users.com:8080/obconline021/6eQmVNsDZY/497637
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="MY / ASTRO",  Awesome TV
+http://ys-users.com:8080/obconline021/6eQmVNsDZY/497578
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="MY / ASTRO",  AXN
+http://ys-users.com:8080/obconline021/6eQmVNsDZY/497638
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="MY / ASTRO",  beIN Sports (D)
+http://ys-users.com:8080/obconline021/6eQmVNsDZY/497639
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="MY / ASTRO",  beIN Sports 2 (D)
+http://ys-users.com:8080/obconline021/6eQmVNsDZY/497640
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="MY / ASTRO",  beIN Sports 2 50fps (D)
+http://ys-users.com:8080/obconline021/6eQmVNsDZY/497641
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="MY / ASTRO",  beIN Sports 3 (D)
+http://ys-users.com:8080/obconline021/6eQmVNsDZY/497642
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="MY / ASTRO",  beIN Sports 3 50fps (D)
+http://ys-users.com:8080/obconline021/6eQmVNsDZY/497643
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="MY / ASTRO",  beIN Sports 4 (D)
+http://ys-users.com:8080/obconline021/6eQmVNsDZY/497589
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="MY / ASTRO",  beIN Sports 5 (D)
+http://ys-users.com:8080/obconline021/6eQmVNsDZY/497586
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="MY / ASTRO",  beIN Sports 50fps (D)
+http://ys-users.com:8080/obconline021/6eQmVNsDZY/497644
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="MY / ASTRO",  Bernama
+http://ys-users.com:8080/obconline021/6eQmVNsDZY/497645
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="MY / ASTRO",  Bisnet Adventure (D)
+http://ys-users.com:8080/obconline021/6eQmVNsDZY/497646
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="MY / ASTRO",  BLOOMBERG TV
+http://ys-users.com:8080/obconline021/6eQmVNsDZY/497647
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="MY / ASTRO",  BOO
+http://ys-users.com:8080/obconline021/6eQmVNsDZY/497648
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="MY / ASTRO",  BOOMERANG
+http://ys-users.com:8080/obconline021/6eQmVNsDZY/497649
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="MY / ASTRO",  CARTOON NTWK
+http://ys-users.com:8080/obconline021/6eQmVNsDZY/497650
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="MY / ASTRO",  CCM
+http://ys-users.com:8080/obconline021/6eQmVNsDZY/497651
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="MY / ASTRO",  CCTV4
+http://ys-users.com:8080/obconline021/6eQmVNsDZY/497652
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="MY / ASTRO",  CELESTIAL
+http://ys-users.com:8080/obconline021/6eQmVNsDZY/497653
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="MY / ASTRO",  CGTN
+http://ys-users.com:8080/obconline021/6eQmVNsDZY/497654
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="MY / ASTRO",  CHUTTI TV
+http://ys-users.com:8080/obconline021/6eQmVNsDZY/497655
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="MY / ASTRO",  CINEMAX
+http://ys-users.com:8080/obconline021/6eQmVNsDZY/497656
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="MY / ASTRO",  CNA
+http://ys-users.com:8080/obconline021/6eQmVNsDZY/497657
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="MY / ASTRO",  CNBC
+http://ys-users.com:8080/obconline021/6eQmVNsDZY/497658
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="MY / ASTRO",  CNBC
+http://ys-users.com:8080/obconline021/6eQmVNsDZY/497659
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="MY / ASTRO",  CNN
+http://ys-users.com:8080/obconline021/6eQmVNsDZY/497660
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="MY / ASTRO",  Crime Investigation
+http://ys-users.com:8080/obconline021/6eQmVNsDZY/497661
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="MY / ASTRO",  CTI ASIA
+http://ys-users.com:8080/obconline021/6eQmVNsDZY/497662
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="MY / ASTRO",  DISCOVERY
+http://ys-users.com:8080/obconline021/6eQmVNsDZY/497663
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="MY / ASTRO",  DISCOVERY ASIA (D)
+http://ys-users.com:8080/obconline021/6eQmVNsDZY/497664
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="MY / ASTRO",  Discovery Science
+http://ys-users.com:8080/obconline021/6eQmVNsDZY/497665
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="MY / ASTRO",  DISCOVERY ASIA
+http://ys-users.com:8080/obconline021/6eQmVNsDZY/497666
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="MY / ASTRO",  DISNEY JUNIOR
+http://ys-users.com:8080/obconline021/6eQmVNsDZY/497667
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="MY / ASTRO",  DMAX
+http://ys-users.com:8080/obconline021/6eQmVNsDZY/497668
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="MY / ASTRO",  DW
+http://ys-users.com:8080/obconline021/6eQmVNsDZY/497669
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="MY / ASTRO",  Egg (D)
+http://ys-users.com:8080/obconline021/6eQmVNsDZY/497670
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="MY / ASTRO",  eGG Network
+http://ys-users.com:8080/obconline021/6eQmVNsDZY/497671
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="MY / ASTRO",  EUROSPORT
+http://ys-users.com:8080/obconline021/6eQmVNsDZY/497672
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="MY / ASTRO",  Eurosport (D)
+http://ys-users.com:8080/obconline021/6eQmVNsDZY/497673
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="MY / ASTRO",  Food Network
+http://ys-users.com:8080/obconline021/6eQmVNsDZY/497674
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="MY / ASTRO",  FRANCE 24
+http://ys-users.com:8080/obconline021/6eQmVNsDZY/497675
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="MY / ASTRO",  GEMILANG
+http://ys-users.com:8080/obconline021/6eQmVNsDZY/497710
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="MY / ASTRO",  GO Shop 4
+http://ys-users.com:8080/obconline021/6eQmVNsDZY/497676
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="MY / ASTRO",  GOLF CHANNEL
+http://ys-users.com:8080/obconline021/6eQmVNsDZY/497677
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="MY / ASTRO",  GOLF CHANNEL HD 50fps
+http://ys-users.com:8080/obconline021/6eQmVNsDZY/497678
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="MY / ASTRO",  GO SHOP
+http://ys-users.com:8080/obconline021/6eQmVNsDZY/497679
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="MY / ASTRO",  GO SHOP 2
+http://ys-users.com:8080/obconline021/6eQmVNsDZY/497680
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="MY / ASTRO",  GO SHOP 3
+http://ys-users.com:8080/obconline021/6eQmVNsDZY/497681
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="MY / ASTRO",  HBO
+http://ys-users.com:8080/obconline021/6eQmVNsDZY/497682
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="MY / ASTRO",  HBO Family
+http://ys-users.com:8080/obconline021/6eQmVNsDZY/497683
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="MY / ASTRO",  HBO Hits
+http://ys-users.com:8080/obconline021/6eQmVNsDZY/497684
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="MY / ASTRO",  HGTV
+http://ys-users.com:8080/obconline021/6eQmVNsDZY/497685
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="MY / ASTRO",  ABO Movies Thangathirai
+http://ys-users.com:8080/obconline021/6eQmVNsDZY/497581
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="MY / ASTRO",  ADITHYA
+http://ys-users.com:8080/obconline021/6eQmVNsDZY/497582
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="MY / ASTRO",  AFC
+http://ys-users.com:8080/obconline021/6eQmVNsDZY/497583
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="MY / ASTRO",  ANIMAL PLANET
+http://ys-users.com:8080/obconline021/6eQmVNsDZY/497584
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="MY / ASTRO",  ANIMAX
+http://ys-users.com:8080/obconline021/6eQmVNsDZY/497585
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="MY / ASTRO",  AOD 363
+http://ys-users.com:8080/obconline021/6eQmVNsDZY/497587
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="MY / ASTRO",  AOD 351
+http://ys-users.com:8080/obconline021/6eQmVNsDZY/497588
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="MY / ASTRO",  AOD 353
+http://ys-users.com:8080/obconline021/6eQmVNsDZY/497590
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="MY / ASTRO",  KIX
+http://ys-users.com:8080/obconline021/6eQmVNsDZY/497694
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="MY / ASTRO",  KTV HD (D)
+http://ys-users.com:8080/obconline021/6eQmVNsDZY/497600
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="MY / ASTRO",  Lifetime
+http://ys-users.com:8080/obconline021/6eQmVNsDZY/497695
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="MY / ASTRO",  LIVE Astro SuperSport Events 3_HD
+http://ys-users.com:8080/obconline021/6eQmVNsDZY/497697
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="MY / ASTRO",  LIVE Astro SuperSport Events 4_HD
+http://ys-users.com:8080/obconline021/6eQmVNsDZY/497698
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="MY / ASTRO",  LIVE Astro SuperSport Events 5_HD
+http://ys-users.com:8080/obconline021/6eQmVNsDZY/497699
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="MY / ASTRO",  LIVE Astro SuperSport Events 6_HD
+http://ys-users.com:8080/obconline021/6eQmVNsDZY/497700
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="MY / ASTRO",  Moonbug Kids
+http://ys-users.com:8080/obconline021/6eQmVNsDZY/497701
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="MY / ASTRO",  MTV
+http://ys-users.com:8080/obconline021/6eQmVNsDZY/497702
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="MY / ASTRO",  Nat Geo Wild
+http://ys-users.com:8080/obconline021/6eQmVNsDZY/497703
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="MY / ASTRO",  Nat Geo
+http://ys-users.com:8080/obconline021/6eQmVNsDZY/497704
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="MY / ASTRO",  Nick JR
+http://ys-users.com:8080/obconline021/6eQmVNsDZY/497705
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="MY / ASTRO",  NICKELODEON
+http://ys-users.com:8080/obconline021/6eQmVNsDZY/497706
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="MY / ASTRO",  NTV7
+http://ys-users.com:8080/obconline021/6eQmVNsDZY/497707
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="MY / ASTRO",  ONE
+http://ys-users.com:8080/obconline021/6eQmVNsDZY/497709
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="MY / ASTRO",  Paramount
+http://ys-users.com:8080/obconline021/6eQmVNsDZY/497711
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="MY / ASTRO",  Phoenix News
+http://ys-users.com:8080/obconline021/6eQmVNsDZY/497712
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="MY / ASTRO",  PRIMEtime
+http://ys-users.com:8080/obconline021/6eQmVNsDZY/497713
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="MY / ASTRO",  QUAN JIA
+http://ys-users.com:8080/obconline021/6eQmVNsDZY/497714
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="MY / ASTRO",  RUGBY PASS
+http://ys-users.com:8080/obconline021/6eQmVNsDZY/497715
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="MY / ASTRO",  RUGBY PASS 50fps
+http://ys-users.com:8080/obconline021/6eQmVNsDZY/497716
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="MY / ASTRO",  Showcase Movies
+http://ys-users.com:8080/obconline021/6eQmVNsDZY/497717
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="MY / ASTRO",  SKY NEWS
+http://ys-users.com:8080/obconline021/6eQmVNsDZY/497718
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="MY / ASTRO",  Sports SPO TV
+http://ys-users.com:8080/obconline021/6eQmVNsDZY/497719
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="MY / ASTRO",  SPOTV (D)
+http://ys-users.com:8080/obconline021/6eQmVNsDZY/497720
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="MY / ASTRO",  SPOTV2
+http://ys-users.com:8080/obconline021/6eQmVNsDZY/497721
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="MY / ASTRO",  Sun Life (D)
+http://ys-users.com:8080/obconline021/6eQmVNsDZY/497601
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="MY / ASTRO",  Sun News
+http://ys-users.com:8080/obconline021/6eQmVNsDZY/497708
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="MY / ASTRO",  TA-DAA!
+http://ys-users.com:8080/obconline021/6eQmVNsDZY/497722
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="MY / ASTRO",  TLC
+http://ys-users.com:8080/obconline021/6eQmVNsDZY/497723
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="MY / ASTRO",  TV OKEY
+http://ys-users.com:8080/obconline021/6eQmVNsDZY/497724
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="MY / ASTRO",  TV OKEY (D)
+http://ys-users.com:8080/obconline021/6eQmVNsDZY/497725
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="MY / ASTRO",  TV2
+http://ys-users.com:8080/obconline021/6eQmVNsDZY/497726
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="MY / ASTRO",  TV3
+http://ys-users.com:8080/obconline021/6eQmVNsDZY/497727
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="MY / ASTRO",  TV9
+http://ys-users.com:8080/obconline021/6eQmVNsDZY/497728
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="MY / ASTRO",  TVBS_ASIA
+http://ys-users.com:8080/obconline021/6eQmVNsDZY/497729
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="MY / ASTRO",  TVBSNews
+http://ys-users.com:8080/obconline021/6eQmVNsDZY/497730
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="MY / ASTRO",  TVB CLASSIC
+http://ys-users.com:8080/obconline021/6eQmVNsDZY/497731
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="MY / ASTRO",  TVB E-NEWS
+http://ys-users.com:8080/obconline021/6eQmVNsDZY/497732
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="MY / ASTRO",  TVB JADE
+http://ys-users.com:8080/obconline021/6eQmVNsDZY/497733
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="MY / ASTRO",  TVB XING HE
+http://ys-users.com:8080/obconline021/6eQmVNsDZY/497734
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="MY / ASTRO",  tvN
+http://ys-users.com:8080/obconline021/6eQmVNsDZY/497735
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="MY / ASTRO",  TVN (D)
+http://ys-users.com:8080/obconline021/6eQmVNsDZY/497736
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="MY / ASTRO",  tvN Movies
+http://ys-users.com:8080/obconline021/6eQmVNsDZY/497737
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="MY / ASTRO",  TVS
+http://ys-users.com:8080/obconline021/6eQmVNsDZY/497738
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="MY / ASTRO",  TV ALHIJRAH
+http://ys-users.com:8080/obconline021/6eQmVNsDZY/497739
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="MY / ASTRO",  VINMEEN
+http://ys-users.com:8080/obconline021/6eQmVNsDZY/497740
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="MY / ASTRO",  WARNA
+http://ys-users.com:8080/obconline021/6eQmVNsDZY/497741
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="MY / ASTRO",  WARNER TV
+http://ys-users.com:8080/obconline021/6eQmVNsDZY/497742
+
+#EXTINF:-1 tvg-logo="https://theovertimer.com/wp-content/uploads/2019/12/WWENetwork-750x430.jpg" group-title="MY / ASTRO",  WWE NETWORK
+http://ys-users.com:8080/obconline021/6eQmVNsDZY/497743
+
+#EXTINF:-1 tvg-logo="https://theovertimer.com/wp-content/uploads/2019/12/WWENetwork-750x430.jpg" group-title="MY / ASTRO",  WWE NETWORK 50fps
+http://ys-users.com:8080/obconline021/6eQmVNsDZY/497744
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="MY / ASTRO",  ZEE TAMIL
+http://ys-users.com:8080/obconline021/6eQmVNsDZY/497745
 
 
 
@@ -1585,6 +2097,23 @@ http://skylogic.site:8080/LeCyGodF/de198ad6/157550
 
 ///NASIONAL////
 
+
+#EXTINF:-1 group-title="NASIONAL" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/dd/RCTI_logo_2015.svg/1280px-RCTI_logo_2015.svg.png",RCTI Rcti+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://d-rcti.rctiplus.id/RCTI2022-avc1_800000=4-mp4a_128000=2.m3u8|referer=https://m.rctiplus.com/
+
+#EXTINF:-1 group-title="NASIONAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/GTV_%282017%29.svg/1000px-GTV_%282017%29.svg.png",GTV Rcti+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://d-gtv.rctiplus.id/GTV2021-avc1_450000=4-mp4a_96000=2.m3u8|referer=https://m.rctiplus.com/
+
+#EXTINF:-1 group-title="NASIONAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/MNCTV_logo_2015.svg/1600px-MNCTV_logo_2015.svg.png",MNC TV Rcti+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://d-mnctv.rctiplus.id/MNCTV_2021-avc1_450000=4-mp4a_96000=2.m3u8|referer=https://m.rctiplus.com/
+
+
+#EXTINF:-1 group-title="NASIONAL" tvg-logo="https://i.imgur.com/sojdCIg.png" ,iNews Rcti+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://d-inews.rctiplus.id/INEWS2022-avc1_800000=4-mp4a_128000=2.m3u8|referer=https://m.rctiplus.com/
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjhkOWZkZjYtOGViOC0zNTkzLWFhOWEtNGFhMzJkMDk3NGE2
@@ -2790,6 +3319,9 @@ https://seulangatv.com/YANG-NYURI-ANAK-DAJJAL/vidioHLS/6684.m3u8
 
 #EXTINF:-1 tvg-id="IMC.id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0d/404_300.png/revision/latest/scale-to-width-down/200?cb=20171225070136" group-title="MOVIES", BOO
 https://anon.devds.site/link.php?hash=aHR0cDovLzE3Mi4xMDcuOTQuMjQzOjkwMDAvbGl2ZS9wcmVtaXVtL2ZyZWUvMjQyNDEudHM=
+#EXTINF:-1 tvg-id="IMC.id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0d/404_300.png/revision/latest/scale-to-width-down/200?cb=20171225070136" group-title="MOVIES", BOO
+https://anon.devds.site/link.php?hash=aHR0cDovLzE3Mi4xMDcuOTQuMjQzOjkwMDAvbGl2ZS9wcmVtaXVtL2ZyZWUvMjQxMzIudHM=
+
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjhkOWZkZjYtOGViOC0zNTkzLWFhOWEtNGFhMzJkMDk3NGE2
