@@ -2137,7 +2137,7 @@ https://liveaneviadev.mncnow.id/live/eds/DAAITV/sa_dash_vmx/DAAITV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjhkOWZkZjYtOGViOC0zNTkzLWFhOWEtNGFhMzJkMDk3NGE2
-#EXTINF:-1 tvg-id="gtv.id" tvg-logo="https://static.mncnow.id/images/channel/ef3eed68/040d.png" group-title=" NASIONAL", GLOBAL TV
+#EXTINF:-1 tvg-id="gtv.id" tvg-logo="https://static.mncnow.id/images/channel/ef3eed68/040d.png" group-title=" NASIONAL", GTV
 https://liveaneviadev.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
