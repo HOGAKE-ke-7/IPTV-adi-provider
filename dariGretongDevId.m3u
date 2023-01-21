@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="http://gg.gg/epgvn03, https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/au/all/epg.xml" refresh="3600"
+#EXTM3U x-tvg-url="http://gg.gg/epgvn03, https://macan.network/xmltv.php?username=epg&password=epg&type=m3u_plus, https://dik.si/syarman-epg, https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/au/all/epg.xml" refresh="3600"
 
 ==============LIVEEVENT==============
 #EXTINF:-1 tvg-id="indosiar.id" tvg-logo="https://thumbor.prod.vidiocdn.com/xPjmIhAWoBH8AKnHKANRViYVFmw=/168x168/filters:quality(70)/vidio-web-prod-category/uploads/category/icon/59/bri-liga-1-a1c66a.png" group-title="LIVE EVENT", BRI LIGA 1
