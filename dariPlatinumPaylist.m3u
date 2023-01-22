@@ -1,6 +1,75 @@
 #EXTM3U x-tvg-url="http://gg.gg/epgvn03, https://macan.network/xmltv.php?username=epg&password=epg&type=m3u_plus, https://dik.si/syarman-epg, https://mammothtv.wapka.co/epg2, https://mammothtv.wapka.co/epg1, https://mammothtv.wapka.co/epg3, https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/au/all/epg.xml" refresh="3600"
 ###########################################
 
+==============LIVEEVENT==============
+#EXTINF:-1 tvg-id="indosiar.id" tvg-logo="https://thumbor.prod.vidiocdn.com/xPjmIhAWoBH8AKnHKANRViYVFmw=/168x168/filters:quality(70)/vidio-web-prod-category/uploads/category/icon/59/bri-liga-1-a1c66a.png" group-title="LIVE EVENT", BRI LIGA 1
+http://gretong.devs.id/live/bri1
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/ZJCDNrH/Picsart-23-01-05-17-00-52-740.png" group-title="LIVE EVENT", PLN PROLIGA 1
+http://gretong.devs.id/live/1
+#EXTINF: -1 tvg-id="epl1.id" tvg-logo="https://i.ibb.co/Px0MpqN/Picsart-22-09-03-09-32-53-852.png" group-title="LIVE EVENT", LIVE FOOTBALL 1
+https://tech.cett.my.id/hls/s1.m3u8
+#EXTINF: -1 tvg-id="epl2.id" tvg-logo="https://i.ibb.co/Px0MpqN/Picsart-22-09-03-09-32-53-852.png" group-title="LIVE EVENT", LIVE FOOTBALL 2
+https://tech.cett.my.id/hls/s2.m3u8
+#EXTINF: -1 tvg-id="seria.id" tvg-logo="https://i.ibb.co/Px0MpqN/Picsart-22-09-03-09-32-53-852.png" group-title="LIVE EVENT", LIVE FOOTBALL 3
+https://tech.cett.my.id/hls/s3.m3u8
+#EXTINF: -1 tvg-id="ligue1.id" tvg-logo="https://i.ibb.co/Px0MpqN/Picsart-22-09-03-09-32-53-852.png" group-title="LIVE EVENT", LIVE FOOTBALL 4
+https://tech.cett.my.id/hls/s4.m3u8
+#EXTINF: -1 tvg-id="bundesliga.id" tvg-logo="https://i.ibb.co/Px0MpqN/Picsart-22-09-03-09-32-53-852.png" group-title="LIVE EVENT", LIVE FOOTBALL 5
+https://tech.cett.my.id/hls/s5.m3u8
+#EXTINF: -1 tvg-id="live1.id" tvg-logo="https://i.ibb.co/Px0MpqN/Picsart-22-09-03-09-32-53-852.png" group-title="LIVE EVENT", LIVE FOOTBALL 6
+https://tech.cett.my.id/hls/s6.m3u8
+#EXTINF: -1 tvg-id="live1.id" tvg-logo="https://i.ibb.co/Px0MpqN/Picsart-22-09-03-09-32-53-852.png" group-title="LIVE EVENT", LIVE FOOTBALL 7
+https://tech.cett.my.id/hls/s7.m3u8
+#EXTINF: -1 tvg-id="live1.id" tvg-logo="https://i.ibb.co/Px0MpqN/Picsart-22-09-03-09-32-53-852.png" group-title="LIVE EVENT", LIVE FOOTBALL 8
+https://tech.cett.my.id/hls/s8.m3u8
+#EXTINF: -1 tvg-id="live1.id" tvg-logo="https://i.ibb.co/Px0MpqN/Picsart-22-09-03-09-32-53-852.png" group-title="LIVE EVENT", LIVE FOOTBALL 9
+https://tech.cett.my.id/hls/s9.m3u8
+#EXTINF: -1 tvg-id="live1.id" tvg-logo="https://i.ibb.co/Px0MpqN/Picsart-22-09-03-09-32-53-852.png" group-title="LIVE EVENT", LIVE FOOTBALL 10
+https://tech.cett.my.id/hls/s10.m3u8
+#EXTINF: -1 tvg-id="live1.id" tvg-logo="https://i.ibb.co/ZJGX8pV/Picsart-22-08-24-10-13-15-956.png" group-title="LIVE EVENT", LIVE SPORT 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://cdn.raino.xyz/hls/stream1.m3u8|Referer=http://bdnewszh.com/
+#EXTINF: -1 tvg-id="live1.id" tvg-logo="https://i.ibb.co/ZJGX8pV/Picsart-22-08-24-10-13-15-956.png" group-title="LIVE EVENT", LIVE SPORT 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://cdn.raino.xyz/hls/stream2.m3u8|Referer=http://bdnewszh.com/
+#EXTINF: -1 tvg-id="live1.id" tvg-logo="https://i.ibb.co/ZJGX8pV/Picsart-22-08-24-10-13-15-956.png" group-title="LIVE EVENT", LIVE SPORT 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://cdn.raino.xyz/hls/stream3.m3u8|Referer=http://bdnewszh.com/
+#EXTINF: -1 tvg-id="live1.id" tvg-logo="https://i.ibb.co/ZJGX8pV/Picsart-22-08-24-10-13-15-956.png" group-title="LIVE EVENT", LIVE SPORT 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://cdn.raino.xyz/hls/stream4.m3u8|Referer=http://bdnewszh.com/
+#EXTINF: -1 tvg-id="live1.id" tvg-logo="https://i.ibb.co/ZJGX8pV/Picsart-22-08-24-10-13-15-956.png" group-title="LIVE EVENT", LIVE SPORT 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://cdn.raino.xyz/hls/stream5.m3u8|Referer=http://bdnewszh.com/
+#EXTINF: -1 tvg-id="live1.id" tvg-logo="https://i.ibb.co/ZJGX8pV/Picsart-22-08-24-10-13-15-956.png" group-title="LIVE EVENT", LIVE SPORT 6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://cdn.raino.xyz/hls/stream6.m3u8|Referer=http://bdnewszh.com/
+#EXTINF: -1 tvg-id="live1.id" tvg-logo="https://i.ibb.co/ZJGX8pV/Picsart-22-08-24-10-13-15-956.png" group-title="LIVE EVENT", LIVE SPORT 7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://cdn.raino.xyz/hls/stream7.m3u8|Referer=http://bdnewszh.com/
+#EXTINF: -1 tvg-id="live1.id" tvg-logo="https://i.ibb.co/ZJGX8pV/Picsart-22-08-24-10-13-15-956.png" group-title="LIVE EVENT", LIVE SPORT 8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://cdn.raino.xyz/hls/stream8.m3u8|Referer=http://bdnewszh.com/
+#EXTINF: -1 tvg-id="live1.id" tvg-logo="https://i.ibb.co/ZJGX8pV/Picsart-22-08-24-10-13-15-956.png" group-title="LIVE EVENT", LIVE SPORT 9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://cdn.raino.xyz/hls/stream9.m3u8|Referer=http://bdnewszh.com/
+#EXTINF: -1 tvg-id="live1.id" tvg-logo="https://i.ibb.co/ZJGX8pV/Picsart-22-08-24-10-13-15-956.png" group-title="LIVE EVENT", LIVE SPORT 10
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://cdn.raino.xyz/hls/stream10.m3u8|Referer=http://bdnewszh.com/
+================FIGHT================
+#EXTINF: -1 tvg-id="live1.id" tvg-logo="https://i.ibb.co/CP1ddDm/Picsart-22-09-03-09-33-54-806.png" group-title="LIVE EVENT", LIVE BOXING 1
+https://tech.cett.my.id/hls/b1.m3u8
+#EXTINF: -1 tvg-id="live1.id" tvg-logo="https://i.ibb.co/CP1ddDm/Picsart-22-09-03-09-33-54-806.png" group-title="LIVE EVENT", LIVE BOXING 2
+https://tech.cett.my.id/hls/b2.m3u8
+#EXTINF: -1 tvg-id="live1.id" tvg-logo="https://i.ibb.co/CP1ddDm/Picsart-22-09-03-09-33-54-806.png" group-title="LIVE EVENT", LIVE BOXING 3
+https://tech.cett.my.id/hls/b3.m3u8
+#EXTINF: -1 tvg-id="live1.id" tvg-logo="https://i.ibb.co/cNyrDyP/Picsart-22-09-05-18-32-39-760.png" group-title="LIVE EVENT", LIVE UFC 1
+https://tech.cett.my.id/hls/m1.m3u8
+#EXTINF: -1 tvg-id="live1.id" tvg-logo="https://i.ibb.co/cNyrDyP/Picsart-22-09-05-18-32-39-760.png" group-title="LIVE EVENT", LIVE UFC 2
+https://tech.cett.my.id/hls/u2.m3u8
+
+###########################################
+
 ////DIGITAL ID////
 
 
