@@ -243,8 +243,593 @@ http://103.167.167.5:8111/play/a01a/index.m3u8
 http://103.167.167.5:8111/play/a01n/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.glints.com/unsafe/glints-dashboard.s3.amazonaws.com/company-banner-pic/e7a4fac9be0623de94a3277330c41991.jpg" group-title="SKYINDO DIGITAL DVB T2/S2", happy kids junior
 http://103.167.167.5:8111/play/a03b/index.m3u8
-
-
+====================INDIA====================
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", &PRIVE HD-Rs 19
+http://209.58.178.169:8002/play/a08g
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", &flix HD-Rs19
+http://209.58.178.169:8002/play/a06d
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", &pictures -Rs19
+http://209.58.178.169:8002/play/a085
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", &pictures-Rs 6
+http://209.58.178.169:8002/play/a0ai
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", &tv - Rs 12
+http://209.58.178.169:8002/play/a071
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", &tv HD - Rs 19
+http://209.58.178.169:8002/play/a05c
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", 10 TV -Free
+http://209.58.178.169:8002/play/a05i
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", 1SPORTS - Rs 4
+http://209.58.178.169:8002/play/a07r
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", 99TV - Free
+http://209.58.178.169:8002/play/a0d7
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", 9X JHAKAAS-Free
+http://209.58.178.169:8002/play/a0dd
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", AAKASH AATH-Free
+http://209.58.178.169:8002/play/a08n
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", AASTHA - Free
+http://209.58.178.169:8002/play/a08k
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", ABN ANDHRA - Free
+http://209.58.178.169:8002/play/a08p
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", ABP ANANDA- Free
+http://209.58.178.169:8002/play/a075
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", ABP Ganga
+http://209.58.178.169:8002/play/a062
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", ABZY COOL - Free
+http://209.58.178.169:8002/play/a0bd
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", ABZY DHAKAD-Free
+http://209.58.178.169:8002/play/a0df
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", ABZY MOVIES
+http://209.58.178.169:8002/play/a064
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", ALANKAR- Rs 4
+http://209.58.178.169:8002/play/a0ak
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", AMRITA- Free
+http://209.58.178.169:8002/play/a092
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", ANIMAL PLAN-Rs3
+http://209.58.178.169:8002/play/a07w
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", ARADANA -Free
+http://209.58.178.169:8002/play/a09w
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", ASIANET NEW-Free
+http://209.58.178.169:8002/play/a095
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", Aapla Manoranjan- Rs 38
+http://209.58.178.169:8002/play/a074
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", Aastha Bhaj-Free
+http://209.58.178.169:8002/play/a094
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", Al Jazeera-Free
+http://209.58.178.169:8002/play/a09l
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", Animal Plan-Rs2
+http://209.58.178.169:8002/play/a0af
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", Asianet HD-Rs19
+http://209.58.178.169:8002/play/a08f
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", Ayush TV - Free
+http://209.58.178.169:8002/play/a0d4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", B4U Bhojpuri-Free
+http://209.58.178.169:8002/play/a0ao
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", B4U Kadak-Free
+http://209.58.178.169:8002/play/a0dg
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", B4U Music- Free
+http://209.58.178.169:8002/play/a0c0
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", BHOJPURI CI-Free
+http://209.58.178.169:8002/play/a0a8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", BIG MAGIC - 10p
+http://209.58.178.169:8002/play/a06u
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", Basava-Free
+http://209.58.178.169:8002/play/a0di
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", Bhakti Active- Rs 40
+http://209.58.178.169:8002/play/a0az
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", Bhakti TV- Free
+http://209.58.178.169:8002/play/a077
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", Btv News - Free
+http://209.58.178.169:8002/play/a0db
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", CAPTAIN TV-Free
+http://209.58.178.169:8002/play/a08w
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", CHARDIKLA T-Free
+http://209.58.178.169:8002/play/a0ct
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", CNBC Bajar-Rs 1
+http://209.58.178.169:8002/play/a070
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", Cine Active- Rs 20
+http://209.58.178.169:8002/play/a0b3
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", Colors HD-Rs 19
+http://209.58.178.169:8002/play/a06c
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", Comedy Active- Rs 35
+http://209.58.178.169:8002/play/a05l
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", Customer Care
+http://209.58.178.169:8002/play/a0b9
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", D Tamil -Rs4
+http://209.58.178.169:8002/play/a0bf
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", DANGAL- Free
+http://209.58.178.169:8002/play/a0d8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", DARSHANA- Free
+http://209.58.178.169:8002/play/a08m
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", DD ASSAM-Free
+http://209.58.178.169:8002/play/a07p
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", DD BANGLA-Free
+http://209.58.178.169:8002/play/a0ch
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", DD BHARTI-Free
+http://209.58.178.169:8002/play/a0c5
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", DD BIHAR - Free
+http://209.58.178.169:8002/play/a07l
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", DD CHANDANA-Free
+http://209.58.178.169:8002/play/a09f
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", DD GIRNAR- Free
+http://209.58.178.169:8002/play/a0c3
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", DD GYANDARSHAN
+http://209.58.178.169:8002/play/a09p
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", DD INDIA - Free
+http://209.58.178.169:8002/play/a06w
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", DD KISAN - Free
+http://209.58.178.169:8002/play/a0c7
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", DD MALAYALAM- Free
+http://209.58.178.169:8002/play/a099
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", DD MP - Free
+http://209.58.178.169:8002/play/a0b8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", DD NATION- Free
+http://209.58.178.169:8002/play/a07h
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", DD ODIA -Free
+http://209.58.178.169:8002/play/a0cw
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", DD PODHIGAI-Free
+http://209.58.178.169:8002/play/a0bv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", DD PUNJABI-Free
+http://209.58.178.169:8002/play/a07j
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", DD RAJASTHA-Free
+http://209.58.178.169:8002/play/a0cc
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", DD Retro
+http://209.58.178.169:8002/play/a0c6
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", DD SAHYADRI-Free
+http://209.58.178.169:8002/play/a0c4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", DD SAPTAG-Free
+http://209.58.178.169:8002/play/a0bx
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", DD UP - Free
+http://209.58.178.169:8002/play/a0at
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", DD URDU - Free
+http://209.58.178.169:8002/play/a0cu
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", DD Yadagiri-Free
+http://209.58.178.169:8002/play/a09o
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", DIGVIJAY-Free
+http://209.58.178.169:8002/play/a0cl
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", Dhinchaak 2- Free
+http://209.58.178.169:8002/play/a0ej
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", Discovery S-Rs1
+http://209.58.178.169:8002/play/a0ad
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", Discovery T-Rs1
+http://209.58.178.169:8002/play/a0ae
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", Discovery- Rs 4
+http://209.58.178.169:8002/play/a0aa
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", Dish Positive
+http://209.58.178.169:8002/play/a07q
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", Disha TV - Free
+http://209.58.178.169:8002/play/a08j
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", EPIC - Rs 2
+http://209.58.178.169:8002/play/a0bj
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", ETV AP-Rs1
+http://209.58.178.169:8002/play/a0bp
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", ETV Cinema-Rs 6
+http://209.58.178.169:8002/play/a05r
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", ETV HD - Rs 19
+http://209.58.178.169:8002/play/a05a
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", ETV Life - Rs 1
+http://209.58.178.169:8002/play/a05n
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", Enterr10 Movies- Free
+http://209.58.178.169:8002/play/a063
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", EuroSports HD-Rs 6
+http://209.58.178.169:8002/play/a06g
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", Evergreen Classics Active- Rs 40
+http://209.58.178.169:8002/play/a0b4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", FOX Life - Rs 1
+http://209.58.178.169:8002/play/a0ah
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", FOX Life HD-Rs1
+http://209.58.178.169:8002/play/a0eu
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", Fakt Marath-Free
+http://209.58.178.169:8002/play/a0cg
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", Flowers- Rs10
+http://209.58.178.169:8002/play/a0bh
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", GEMINI LIFE -Rs5
+http://209.58.178.169:8002/play/a05o
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", GOD TV - Free
+http://209.58.178.169:8002/play/a0c9
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", GOODNESS TV-Free
+http://209.58.178.169:8002/play/a09u
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", GULISTAN NE-Free
+http://209.58.178.169:8002/play/a0dn
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", HISTORY TV1-Rs7
+http://209.58.178.169:8002/play/a07y
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", Hindu Dharm-Free
+http://209.58.178.169:8002/play/a0cz
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", History TV -Rs3
+http://209.58.178.169:8002/play/a0ab
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", Home HD
+http://209.58.178.169:8002/play/a06h
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", INDIA NEWS
+http://209.58.178.169:8002/play/a08c
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", ISAI ARUVI-Free
+http://209.58.178.169:8002/play/a08s
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", ISHARA TV- Rs 5
+http://209.58.178.169:8002/play/a0ei
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", Ibadat Active- Rs 40
+http://209.58.178.169:8002/play/a067
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", India News Haryana -Free
+http://209.58.178.169:8002/play/a0de
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", JAI HIND-Free
+http://209.58.178.169:8002/play/a0cn
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", JAYA MAX-Rs2.25
+http://209.58.178.169:8002/play/a0be
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", JAYA PLUS- 50p
+http://209.58.178.169:8002/play/a0bo
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", JK 24x7 New-Free
+http://209.58.178.169:8002/play/a0d3
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", Jalsha Movi-Rs6
+http://209.58.178.169:8002/play/a0b7
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", Janam TV - Free
+http://209.58.178.169:8002/play/a09i
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", Jonack TV- Free
+http://209.58.178.169:8002/play/a05v
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", Jyotish Duniya- Rs 40
+http://209.58.178.169:8002/play/a073
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", KAIRALI Free
+http://209.58.178.169:8002/play/a05k
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", KAIRALI NEWS- Free
+http://209.58.178.169:8002/play/a0c8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", KANAK NEWS-Free
+http://209.58.178.169:8002/play/a0cv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", KAPPA TV -Free
+http://209.58.178.169:8002/play/a09m
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", KITE VICTERS- Free
+http://209.58.178.169:8002/play/a0a5
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", KOLKATA TV-Free
+http://209.58.178.169:8002/play/a0bl
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", Kalinga TV-Free
+http://209.58.178.169:8002/play/a0as
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", Kasturi TV-Free
+http://209.58.178.169:8002/play/a09e
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", Kaumudy - Free
+http://209.58.178.169:8002/play/a08y
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", LOK SABHA -Free
+http://209.58.178.169:8002/play/a08r
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", MAKKAL TV-Free
+http://209.58.178.169:8002/play/a09d
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", MATHRUBHUMI-Free
+http://209.58.178.169:8002/play/a09n
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", MAZHAVIL MA-Free
+http://209.58.178.169:8002/play/a091
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", MH ONE - Free
+http://209.58.178.169:8002/play/a06t
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", MURASU- Free
+http://209.58.178.169:8002/play/a098
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", Malai Muras-Free
+http://209.58.178.169:8002/play/a09r
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", Manjari TV -Free
+http://209.58.178.169:8002/play/a061
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", Media one- Free
+http://209.58.178.169:8002/play/a0cq
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", Movies Active- Rs 59
+http://209.58.178.169:8002/play/a0b5
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", NEPAL1- Free
+http://209.58.178.169:8002/play/a07s
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", NEWS NATION-Free
+http://209.58.178.169:8002/play/a09c
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", NEWS TIME - Free
+http://209.58.178.169:8002/play/a065
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", NTV - Free
+http://209.58.178.169:8002/play/a0d0
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", Nambikkai -Free
+http://209.58.178.169:8002/play/a0a1
+#EXTINF:-1 tvg-id="NationalGeographicasia.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", Nat Geo Cha-Rs2
+http://209.58.178.169:8002/play/a0ac
+#EXTINF:-1 tvg-id="NationalGeographicWild.hk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", Nat Geo Wil- Rs 1
+http://209.58.178.169:8002/play/a0ag
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", News 1st -Free
+http://209.58.178.169:8002/play/a0by
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", News18 Raja-10p
+http://209.58.178.169:8002/play/a076
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", News18 Urdu-10p
+http://209.58.178.169:8002/play/a078
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", OTV - Free
+http://209.58.178.169:8002/play/a0cy
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", PITAARA-Free
+http://209.58.178.169:8002/play/a0cj
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", PIX HD - Rs 15
+http://209.58.178.169:8002/play/a084
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", PRAMEYA NEW-Free
+http://209.58.178.169:8002/play/a0ck
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", PRARTHANA -Rs 2
+http://209.58.178.169:8002/play/a05w
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", PRATIDIN TI-Free
+http://209.58.178.169:8002/play/a0dl
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", PTC NEWS - Free
+http://209.58.178.169:8002/play/a07g
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", PTC PUNJABI- Free
+http://209.58.178.169:8002/play/a07e
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", PTC Punjabi Gold
+http://209.58.178.169:8002/play/a0bz
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", PTC Simran
+http://209.58.178.169:8002/play/a0b1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", PTC chakde-Free
+http://209.58.178.169:8002/play/a07i
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", PUBLIC TV-Free
+http://209.58.178.169:8002/play/a0cf
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", PUTHIYA THA- Free
+http://209.58.178.169:8002/play/a08x
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", Panini
+http://209.58.178.169:8002/play/a05y
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", Paras Gold -Free
+http://209.58.178.169:8002/play/a09q
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", Peace of Mi-Free
+http://209.58.178.169:8002/play/a09b
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", Polimer NEW-Free
+http://209.58.178.169:8002/play/a096
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", Polimer-Free
+http://209.58.178.169:8002/play/a08v
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", Power TV-Free
+http://209.58.178.169:8002/play/a0dj
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", Power Vision-Free
+http://209.58.178.169:8002/play/a0do
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", Public Movi- Free
+http://209.58.178.169:8002/play/a07m
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", Public Musi- Free
+http://209.58.178.169:8002/play/a07n
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", Puthu Yugam-Free
+http://209.58.178.169:8002/play/a0c2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", R. Bangla - Free
+http://209.58.178.169:8002/play/a0en
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", RAJ MUSIC K-Free
+http://209.58.178.169:8002/play/a06v
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", RAJ MUSIC T-  Free
+http://209.58.178.169:8002/play/a08z
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", RAJ NEWS KA- Free
+http://209.58.178.169:8002/play/a08o
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", RAJYA SABHA-Free
+http://209.58.178.169:8002/play/a0cd
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", RANG - Free
+http://209.58.178.169:8002/play/a0dm
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", RENGONI-Free
+http://209.58.178.169:8002/play/a0ci
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", RUPASHI BAN-Free
+http://209.58.178.169:8002/play/a09y
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", Raj  TV - Rs 3
+http://209.58.178.169:8002/play/a06x
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", Raj News Te- Free
+http://209.58.178.169:8002/play/a090
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", RajMusix Ma-Free
+http://209.58.178.169:8002/play/a0a7
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", RajNews Mal-Free
+http://209.58.178.169:8002/play/a0a6
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", Rangmanch Active- Rs 75
+http://209.58.178.169:8002/play/a05t
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", Russia Toda-Free
+http://209.58.178.169:8002/play/a09t
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", SAAM - Free
+http://209.58.178.169:8002/play/a0c1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", SAB HD - Rs 19
+http://209.58.178.169:8002/play/a05e
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", SAFARI TV-Free
+http://209.58.178.169:8002/play/a0bw
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", SAI TV - Free
+http://209.58.178.169:8002/play/a0dh
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", SAKSHI TV- Free
+http://209.58.178.169:8002/play/a0cr
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", SANSKAR - Free
+http://209.58.178.169:8002/play/a08l
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", SEITHIGAL-Free
+http://209.58.178.169:8002/play/a09j
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", SET - Rs 19
+http://209.58.178.169:8002/play/a06m
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", SET HD - Rs 19
+http://209.58.178.169:8002/play/a06e
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", SIRI Kannada-AllTime-Free
+http://209.58.178.169:8002/play/a05z
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", SONY BBC Ea-Rs4
+http://209.58.178.169:8002/play/a0aq
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", SONY MAX 2 - Rs 1
+http://209.58.178.169:8002/play/a0bi
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", SONY MAX- Rs 15
+http://209.58.178.169:8002/play/a0av
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", SONY PAL -Rs 1
+http://209.58.178.169:8002/play/a06y
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", SONY SAB - Rs 19
+http://209.58.178.169:8002/play/a06n
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", SRI SANKARA- Free
+http://209.58.178.169:8002/play/a079
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", STAR BHARA-Rs19
+http://209.58.178.169:8002/play/a07v
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", STAR BHARAT-Rs10
+http://209.58.178.169:8002/play/a06l
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", SUBHAVARTHA-Free
+http://209.58.178.169:8002/play/a0ce
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", SUDARSHAN-Free
+http://209.58.178.169:8002/play/a0cs
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", SUN LIFE- Rs 9
+http://209.58.178.169:8002/play/a05m
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", SUN MUSIC- Rs 6
+http://209.58.178.169:8002/play/a0bm
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", SUN NEWS - Rs 1
+http://209.58.178.169:8002/play/a0bn
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", SURYA COMED-Rs4
+http://209.58.178.169:8002/play/a05j
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", SURYA HD- Rs 19
+http://209.58.178.169:8002/play/a05d
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", SVBC 2 - Free
+http://209.58.178.169:8002/play/a0d5
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", Sahana TV - Free
+http://209.58.178.169:8002/play/a07o
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", Sandesh New-Free
+http://209.58.178.169:8002/play/a0cx
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", Sansad TV HD-Free
+http://209.58.178.169:8002/play/a0ev
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", Sathiyam TV-Free
+http://209.58.178.169:8002/play/a0dc
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", Satsang- Free
+http://209.58.178.169:8002/play/a08t
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", Shalom -Free
+http://209.58.178.169:8002/play/a09s
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", Shemaroo Marathibana
+http://209.58.178.169:8002/play/a060
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", Shemaroo TV- Free
+http://209.58.178.169:8002/play/a0bb
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", Shorts TV Active- Rs 59
+http://209.58.178.169:8002/play/a0ar
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", Songdew - Rs 20
+http://209.58.178.169:8002/play/a07d
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", Sony BBC EarHD-Rs10
+http://209.58.178.169:8002/play/a0du
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", Sony Ten 2 HD- Rs 17
+http://209.58.178.169:8002/play/a08a
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", Star GOLD -Rs10
+http://209.58.178.169:8002/play/a07x
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", Star GOLD- Rs 8
+http://209.58.178.169:8002/play/a0ax
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", Star Gold 2- Rs 1
+http://209.58.178.169:8002/play/a0b2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", Star Gold SelHD-Rs10
+http://209.58.178.169:8002/play/a080
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", Star Maa HD - Rs 19
+http://209.58.178.169:8002/play/a05f
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", Star Maa MovHD-Rs19
+http://209.58.178.169:8002/play/a05b
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", Star Plus HD
+http://209.58.178.169:8002/play/a06a
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", Star Sport Select 2
+http://209.58.178.169:8002/play/a089
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", Star Sports Select 1 HD
+http://209.58.178.169:8002/play/a0e0
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", Star Utsav -Rs 1
+http://209.58.178.169:8002/play/a0f4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", Star Utsav-Rs 1
+http://209.58.178.169:8002/play/a06s
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", Studio One+ - Free
+http://209.58.178.169:8002/play/a05u
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", Suvarna New-Free
+http://209.58.178.169:8002/play/a09a
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", T NEWS - Free
+http://209.58.178.169:8002/play/a0cb
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", THANTHI TV-Free
+http://209.58.178.169:8002/play/a0cm
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", TLC - Rs 2
+http://209.58.178.169:8002/play/a0au
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", TV 5 Telugu-Free
+http://209.58.178.169:8002/play/a0da
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", TV5 Kannada- Free
+http://209.58.178.169:8002/play/a0dp
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", TV9 GUJARAT-Free
+http://209.58.178.169:8002/play/a09v
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", TV9 Kannada- Free
+http://209.58.178.169:8002/play/a09x
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", TV9 MARATHI -Free
+http://209.58.178.169:8002/play/a09z
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", Thriller Active- Rs 40
+http://209.58.178.169:8002/play/a07a
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", Times Now Navbharat- Free
+http://209.58.178.169:8002/play/a0ew
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", Twenty-Four - Free
+http://209.58.178.169:8002/play/a0co
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", UDAYA HD- Rs 19
+http://209.58.178.169:8002/play/a05g
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", UTV ACTION-Rs 2
+http://209.58.178.169:8002/play/a0b0
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", UTV MOVIES-Rs 2
+http://209.58.178.169:8002/play/a0ay
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", Unknown
+http://209.58.178.169:8002/play/a093
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", V6 NEWS - Free
+http://209.58.178.169:8002/play/a0ca
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", V7000 ZERO DAY FS
+http://209.58.178.169:8002/play/a0al
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", VASANTH TV-Free
+http://209.58.178.169:8002/play/a08u
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", VIJAY HD- Rs 19
+http://209.58.178.169:8002/play/a087
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", VIJAY SUPE-Rs 2
+http://209.58.178.169:8002/play/a05h
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", Velicham TV- Free
+http://209.58.178.169:8002/play/a0d6
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", Vendhar TV-Free
+http://209.58.178.169:8002/play/a0a2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", Vtv NEWS - Free
+http://209.58.178.169:8002/play/a0d9
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", WATCHO
+http://209.58.178.169:8002/play/a05s
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", WE TV - Free
+http://209.58.178.169:8002/play/a0d1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", ZEE ANMOL-10p
+http://209.58.178.169:8002/play/a0fa
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", ZEE BAN CIN-Rs2
+http://209.58.178.169:8002/play/a07b
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", ZEE BANGLA-Rs19
+http://209.58.178.169:8002/play/a082
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", ZEE BOLLYWO-Rs2
+http://209.58.178.169:8002/play/a0b6
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", ZEE Bioskope-10p
+http://209.58.178.169:8002/play/a086
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", ZEE CINEMA-Rs15
+http://209.58.178.169:8002/play/a0aw
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", ZEE CINEMA-Rs19
+http://209.58.178.169:8002/play/a07u
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", ZEE CINEMALU HD-Rs 16 
+http://209.58.178.169:8002/play/a0bs
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", ZEE CINEMALU-Rs10
+http://209.58.178.169:8002/play/a0ba
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", ZEE KERALAM HD-Rs 8
+http://209.58.178.169:8002/play/a0bt
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", ZEE MARATHI-Rs19
+http://209.58.178.169:8002/play/a083
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", ZEE Punjab Haryana
+http://209.58.178.169:8002/play/a07f
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", ZEE Punjabi- Rs. 3
+http://209.58.178.169:8002/play/a0bq
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", ZEE SALAAM- 10p
+http://209.58.178.169:8002/play/a0a0
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", ZEE TALKIE-Rs19 
+http://209.58.178.169:8002/play/a07z
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", ZEE TAMIL HD - Rs 19
+http://209.58.178.169:8002/play/a08h
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", ZEE TELUGU HD-Rs 19 
+http://209.58.178.169:8002/play/a0br
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", ZEE TV - Rs 19
+http://209.58.178.169:8002/play/a06j
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", ZEE TV HD-Rs 19
+http://209.58.178.169:8002/play/a06b
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", ZEEPLEX Screen 2-Rs 129
+http://209.58.178.169:8002/play/a05p
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", Zee Thirai- Rs 5
+http://209.58.178.169:8002/play/a08b
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", Zee UP Uttr-10p
+http://209.58.178.169:8002/play/a072
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", Zee Zest- Rs1
+http://209.58.178.169:8002/play/a0ap
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", Zee24 KALAK-10p
+http://209.58.178.169:8002/play/a05x
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", Zing - 10p
+http://209.58.178.169:8002/play/a066
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", anjan  - Free
+http://209.58.178.169:8002/play/a0cp
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", bindass - Rs 1
+http://209.58.178.169:8002/play/a06r
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", colors - Rs 19
+http://209.58.178.169:8002/play/a06k
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", colors CINEPLEX-Rs3
+http://209.58.178.169:8002/play/a0am
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", colors Guja-Rs5
+http://209.58.178.169:8002/play/a06o
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", colors INFIN-Rs9
+http://209.58.178.169:8002/play/a08d
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", colors Infi-Rs5
+http://209.58.178.169:8002/play/a0bc
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", colors Kan-Rs19
+http://209.58.178.169:8002/play/a059
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", colors Kann-Rs2
+http://209.58.178.169:8002/play/a06q
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", colors rishtey -Rs 1
+http://209.58.178.169:8002/play/a06p
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", hm tv-Free
+http://209.58.178.169:8002/play/a09k
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", madha - Free
+http://209.58.178.169:8002/play/a09g
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", manorama NE-Free
+http://209.58.178.169:8002/play/a097
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", mega MUSIQ-Rs 2
+http://209.58.178.169:8002/play/a05q
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", nick HD+- Rs 10
+http://209.58.178.169:8002/play/a08e
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png" group-title="INDIA", ramdhenu - Free
+http://209.58.178.169:8002/play/a0dk
 
 ====================TVNASIONAL====================
 #EXTINF:-1 tvg-id="Indosiar.id" tvg-logo="https://thumbor.prod.vidiocdn.com/0plBZ7Gso7gNBJxid9ksA8HMGxc=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/205/54ab19.png" group-title="TV NASIONAL",INDOSIAR (2)
