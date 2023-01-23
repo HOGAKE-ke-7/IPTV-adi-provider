@@ -22,34 +22,24 @@ https://tech.cett.my.id/hls/s9.m3u8
 #EXTINF:-1 tvg-id="live1.id" tvg-logo="https://i.ibb.co/Px0MpqN/Picsart-22-09-03-09-32-53-852.png" group-title="LIVE EVENT", LIVE FOOTBALL 10
 https://tech.cett.my.id/hls/s10.m3u8
 #EXTINF:-1 tvg-id="live1.id" tvg-logo="https://i.ibb.co/ZJGX8pV/Picsart-22-08-24-10-13-15-956.png" group-title="LIVE EVENT", LIVE SPORT 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
 http://cdn.raino.xyz/hls/stream1.m3u8|Referer=http://bdnewszh.com/
 #EXTINF:-1 tvg-id="live1.id" tvg-logo="https://i.ibb.co/ZJGX8pV/Picsart-22-08-24-10-13-15-956.png" group-title="LIVE EVENT", LIVE SPORT 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
 http://cdn.raino.xyz/hls/stream2.m3u8|Referer=http://bdnewszh.com/
 #EXTINF:-1 tvg-id="live1.id" tvg-logo="https://i.ibb.co/ZJGX8pV/Picsart-22-08-24-10-13-15-956.png" group-title="LIVE EVENT", LIVE SPORT 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
 http://cdn.raino.xyz/hls/stream3.m3u8|Referer=http://bdnewszh.com/
 #EXTINF:-1 tvg-id="live1.id" tvg-logo="https://i.ibb.co/ZJGX8pV/Picsart-22-08-24-10-13-15-956.png" group-title="LIVE EVENT", LIVE SPORT 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
 http://cdn.raino.xyz/hls/stream4.m3u8|Referer=http://bdnewszh.com/
 #EXTINF:-1 tvg-id="live1.id" tvg-logo="https://i.ibb.co/ZJGX8pV/Picsart-22-08-24-10-13-15-956.png" group-title="LIVE EVENT", LIVE SPORT 5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
 http://cdn.raino.xyz/hls/stream5.m3u8|Referer=http://bdnewszh.com/
 #EXTINF:-1 tvg-id="live1.id" tvg-logo="https://i.ibb.co/ZJGX8pV/Picsart-22-08-24-10-13-15-956.png" group-title="LIVE EVENT", LIVE SPORT 6
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
 http://cdn.raino.xyz/hls/stream6.m3u8|Referer=http://bdnewszh.com/
 #EXTINF:-1 tvg-id="live1.id" tvg-logo="https://i.ibb.co/ZJGX8pV/Picsart-22-08-24-10-13-15-956.png" group-title="LIVE EVENT", LIVE SPORT 7
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
 http://cdn.raino.xyz/hls/stream7.m3u8|Referer=http://bdnewszh.com/
 #EXTINF:-1 tvg-id="live1.id" tvg-logo="https://i.ibb.co/ZJGX8pV/Picsart-22-08-24-10-13-15-956.png" group-title="LIVE EVENT", LIVE SPORT 8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
 http://cdn.raino.xyz/hls/stream8.m3u8|Referer=http://bdnewszh.com/
 #EXTINF:-1 tvg-id="live1.id" tvg-logo="https://i.ibb.co/ZJGX8pV/Picsart-22-08-24-10-13-15-956.png" group-title="LIVE EVENT", LIVE SPORT 9
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
 http://cdn.raino.xyz/hls/stream9.m3u8|Referer=http://bdnewszh.com/
 #EXTINF:-1 tvg-id="live1.id" tvg-logo="https://i.ibb.co/ZJGX8pV/Picsart-22-08-24-10-13-15-956.png" group-title="LIVE EVENT", LIVE SPORT 10
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
 http://cdn.raino.xyz/hls/stream10.m3u8|Referer=http://bdnewszh.com/
 ================FIGHT================
 #EXTINF:-1 tvg-id="live1.id" tvg-logo="https://i.ibb.co/CP1ddDm/Picsart-22-09-03-09-33-54-806.png" group-title="LIVE EVENT", LIVE BOXING 1
@@ -700,67 +690,38 @@ https://true.cett.my.id/02_FoxSport2_TH_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="truetennishd.th" tvg-name="true tennis"  tvg-logo="https://i.ibb.co/QCtyLH8/Picsart-22-08-12-01-27-16-228.png" group-title="THAILAND",True Tennis
 https://true.cett.my.id/02_TennisHD_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="history2asia.us" tvg-name=""  tvg-logo="https://i.ibb.co/rbf5YYF/channels4-profile-2-modified.png" group-title="THAILAND",HISTORY 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-referrer=https://www.movie87hd.com
 https://eiei.livedoomovies.com:4431/02_H2HD_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="discoveryasiathailand.th" tvg-name=""  tvg-logo="https://i.ibb.co/3swgR3c/FNa-Fv-Pn-XMAYbbv-L-modified.png" group-title="THAILAND",Discovery asia
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-referrer=https://www.movie87hd.com
 https://eiei.livedoomovies.com:4431/02_DiscoveryHDWorld/chunklist.m3u8
 #EXTINF:-1 tvg-id="animalplanethdthailand.th" tvg-name=""  tvg-logo="https://i.ibb.co/cxMFWrq/Animal-Planet-Vertical-One-Line-Large-RGB-002-modified.png" group-title="THAILAND",ANIMAL PLANET
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-referrer=https://www.movie87hd.com
 https://eiei.livedoomovies.com:4431/02_AnimalPlanet/chunklist.m3u8
 #EXTINF:-1 tvg-id="warnertvsoutheastasia.us" tvg-name=""  tvg-logo="https://i.ibb.co/sCSK6bx/wb-logo-new-shield-modified.png" group-title="THAILAND",Warner tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-referrer=https://www.movie87hd.com
 https://eiei.livedoomovies.com:4431/02_WarnerTVHD_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://i.ibb.co/YD2cH4n/Picsart-22-08-12-01-29-41-335.png" group-title="THAILAND",True chinese more
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-referrer=https://www.movie87hd.com
 https://eiei.livedoomovies.com:4431/02_FoxMoviesHD_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="axnhdthailand.th" tvg-name=""  tvg-logo="https://i.ibb.co/9gKm3Fv/images-2-modified.png" group-title="THAILAND",AXN
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-referrer=https://www.movie87hd.com
 https://eiei.livedoomovies.com:4431/02_AXNHD_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="pptvhd36.th" tvg-name=""  tvg-logo="https://i.ibb.co/ZhvSc9L/Picsart-22-08-12-01-14-52-384.png" group-title="THAILAND",PPTV HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-referrer=https://www.movie87hd.com
 https://eiei.livedoomovies.com:4431/02_PPTVHD_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="bbtvchannel7.th" tvg-name=""  tvg-logo="https://i.ibb.co/LYzw38C/Picsart-22-08-12-01-15-14-575.png" group-title="THAILAND",CH 7 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-referrer=https://www.movie87hd.com
 https://eiei.livedoomovies.com:4431/02_7HD_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="channel3.th" tvg-name=""  tvg-logo="https://i.ibb.co/VpyP32p/Picsart-22-08-12-01-16-03-622.png" group-title="THAILAND",CH 3 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-referrer=https://www.movie87hd.com
 https://eiei.livedoomovies.com:4431/02_3HD_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="mono29.th" tvg-name=""  tvg-logo="https://i.ibb.co/HhRqGDq/Picsart-22-08-12-01-35-07-335.png" group-title="THAILAND",MONO 29
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-referrer=https://www.movie87hd.com
 https://eiei.livedoomovies.com:4431/02_MONO_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="true4u.th" tvg-name=""  tvg-logo="https://i.ibb.co/8PjXwzZ/Picsart-22-08-12-01-27-37-694.png" group-title="THAILAND",TRUE 4U
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-referrer=https://www.movie87hd.com
 https://eiei.livedoomovies.com:4431/02_TRUE4U_480p/chunklist.m3u8
 #EXTINF:-1 tvg-id="thaitv5hd1.th" tvg-name=""  tvg-logo="https://i.ibb.co/bXpz4Fd/Picsart-22-08-12-01-16-28-670.png" group-title="THAILAND",CH 5 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-referrer=https://www.movie87hd.com
 https://eiei.livedoomovies.com:4431/02_5HD_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="channel8.th" tvg-name=""  tvg-logo="https://i.ibb.co/ChCfyLv/Picsart-22-08-12-01-16-49-229.png" group-title="THAILAND",CH 8 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-referrer=https://www.movie87hd.com
 https://eiei.livedoomovies.com:4431/02_8HD_720p/chunklist.m3u8
 ===========MALAYSIA================
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36
 #EXTINF:-1 group-title="MALAYSIA & BRUNEI" ch-number="RTMK01" tvg-id="RTMK01" tvg-chno="RTMK01" tvg-logo="https://i.ibb.co/DQSMQZ3/Picsart-22-09-09-08-14-46-773.png",TV 1
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36
 #EXTINF:-1 group-title="MALAYSIA & BRUNEI" ch-number="RTMK02" tvg-id="RTMK02" tvg-chno="RTMK02" tvg-logo="https://i.ibb.co/cXXkcmB/Picsart-22-09-09-08-14-23-575.png",TV 2
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
 #EXTINF:-1 tvg-id="103" tvg-name="TV3" tvg-logo="https://i.ibb.co/WsGw5v3/Picsart-22-09-09-08-15-44-478.png" tvg-chno="3" channel-id="3" group-title="MALAYSIA & BRUNEI",TV 3 
 https://unifi-live01.secureswiftcontent.com/UnifiHD/live03.mpd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36
 #EXTINF:-1 group-title="MALAYSIA & BRUNEI" ch-number="RTMK06" tvg-id="RTMK06" tvg-chno="RTMK06" tvg-logo="https://i.ibb.co/FWyFxMv/Picsart-22-09-09-08-13-55-292.png",TV 6 
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -775,24 +736,16 @@ https://unifi-live05.secureswiftcontent.com/UnifiHD/live08.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/tv9/
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1fC84SB/Picsart-22-09-09-08-12-59-201.png" group-title="MALAYSIA & BRUNEI",TV 9
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live09.mpd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/93.0.4577.82 Safari/537.36
-#EXTVLCOPT:http-referer=https://www.dailymotion.com
 #EXTINF:-1 tvg-logo="https://i.ibb.co/r3rLc2R/Picsart-22-09-09-14-38-49-726.png" group-title="MALAYSIA & BRUNEI",Drama Sangat
 https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/Drama_Sangat.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36
 #EXTINF:-1 group-title="MALAYSIA & BRUNEI" ch-number="RTMK03" tvg-id="RTMK03" tvg-chno="RTMK03" tvg-logo="https://i.ibb.co/0sT65wv/Picsart-22-09-09-14-34-16-362.png",TV Okey
 https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36
 #EXTINF:-1 group-title="MALAYSIA & BRUNEI" ch-number="RTMK05" tvg-id="RTMK05" tvg-chno="RTMK05" tvg-logo="https://i.ibb.co/BfdpTX4/Picsart-22-09-09-14-39-23-823.png",Sukan RTM 
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36
 #EXTINF:-1 group-title="MALAYSIA & BRUNEI" ch-number="RTMK04" tvg-id="RTMK04" tvg-chno="RTMK04" tvg-logo="https://i.ibb.co/tYGGGSq/Picsart-22-09-09-14-43-23-397.png",Berita RTM
 https://d25tgymtnqzu8s.cloudfront.net/smil:berita/manifest.mpd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36
 #EXTINF:-1 group-title="MALAYSIA & BRUNEI" ch-number="RTMK07" tvg-id="RTMK07" tvg-chno="RTMK07" tvg-logo="https://i.ibb.co/cxGMkvh/Picsart-22-09-09-14-43-48-419.png",Dewan Rakyat
 https://d25tgymtnqzu8s.cloudfront.net/smil:rakyat/manifest.mpd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36
-#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
 #EXTINF:-1 group-title="MALAYSIA & BRUNEI" ch-number="RTMK08" tvg-id="RTMK08" tvg-chno="RTMK08" tvg-logo="https://i.ibb.co/cxGMkvh/Picsart-22-09-09-14-43-48-419.png",Dewan Negara
 https://d25tgymtnqzu8s.cloudfront.net/smil:negara/manifest.mpd
 #EXTINF:-1 tvg-id="astroawani.my" tvg-logo="https://i.ibb.co/hsZWZdw/Picsart-22-09-09-14-44-18-277.png" group-title="MALAYSIA & BRUNEI",Astro Awani
@@ -1124,10 +1077,8 @@ https://dazn.cett.my.id/dashdrm/dazn-linear-037/stream.mpd
 #EXTINF:-1 tvg-id="DAZN2Spain.es" group-title="OLAHRAGA" tvg-logo="https://i.ibb.co/0BCZwfK/Picsart-22-10-04-23-49-43-996.png", DAZN ESP 2
 https://dazn.cett.my.id/dashdrm/dazn-linear-038/stream.mpd
 #EXTINF:-1 tvg-id="DAZN3Spain.es" group-title="OLAHRAGA" tvg-logo="https://i.ibb.co/92b3YHZ/Picsart-22-11-03-10-02-37-275.png", DAZN ESP 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
 
 #EXTINF:-1 tvg-id="DAZN4Spain.es" group-title="OLAHRAGA" tvg-logo="https://i.ibb.co/ysxs377/Picsart-22-11-03-10-03-06-177.png", DAZN ESP 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
 
 #EXTINF:-1 tvg-id="useesport.id" tvg-name="USEE SPORTS 1" tvg-logo="https://i.ibb.co/wcyS6n2/Desain-tanpa-judul-82-modified.png" group-title="OLAHRAGA",USEE SPORTS 1
 
@@ -1292,10 +1243,8 @@ https://dazn.cett.my.id/dashdrm/dazn-linear-037/stream.mpd
 #EXTINF:-1 tvg-id="DAZN2Spain.es" group-title="LIGA INGGRIS" tvg-logo="https://i.ibb.co/0BCZwfK/Picsart-22-10-04-23-49-43-996.png", DAZN ESP 2
 https://dazn.cett.my.id/dashdrm/dazn-linear-038/stream.mpd
 #EXTINF:-1 tvg-id="DAZN3Spain.es" group-title="LIGA INGGRIS" tvg-logo="https://i.ibb.co/92b3YHZ/Picsart-22-11-03-10-02-37-275.png", DAZN ESP 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
 
 #EXTINF:-1 tvg-id="DAZN4Spain.es" group-title="LIGA INGGRIS" tvg-logo="https://i.ibb.co/ysxs377/Picsart-22-11-03-10-03-06-177.png", DAZN ESP 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
 
 #EXTINF:-1 tvg-id="truepremierfootball1.th" tvg-logo="https://i.ibb.co/q7tbRRh/Desain-tanpa-judul-57-modified.png" group-title="LIGA INGGRIS",Premier Football 1
 https://true.cett.my.id/02_PremierHD1_720p/chunklist.m3u8
