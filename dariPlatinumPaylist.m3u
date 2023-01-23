@@ -1797,6 +1797,28 @@ https://liveaneviadev.mncnow.id/live/eds/TawafTV/sa_dash_vmx/TawafTV.mpd
 http://golive.yn.lt/live/liga1/01.m3u8
 #EXTINF:-1 tvg-logo="https://suarapemerintah.id/wp-content/uploads/2021/11/liga_1_bri_1-169-696x394.jpg" group-title="SPORTS", LIGA BRI 2
 http://golive.yn.lt/live/liga1/04.m3u8
+#EXTINF:-1 tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2020/01/600-Now-Sports.png" group-title="SPORTS",  4K HK Now Sports (EPL)
+http://ys-users.com:8080/obconline021/6eQmVNsDZY/425322
+#EXTINF:-1 tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2020/01/600-Now-Sports.png" group-title="SPORTS",  HK SPORTS Sports 1
+http://ys-users.com:8080/obconline021/6eQmVNsDZY/425332
+#EXTINF:-1 tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2020/01/600-Now-Sports.png" group-title="SPORTS",  HK SPORTS Sports 2
+http://ys-users.com:8080/obconline021/6eQmVNsDZY/425333
+#EXTINF:-1 tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2020/01/600-Now-Sports.png" group-title="SPORTS",  HK SPORTS Sports 3
+http://ys-users.com:8080/obconline021/6eQmVNsDZY/425334
+#EXTINF:-1 tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2020/01/600-Now-Sports.png" group-title="SPORTS",  HK SPORTS Sports 4
+http://ys-users.com:8080/obconline021/6eQmVNsDZY/425335
+#EXTINF:-1 tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2020/01/600-Now-Sports.png" group-title="SPORTS",  HK Now Sports 3
+http://ys-users.com:8080/obconline021/6eQmVNsDZY/425327
+#EXTINF:-1 tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2020/01/600-Now-Sports.png" group-title="SPORTS",  HK Now Sports 4
+http://ys-users.com:8080/obconline021/6eQmVNsDZY/425326
+#EXTINF:-1 tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2020/01/600-Now-Sports.png" group-title="SPORTS",  HK Now Sports 5
+http://ys-users.com:8080/obconline021/6eQmVNsDZY/425325
+#EXTINF:-1 tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2020/01/600-Now-Sports.png" group-title="SPORTS",  HK Now Sports 6
+http://ys-users.com:8080/obconline021/6eQmVNsDZY/425324
+#EXTINF:-1 tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2020/01/600-Now-Sports.png" group-title="SPORTS",  HK Now Sports 7
+http://ys-users.com:8080/obconline021/6eQmVNsDZY/425323
+#EXTINF:-1 tvg-logo="https://pngimg.com/uploads/ufc/ufc_PNG15.png" group-title="SPORTS", UFC Channel
+http://ys-users.com:8080/obconline021/6eQmVNsDZY/433505
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/73eef793ce91db2ff4122b6e3581ec7b.png" group-title="SPORTS", MUTV
 http://37.49.230.48:8080/ksport2021/gq5F3UDPJzwxdpEX/1102
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/a851bb7c5ec11b71465734e164a57306.jpg" group-title="SPORTS", KSA Sports 1
