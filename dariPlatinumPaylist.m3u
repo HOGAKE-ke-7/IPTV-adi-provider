@@ -1467,8 +1467,9 @@ https://d-gtv.rctiplus.id/GTV2021-avc1_450000=4-mp4a_96000=2.m3u8|referer=https:
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://d-mnctv.rctiplus.id/MNCTV_2021-avc1_450000=4-mp4a_96000=2.m3u8|referer=https://m.rctiplus.com/
 #EXTINF:-1 tvg-id="inews.id" group-title="NASIONAL" tvg-logo="https://i.imgur.com/sojdCIg.png" , INEWS
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://d-inews.rctiplus.id/INEWS2022-avc1_800000=4-mp4a_128000=2.m3u8|referer=https://m.rctiplus.com/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjhkOWZkZjYtOGViOC0zNTkzLWFhOWEtNGFhMzJkMDk3NGE2
+https://anevia115.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjhkOWZkZjYtOGViOC0zNTkzLWFhOWEtNGFhMzJkMDk3NGE2
 #EXTINF:-1 tvg-id="MUSICTV.id" tvg-logo="https://static.mncnow.id/images/channel/825ba442/de54.png" group-title=" NASIONAL", MuSiC tV
