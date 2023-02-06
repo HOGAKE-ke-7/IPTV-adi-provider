@@ -2135,10 +2135,10 @@ http://103.60.172.106:8080/StarSportsSelect2/tracks-v1/mono.m3u8
 http://103.55.144.46:80/hls/sonyten3.m3u8
 http://103.55.144.46:80/hls/sonysix.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/0y6DWtYs/usee-Sport.png" group-title="SPORTS", Usee Sports 1
-http://iptvid.my.id/hmm/useetl1.m3u8
+http://beetv.my.id/x/usee-useesport-masihsama.m3u8
 $https://m3u-editor.com/serve/c1379450-7f43-11ec-9c8c-dbddc6310830/486281149
 #EXTINF: -1 tvg-logo="https://images.useetv.com/logo_useesports2_big.png" group-title="SPORTS", Usee Sports 2
-http://iptvid.my.id/hmm/useetl2.m3u8
+http://beetv.my.id/x/usee-useesports2-masihsama.m3u8
 $https://m3u-editor.com/serve/c1379450-7f43-11ec-9c8c-dbddc6310830/486281151
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
