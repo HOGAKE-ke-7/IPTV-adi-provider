@@ -1500,8 +1500,10 @@ https://avi-live-channel-cdn.mncnow.id/live/eds/iNewsTV/sa_dash_vmx/iNewsTV.mpd
 http://210.210.155.37/qwr9ew/s/s04/index.m3u8
 $https://avi-live-channel-cdn.mncnow.id/live/eds/Indosiar/sa_dash_vmx/Indosiar.mpd
 #EXTINF:-1 tvg-id="indosiar.id" tvg-logo="https://thumbor.prod.vidiocdn.com/0plBZ7Gso7gNBJxid9ksA8HMGxc=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/205/54ab19.png" group-title="NASIONAL", INDOSIAR
+http://203.29.26.22:8000/play/a05k/index.m3u8
+http://103.226.232.199:8008/play/Indosiar/index.m3u8
+http://daddyserver.com:8080/Ghozt/uikpu4ttuM/13468
 https://anon.devds.site/link.php?hash=aHR0cDovLzE3Mi4xMDcuOTQuMjQzOjkwMDAvbGl2ZS9wcmVtaXVtL2ZyZWUvMTg2NDEudHM=
-%http://daddyserver.com:8080/Ghozt/uikpu4ttuM/13468
 #EXTINF:-1 tvg-id="indosiar.id" tvg-logo="https://thumbor.prod.vidiocdn.com/0plBZ7Gso7gNBJxid9ksA8HMGxc=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/205/54ab19.png" group-title="NASIONAL", INDOSIAR
 https://seulangatv.com/YANG-NYURI-ANAK-DAJJAL/vidioHLS/205.m3u8
 %%http://mpwtv.my.id/vidioye/205-indosiar.m3u8
@@ -1552,7 +1554,11 @@ https://avi-live-channel-cdn.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd
 #EXTINF:-1 tvg-id="SCTV.id" tvg-logo="https://i.postimg.cc/xjyMFz9v/sctv.png" group-title=" NASIONAL", SCTV
 http://210.210.155.35/session/2d666c26-78c0-11ea-a706-c81f66f89318/qwr9ew/s/s03/01.m3u8
 #EXTINF:-1 tvg-id="SCTV.id" tvg-logo="https://thumbor.prod.vidiocdn.com/kH-K9J4cROqL0TZrAyQhw7P5pBk=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/204/4e9f5c.png" group-title="NASIONAL", SCTV
+http://203.29.26.22:8000/play/a05j/index.m3u8
+http://103.226.232.199:8008/play/a01v/index.m3u8
 http://daddyserver.com:8080/Ghozt/uikpu4ttuM/13499
+#EXTINF:-1 tvg-id="SCTV.id" tvg-logo="https://thumbor.prod.vidiocdn.com/kH-K9J4cROqL0TZrAyQhw7P5pBk=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/204/4e9f5c.png" group-title="NASIONAL", SCTV
+http://beetv.my.id/x/oxygen-sctv-masihsama.m3u8
 #EXTINF:-1 tvg-id="SCTV.id" tvg-logo="https://thumbor.prod.vidiocdn.com/kH-K9J4cROqL0TZrAyQhw7P5pBk=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/204/4e9f5c.png" group-title="NASIONAL", SCTV
 https://seulangatv.com/YANG-NYURI-ANAK-DAJJAL/vidioHLS/204.m3u8
 http://mpwtv.my.id/vidioye/204-sctv.m3u8
