@@ -486,7 +486,7 @@ http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
 https://avia-live-cdn.mncnow.id/live/eds/TVOne/sa_dash_vmx/TVOne.mpd
 
 #EXTINF:-1 group-title="LOKAL" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/2/20/TvOne_logo_2012.svg/1200px-TvOne_logo_2012.svg.png",TV One 2
-http://210.210.155.35/session/080fd6c6-44b8-11ed-b03c-b82a72d63267/qwr9ew/s/s105/index.m3u8
+http://210.210.155.37/qwr9ew/s/s105/index.m3u8
 
 #EXTINF:-1 group-title="LOKAL" tvg-logo="https://i.imgur.com/EMmOvnQ.png",SCTV
 http://210.210.155.37/qwr9ew/s/s03/index.m3u8
