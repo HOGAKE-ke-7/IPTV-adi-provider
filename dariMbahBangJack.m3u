@@ -224,50 +224,50 @@ https://d33j155pv2xyba.cloudfront.net/MNCTV_2021.m3u8
 #EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://raw.githubusercontent.com/Paijo29/1/main/futsal.jpg",Futsal (Server 2) 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=531c6d50e3e9f9ba66446f624f492289:d769d9ae238bdd424f8bcdcdc9a3801f
-https://avi-live-channel-cdn.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd
+https://newanv-live-cdn.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd
 
 #EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://raw.githubusercontent.com/Paijo29/1/main/futsal.jpg",Futsal (Server 3) 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-https://avi-live-channel-cdn.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd
+https://newanv-live-cdn.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd
 
 #EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://raw.githubusercontent.com/Paijo29/1/main/badminton.jpg",Badminton (Server 1) 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-https://avi-live-channel-cdn.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
+https://newanv-live-cdn.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
 https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/playlist.m3u8
 
 #EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://raw.githubusercontent.com/Paijo29/1/main/badminton.jpg",Badminton (Server 2) 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-https://avi-live-channel-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
+https://newanv-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 https://bcovlive-a.akamaihd.net/48eee16919834d3b97df1082a649bcfa/ap-northeast-1/6271486521001/playlist.m3u8
       
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:0 group-title="LIVE EVENT" tvg-logo="https://raw.githubusercontent.com/Paijo29/1/main/badminton.jpg",Badminton (Server 3) 
-https://avi-live-channel-cdn.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd
+https://newanv-live-cdn.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:0 group-title="LIVE EVENT" tvg-logo="https://raw.githubusercontent.com/Paijo29/1/main/badminton.jpg",Badminton (Server 4) 
-https://avi-live-channel-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
+https://newanv-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:0 group-title="LIVE EVENT" tvg-logo="https://raw.githubusercontent.com/Paijo29/1/main/badminton.jpg",Badminton (Server 5) 
-https://avi-live-channel-cdn.mncnow.id/live/eds/Soccer-2/sa_dash_vmx/Soccer-2.mpd
+https://newanv-live-cdn.mncnow.id/live/eds/Soccer-2/sa_dash_vmx/Soccer-2.mpd
 
 #EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://raw.githubusercontent.com/Paijo29/1/main/motogp.jpg",MOTO GP (Server 1) 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
-#https://avi-live-channel-cdn.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
-https://avi-live-channel-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
+#https://newanv-live-cdn.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
+https://newanv-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 
 #EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://raw.githubusercontent.com/Paijo29/1/main/motogp.jpg",MOTO GP (Server 2) 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
-https://avi-live-channel-cdn.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
+https://newanv-live-cdn.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
 
 #EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://raw.githubusercontent.com/Paijo29/1/main/motogp.jpg",MOTO GP (Server 3) 
 https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
@@ -280,7 +280,7 @@ https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-037/stream.mpd
 #EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://raw.githubusercontent.com/Paijo29/1/main/wsbk.jpg",WSBK (Server 1) 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
-https://avi-live-channel-cdn.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
+https://newanv-live-cdn.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
 
 #EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://raw.githubusercontent.com/Paijo29/1/main/wsbk.jpg",WSBK (Server 2) 
 https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/playlist.m3u8
@@ -290,7 +290,7 @@ https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/
 #EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://raw.githubusercontent.com/Paijo29/1/main/wsbk.jpg",WSBK (Server 3) 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
-https://avi-live-channel-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
+https://newanv-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 
 #EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://raw.githubusercontent.com/Paijo29/1/main/wsbk.jpg",WSBK (Server 4) 
 https://bcovlive-a.akamaihd.net/48eee16919834d3b97df1082a649bcfa/ap-northeast-1/6271486521001/playlist.m3u8
@@ -377,7 +377,7 @@ http://rr2.dens.tv/s/s11/index.m3u8
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=334950781f60a66f5e58324b70ac675d:73caca97be8999ce9cfeb3babad8669d
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/6/62/Trans_TV_2013.svg/1280px-Trans_TV_2013.svg.png" group-title="LOKAL",Trans TV 
 https://anevia115.mncnow.id/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd
 
@@ -390,8 +390,8 @@ http://bit.ly/3XPxPoY
 #EXTINF:-1 group-title="LOKAL" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/7/79/Trans_7_2013.svg/1280px-Trans_7_2013.svg.png",Trans7
 https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=26bd60e03bbed7819eea0b27075a1897:d221ba6a6ab66e3083c001d2c4a3e5c5
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
 #EXTINF:-1 group-title="LOKAL" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/7/79/Trans_7_2013.svg/1280px-Trans_7_2013.svg.png", Trans7 2
 https://avi-live-channel-cdn.mncnow.id/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd
 
@@ -399,41 +399,41 @@ https://avi-live-channel-cdn.mncnow.id/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mp
 https://bit.ly/Trans7yeyem3u8
 
 #EXTINF:-1 group-title="LOKAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/MNCTV_logo_2015.svg/1600px-MNCTV_logo_2015.svg.png",MNC TV Vision+
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=828e0aba9825c3546a2831e4c0c36f7f:f85d3dcd38981368ab3da597e97ebdcc
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
 https://avi-live-channel-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 
 #EXTINF:-1 group-title="LOKAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/MNCTV_logo_2015.svg/1600px-MNCTV_logo_2015.svg.png",MNC TV Rcti+
 https://m-mnctv.rctiplus.id/mnctv-sdi-avc1_1200000=5-mp4a_128000=1.m3u8|referer=https://m.rctiplus.com/
 
 #EXTINF:-1 group-title="LOKAL" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/dd/RCTI_logo_2015.svg/1280px-RCTI_logo_2015.svg.png",RCTI Vision+
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9ba3e153ef8956d6e2b0684fcf74f58f:dbc28cb5c6426080f984a5b6d436bb30
-https://avi-live-channel-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
+https://akm611a-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 
 #EXTINF:-1 group-title="LOKAL" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/dd/RCTI_logo_2015.svg/1280px-RCTI_logo_2015.svg.png",RCTI Rcti+
 https://m-rcti.rctiplus.id/rcti-sdi-avc1_1800000=6-mp4a_128000=1.m3u8|referer=https://m.rctiplus.com/
 
 #EXTINF:-1 group-title="LOKAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/GTV_%282017%29.svg/1000px-GTV_%282017%29.svg.png",GTV Vision+
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=88f6c7cbd793374cb5f12d7e26dcd63b:e82daa7c7bfb03d99327463fdbd37336
-https://avi-live-channel-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
+https://newanv-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
 
 #EXTINF:-1 group-title="LOKAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/GTV_%282017%29.svg/1000px-GTV_%282017%29.svg.png",GTV Rcti+
 https://m-gtv.rctiplus.id/gtv-sdi-avc1_1200000=5-mp4a_128000=1.m3u8|referer=https://m.rctiplus.com/
 
 #EXTINF:-1 group-title="LOKAL" tvg-logo="https://i.imgur.com/sojdCIg.png",iNews Vision+
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a31cf5136789514b7e12b9cc99307c84:980e54d671ffc2b2f4cf54e75cae0ac2
-https://avi-live-channel-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
+https://avia-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
 
 #EXTINF:-1 group-title="LOKAL" tvg-logo="https://i.imgur.com/sojdCIg.png" ,iNews Rcti+
 https://m-inews.rctiplus.id/inews-sdi-avc1_1800000=6-mp4a_128000=1.m3u8|referer=https://m.rctiplus.com/
 
 #EXTINF:0 group-title="LOKAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/512px-Antv_logo.svg.png",ANTV Vision+
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4310edb8b9ffe79abb40bacafa778ec3:aebb7e86d8a336d9a93d3dd8a41153cf
-https://avi-live-channel-cdn.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
+https://nxanv-live-cdn.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
 
 #EXTINF:-1 group-title="LOKAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/512px-Antv_logo.svg.png",ANTV
 http://rr2.dens.tv/s/s07/index.m3u8
@@ -441,7 +441,7 @@ http://rr2.dens.tv/s/s07/index.m3u8
 #EXTINF:0 group-title="LOKAL" tvg-logo="https://i.imgur.com/Q3MDKtZ.png",RTV Vision+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjhkOWZkZjYtOGViOC0zNTkzLWFhOWEtNGFhMzJkMDk3NGE2
-https://avi-live-channel-cdn.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd
+https://avia-live-cdn.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd
 
 #EXTINF:-1 group-title="LOKAL" tvg-logo="https://i.imgur.com/Q3MDKtZ.png",RTV 2
 http://45.126.83.51/dr9445/h/h10/index.m3u8
@@ -452,15 +452,15 @@ https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(41869351-4a9c-4e
 #EXTINF:0 group-title="LOKAL" tvg-logo="https://i.imgur.com/fChjylx.png",NET Vision+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjhkOWZkZjYtOGViOC0zNTkzLWFhOWEtNGFhMzJkMDk3NGE2
-https://avi-live-channel-cdn.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
+https://newanv-live-cdn.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
 
 #EXTINF:-1 group-title="LOKAL" tvg-logo="https://i.imgur.com/fChjylx.png",NET TV 2
 http://210.210.155.37/qwr9ew/s/s08/index.m3u8
 
 #EXTINF:-1 group-title="LOKAL" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7a/KOMPAS_TV_%282017%29.png",KOMPAS TV Vision+
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=493fd10e609dd02ae97964f438e7e530:695cf9896182c52f1c3a25820e7778f5
-https://avi-live-channel-cdn.mncnow.id/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
+https://nxanv-live-cdn.mncnow.id/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd
 
 #EXTINF:-1 group-title="LOKAL" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7a/KOMPAS_TV_%282017%29.png",Kompas TV
 https://video.jixie.media/live-test/kompastv.m3u8
@@ -483,7 +483,7 @@ http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
 #EXTINF:-1 group-title="LOKAL" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/2/20/TvOne_logo_2012.svg/1200px-TvOne_logo_2012.svg.png",TV One
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
-https://avi-live-channel-cdn.mncnow.id/live/eds/TVOne/sa_dash_vmx/TVOne.mpd
+https://avia-live-cdn.mncnow.id/live/eds/TVOne/sa_dash_vmx/TVOne.mpd
 
 #EXTINF:-1 group-title="LOKAL" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/2/20/TvOne_logo_2012.svg/1200px-TvOne_logo_2012.svg.png",TV One 2
 http://210.210.155.35/session/080fd6c6-44b8-11ed-b03c-b82a72d63267/qwr9ew/s/s105/index.m3u8
@@ -512,7 +512,7 @@ https://nusantaratv.siar.us/nusantaratv/live/chunks.m3u8
 https://ms.digdaya.tv/live/digdayatv/chunklist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
 #EXTINF:0 tvg-url="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/MagnaChannel.png" group-title="LOKAL",Magna Channel
 https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
 
@@ -535,16 +535,73 @@ https://newtest.webtv1.lol/lb/premium37/index.m3u8?|referer=https://widevine.lic
 #EXTINF:-1 tvg-id="SkySportsGolf.uk" tvg-logo="https://resources.premierleague.com/photos/2020/09/10/74770e21-77e1-4a33-9206-4236897808de/New-Sky-Sports-logo-2020.png?width=1350 "  group-title="SPORTS ",Sky Sports Golf
 https://newtest.webtv1.lol/lb/premium70/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
-#EXTINF:-1 tvg-id="SkySportsPremierLeague.uk" tvg-logo="https://resources.premierleague.com/photos/2020/09/10/74770e21-77e1-4a33-9206-4236897808de/New-Sky-Sports-logo-2020.png?width=1350 "  group-title="SPORTS ",Sky Sports Premier League
+#EXTINF:-1 tvg-id="OrangeSport3.ro" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Orange_Sport_Slovakia_logo.png/1200px-Orange_Sport_Slovakia_logo.png" group-title="SPORTS ",Orange Sport 3 
+https://newtest.webtv1.lolm/lb/premium441/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+
+#EXTINF:-1 tvg-id="OrangeSport4.ro" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Orange_Sport_Slovakia_logo.png/1200px-Orange_Sport_Slovakia_logo.png" group-title="SPORTS ",Orange Sport 4 
+https://newtest.webtv1.lol/lb/premium442/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+
+#EXTINF:-1 tvg-id="DigiSport1Romania.ro" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2SzokCLVAG2Zfj2QMEYvZrnk0wKbtI-yBlQ&usqp=CAU" group-title="SPORTS ",Digi Sport 1 
+https://newtest.webtv1.lol/lb/premium400/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+
+#EXTINF:-1 tvg-id="DigiSport2Romania.ru" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2SzokCLVAG2Zfj2QMEYvZrnk0wKbtI-yBlQ&usqp=CAU" group-title="SPORTS ",Digi Sport 2
+https://newtest.webtv1.lol/lb/premium401/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+
+#EXTINF:-1 tvg-id="DigiSport3Romania.ro" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2SzokCLVAG2Zfj2QMEYvZrnk0wKbtI-yBlQ&usqp=CAU" group-title="SPORTS ",Digi Sport 3 
+https://newtest.webtv1.lol/lb/premium402/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+
+#EXTINF:-1 tvg-id="DigiSport4Romania.ro" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2SzokCLVAG2Zfj2QMEYvZrnk0wKbtI-yBlQ&usqp=CAU" group-title="SPORTS ",Digi Sport 4 
+https://newtest.webtv1.lol/lb/premium403/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT 
+
+#EXTINF:-1 group-title="SPORTS " tvg-id="ESPN.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrjzlignFKlJ4dGEtP4PT626XSjaP9CDUhaA&usqp=CAU" ,ESPN 1 US
+
+#EXTINF:-1 group-title="SPORTS " tvg-id="ESPN2.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrjzlignFKlJ4dGEtP4PT626XSjaP9CDUhaA&usqp=CAU" ,ESPN 2 US
+https://newtest.webtv1.lol/lb/premium45/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT 
+
+#EXTINF:-1 group-title="SPORTS " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrjzlignFKlJ4dGEtP4PT626XSjaP9CDUhaA&usqp=CAU" ,ESPN Deportes
+https://newtest.webtv1.lol/lb/premium375/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT 
+
+#EXTINF:-1 group-title="SPORTS " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAl_uBI7OdY63TeC-t66lsdbcuvRA1QLUKBw&usqp=CAU",PFL MMA
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6334a574605f140007e233c4/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+
+#EXTINF:-1 group-title="SPORTS " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOmWUPqa7AcPHIsONKPB499x5Z56qfGOzGlQ&usqp=CAU",MMA TV
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=819&livestream=1&live=1&app_bundle=com.plexapp.android&did=62274240-07e7-5d94-8dc8-ef68cf19e175&app_domain=app.plex.tv&app_name=plex&h=&w=&custom4=plex&gdpr=0&device_make=&device_model=&coppa=1&us_privacy=1---&custom_6=byPFmwd4yw8HDyR1xiKT&custom_7=60ecb878ebef9d002c4d0a11&is_lat=0samsung-tvplu
+
+#EXTINF:-1 group-title="SPORTS " tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a9/Bellator_MMA_Logo.png",Belator MMA
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62792f34f3aa05000728841e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-id="" tvg-name="UFC 24/7" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGlnWcBAcGcX_6aguTYkQHcfynjyB7zSDB9Q&usqp=CAU" group-title="SPORTS ",UFC 24/7
+https://got.vampirereapers.xyz:443/468kaytv299/HRH8SyJpK6Fb/128927
+#EXTINF:-1 tvg-id="AMC.us" tvg-name="UFC FIGHT PASS 24/7" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGlnWcBAcGcX_6aguTYkQHcfynjyB7zSDB9Q&usqp=CAU" group-title="SPORTS ",UFC FIGHTPASS 24/7
+https://got.vampirereapers.xyz:443/468kaytv299/HRH8SyJpK6Fb/127129
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGlnWcBAcGcX_6aguTYkQHcfynjyB7zSDB9Q&usqp=CAU" group-title="SPORTS ", UFC
+https://stream.ads.ottera.tv/cl/29fmbD4wgol0FelXaMeAw/854x480_550000_3_f.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UFC FIGTH PASS " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGlnWcBAcGcX_6aguTYkQHcfynjyB7zSDB9Q&usqp=CAU" group-title="SPORTS ",UFC FIGTH PASS HD
+http://iptvglobal.site:25461/LionTv/r1942G22hz/86434
+
+#EXTINF:-1 tvg-id="SkySportsPremierLeague.uk" tvg-logo="https://resources.premierleague.com/photos/2020/09/10/74770e21-77e1-4a33-9206-4236897808de/New-Sky-Sports-logo-2020.png?width=1350"  group-title="SPORTS ",Sky Sports Premier League
 https://newtest.webtv1.lol/lb/premium130/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
 #EXTINF:-1 tvg-id="SkySportsFootball.uk" tvg-logo="https://resources.premierleague.com/photos/2020/09/10/74770e21-77e1-4a33-9206-4236897808de/New-Sky-Sports-logo-2020.png?width=1350 "  group-title="SPORTS ",Sky Sports Football
 https://newtest.webtv1.lol/lb/premium35/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
-#EXTINF:-1 tvg-id="SkySportsMix.uk" tvg-logo="https://resources.premierleague.com/photos/2020/09/10/74770e21-77e1-4a33-9206-4236897808de/New-Sky-Sports-logo-2020.png?width=1350 "  group-title="SPORTS ",Sky Sports Mix
+#EXTINF:-1 tvg-id="SkySportsMainEvent.uk" tvg-logo="https://resources.premierleague.com/photos/2020/09/10/74770e21-77e1-4a33-9206-4236897808de/New-Sky-Sports-logo-2020.png?width=1350"  group-title="SPORTS ",Sky Sports Main Event
+https://newtest.webtv1.lol/lb/premium38/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+
+#EXTINF:-1 tvg-id="SkySportsAction.uk" tvg-logo="https://resources.premierleague.com/photos/2020/09/10/74770e21-77e1-4a33-9206-4236897808de/New-Sky-Sports-logo-2020.png?width=1350"  group-title="SPORTS ",Sky Sports Action
+https://newtest.webtv1.lol/lb/premium37/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+
+#EXTINF:-1 tvg-id="SkySportsGolf.uk" tvg-logo="https://resources.premierleague.com/photos/2020/09/10/74770e21-77e1-4a33-9206-4236897808de/New-Sky-Sports-logo-2020.png?width=1350"  group-title="SPORTS ",Sky Sports Golf
+https://newtest.webtv1.lol/lb/premium70/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+
+#EXTINF:-1 tvg-id="SkySportsMix.uk" tvg-logo="https://resources.premierleague.com/photos/2020/09/10/74770e21-77e1-4a33-9206-4236897808de/New-Sky-Sports-logo-2020.png?width=1350"  group-title="SPORTS ",Sky Sports Mix
 https://newtest.webtv1.lol/lb/premium449/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
-#EXTINF:-1 tvg-id="SkySportsArena.uk" tvg-logo="https://resources.premierleague.com/photos/2020/09/10/74770e21-77e1-4a33-9206-4236897808de/New-Sky-Sports-logo-2020.png?width=1350 " group-title="SPORTS " ,Sky Sports Arena
+#EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-logo="https://resources.premierleague.com/photos/2020/09/10/74770e21-77e1-4a33-9206-4236897808de/New-Sky-Sports-logo-2020.png?width=1350" group-title="SPORTS " ,Sky Sports F1
+https://newtest.webtv1.lol/lb/premium60/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+
+#EXTINF:-1 tvg-id="SkySportsArena.uk" tvg-logo="https://resources.premierleague.com/photos/2020/09/10/74770e21-77e1-4a33-9206-4236897808de/New-Sky-Sports-logo-2020.png?width=1350" group-title="SPORTS " ,Sky Sports Arena
 https://newtest.webtv1.lol/lb/premium36/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
 #EXTINF:-1 tvg-id="SkySportsCricket.uk" tvg-logo="https://resources.premierleague.com/photos/2020/09/10/74770e21-77e1-4a33-9206-4236897808de/New-Sky-Sports-logo-2020.png?width=1350 " group-title="SPORTS " ,Sky Sports Cricket
@@ -1422,6 +1479,360 @@ https://avi-live-channel-cdn.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.
 https://avi-live-channel-cdn.mncnow.id/live/eds/WarnerTV/sa_dash_vmx/WarnerTV.mpd
 
 
+=====5KARTUN=====
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HH6N3y2/Picsart-22-08-30-16-33-35-999.png" group-title="5.CARTOON / KARTUN",Garfield
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6054ab20a365c70007e4fd44/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=5f4f&deviceDNT=0&deviceModel=0
+
+#EXTINF:-1 group-title="5.CARTOON / KARTUN" tvg-id="5ca7f16c37b88b2694731c79" tvg-logo="https://images.pluto.tv/channels/5ca7f16c37b88b2694731c79/colorLogoPNG.png" ,Pluto TV Gamer
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ca7f16c37b88b2694731c79/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 group-title="5.CARTOON / KARTUN" tvg-id="561c5f613286e48904fb2677" tvg-logo="https://images.pluto.tv/channels/561c5f613286e48904fb2677/colorLogoPNG.png" ,IGN
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/561c5f613286e48904fb2677/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 group-title="5.CARTOON / KARTUN" tvg-id="5c3f8f12a93c2d61b9990a4e" tvg-logo="https://images.pluto.tv/channels/5c3f8f12a93c2d61b9990a4e/colorLogoPNG.png" ,TokuSHOUTsu
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5c3f8f12a93c2d61b9990a4e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 group-title="5.CARTOON / KARTUN" tvg-id="5e1c669094e0e80009b22ab8" tvg-logo="https://images.pluto.tv/channels/5e1c669094e0e80009b22ab8/colorLogoPNG.png" ,Retro Toons
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e1c669094e0e80009b22ab8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 group-title="5.CARTOON / KARTUN" tvg-id="5f4ec10ed9636f00089b8c89" tvg-logo="https://images.pluto.tv/channels/5f4ec10ed9636f00089b8c89/colorLogoPNG.png" ,Yu-Gi-Oh
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f4ec10ed9636f00089b8c89/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 group-title="5.CARTOON / KARTUN" tvg-id="5dd6dae8ce788b0009eaf77b" tvg-logo="https://images.pluto.tv/channels/5dd6dae8ce788b0009eaf77b/colorLogoPNG.png" ,Mr.Bean
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd6dae8ce788b0009eaf77b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+
+
+#EXTINF:-1 tvg-id="ABCKids.au" tvg-name="ABC Kids" tvg-country="AU" tvg-language="English" tvg-logo="https://static-s.aa-cdn.net/img/ios/960892021/6dcf6804c2d739fe765563a1f28f493e" group-title="5.CARTOON / KARTUN",ABC Kids
+https://c.mjh.nz/101002210222/
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
+#EXTINF:-1 group-title="5.CARTOON / KARTUN" tvg-logo="https://www.sportico.com/wp-content/uploads/2019/10/nick-logo-200x200-2.png", Nickelodeon
+https://newanv-live-cdn.mncnow.id/live/eds/Nickelodeon/sa_dash_vmx/Nickelodeon.mpd
+
+#EXTINF:-1 group-title="5.CARTOON / KARTUN" tvg-logo="https://www.useetv.com/assets/images/channel/logo_aniplus_small1.png",Aniplus
+http://210.210.155.37/session/3c285a9c-a4ad-11ec-92c6-b82a72d63267/dr9445/h/h02/index.m3u8
+
+#EXTINF:-1 group-title="5.CARTOON / KARTUN" tvg-logo="https://www.useetv.com/pimages/logo_mykids_big.png?v=1",My Kidz
+http://210.210.155.35/session/21c6b7ca-a4ad-11ec-8c65-b82a72d63267/uq2663/h/h191/index.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1 
+#EXTINF:0 tvg-id="MiaoMi.hk" tvg-name="" tvg-logo="https://i.postimg.cc/Y0v34qLz/Round-Photo-Sep092022-001103.png" group-title="5.CARTOON / KARTUN",MIAOMI 
+https://newanv-live-cdn.mncnow.id/live/eds/MiaoMi/sa_dash_vmx/MiaoMi.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
+#EXTINF:0 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_112.png" group-title="5.CARTOON / KARTUN",Besmart
+https://newanv-live-cdn.mncnow.id/live/eds/BeSmart/sa_dash_vmx/BeSmart.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
+#EXTINF:0 group-title="5.CARTOON / KARTUN" tvg-logo="https://www.biznetnetworks.com/assets/img/bizkids.png",Biznet Kids
+http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/chunklist_w417362857_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1xQXJpMU0yeHVfTUFsbkh3VlJ0T3MyNGxSOFlfSFNEaWpOMkNSTmdoaWZVbGxoWXFRU0Rsa2QwcUU4Q2tad3hD.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
+#EXTINF:0 group-title="5.CARTOON / KARTUN" tvg-logo="https://www.lyngsat.com/logo/tv/kk/kids-tv-id.png",Kids TV
+https://newanv-live-cdn.mncnow.id/live/eds/KidsChannel/sa_dash_vmx/KidsChannel.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
+#EXTINF:0 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bbc_cbeebies_uk.png" group-title="5.CARTOON / KARTUN",CBeebies
+https://newanv-live-cdn.mncnow.id/live/eds/Cbeebies/sa_dash_vmx/Cbeebies.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
+#EXTINF:0 tvg-name="" tvg-logo="https://www.lyngsat.com/logo/tv/bb/baby_tv_eu.png" group-title="5.CARTOON / KARTUN",Baby TV
+https://newanv-live-cdn.mncnow.id/live/eds/BabyTV-NewHD/sa_dash_vmx/BabyTV-NewHD.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
+#EXTINF:0 group-title="5.CARTOON / KARTUN" tvg-logo="https://seeklogo.com/images/Z/zoomoo-logo-FA728C7940-seeklogo.com.png",ZooMoo
+https://zoomoo-samsungau.amagi.tv/playlist.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
+#EXTINF:0 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/012020/moonbug_kids_on_white.png?N15F03k4i.bbYpm4vkwIU0HwhRsSA4YX&itok=zAZIL7t_" group-title="5.CARTOON / KARTUN",Moonbug Kids
+https://moonbug-rokuus.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sf8XMVMy/TVO-KIDS.png" group-title="5.CARTOON / KARTUN",TVO Kids
+https://bcsecurelivehls-i.akamaihd.net/hls/live/623607/15364602001/tvokids/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmbv6m9I10UL7eavDHFPUHjgzSa-_FK8JG3g&usqp=CAU" group-title="5.CARTOON / KARTUN",TOON MAX
+http://210.210.155.35/qwr9ew/s/s50/index2.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MKpKh5Lz/PBS-KIDS.png" group-title="5.CARTOON / KARTUN",PBS Kids
+https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8?DVR
+
+#EXTINF:-1 tvg-id="BabyTVAsia.uk" tvg-name="BabyTV" tvg-logo="http://dusktill.masuk.web.id/img/babytv.png" group-title="5.CARTOON / KARTUN",Baby TV
+https://vips-livecdn.fptplay.net/hda3/babytvhd_vhls.smil/chunklist.m3u8
+
+#EXTINF:0 tvg-id="baby_first" group-title="5.CARTOON / KARTUN" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/b/b1/Babyfirst.png",Baby First
+http://vips-livecdn.fptplay.net/hda1/babyfirst_vhls.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="DAV.Asia" tvg-logo="https://static.epg.best/ua/DaVinciLearningEurope.ua.png" group-title="5.CARTOON / KARTUN",Da Vinci Learning
+https://vips-livecdn.fptplay.net/hda2/davincihd_vhls.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_bLZmdfEFcwtt38rrTXRZ6dDZsK4Vh_ZkzQ&usqp=CAU" group-title="5.CARTOON / KARTUN",Nick 01
+https://siloh.pluto.tv/lilo/production/Nick/01/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_bLZmdfEFcwtt38rrTXRZ6dDZsK4Vh_ZkzQ&usqp=CAU" group-title="5.CARTOON / KARTUN",Nick 02
+https://siloh.pluto.tv/lilo/production/Nick/02/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTID1wES4Ii386o1oz2GcgbKtvFwgeStQO5VQ&usqp=CAU" group-title="5.CARTOON / KARTUN",Nick Dora TV
+https://siloh.pluto.tv/lilo/production/Nick/03/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7MrGyf7hhwEIW3PBeHfHpPEd9gwb8oUM0qA&usqp=CAU" group-title="5.CARTOON / KARTUN",Happy Kids
+https://happykids-roku.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7MrGyf7hhwEIW3PBeHfHpPEd9gwb8oUM0qA&usqp=CAU" group-title="5.CARTOON / KARTUN",HappyKids Junior
+https://happykidsjunior-vizio.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20860353_ico.png?ts=1654812112" group-title="5.CARTOON / KARTUN",SPACETOON
+https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/chunklist_w1249819737_b1296000_slAR.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
+#EXTINF:0 tvg-logo="http://www.dens.tv/images/channel-logo/1.jpg" group-title="5.CARTOON / KARTUN",Learning & KNOWLEDGE
+http://210.210.155.37/x6bnqe/s/s36/index.m3u8
+
+#EXTINF:-1 tvg-id="cartoon.network.usa.eastern.us" tvg-name="Cartoon Network HD" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20667162_ico.png?ts=1659655700" group-title="5.CARTOON / KARTUN",US016:Cartoon Network USA
+http://mxu03.wanicelife.com:8880/12ms050012/41238625/3152
+
+#EXTINF:0 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20667162_ico.png?ts=1659655700" group-title="5.CARTOON / KARTUN",Cartoon Network Indo
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
+https://newanv-live-cdn.mncnow.id/live/eds/CartoonNetwork/sa_dash_vmx/CartoonNetwork.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 group-title="5.CARTOON / KARTUN" tvg-logo="https://www.useetv.com/pimages/logo_animax_big.png?v=1",Animax
+https://newanv-live-cdn.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=ffb2f0f63c23a3592d4653e938b9ca19:d3661ae881fc55fc7a15815cd439747b
+#EXTINF:-1 tvg-logo="https://git.io/JOTL6" group-title="5.CARTOON / KARTUN", Discovery Kids
+https://cdn.cvattv.com.ar/live/c6eds/Discovery_Kids/SA_Live_dash_enc_2A/Discovery_Kids.mpd
+
+
+#EXTINF:-1 tvg-id="nickelodeon.usa.east.us" tvg-name="Nickelodeon USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Nick_%28Logo%29.png" group-title="5.CARTOON / KARTUN",Nickelodeon USA
+http://mxu03.wanicelife.com:8880/12ms050012/41238625/30049
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Nick Junior" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/1280px-Nick_Jr._logo_2009.svg.png" group-title="5.CARTOON / KARTUN",Nick Junior
+http://103.167.167.5:8111/play/a00f/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaZo8dukR951I12d8hwhixUqNEgdvHj-Y1Jw&usqp=CAU" group-title="5.CARTOON / KARTUN",Kidsflix
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSc21FNY7T-hj22ghGZMjC7ibz0kf7sR3pUxg&usqp=CAU" group-title="5.CARTOON / KARTUN",ConTV Anime
+https://contvanime-littlstar.cinedigm.com/ingest/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/N7Kf5CZB5yFGddAZxmtjylZuG9ECPJFm1y_sdV7Gx_WrawDP-k-9mpFY_hRL4E3IXPo" group-title="5.CARTOON / KARTUN",Baby Shark
+https://fc2f8d2d3cec45bb9187e8de15532838.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_BabySharkTV/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTktHMCVVNWykilTFWu395O9uk_UzoxRkVigg&usqp=CAU" group-title="5.CARTOON / KARTUN",Kids Pluto 2
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/51c75f7bb6f26ba1cd00002f/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+
+#EXTINF:-1 tvg-id="Erz.cocoro" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdZK9z8FTVHQWGzhCy3EpjZw9ntPLplbq1mQ&usqp=CAU" group-title="5.CARTOON / KARTUN",CocoRo
+https://4ea7abcc97144832b81dc50c6e8d6330.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_Cocoro/playlist.m3u8?id=eroz_brebes.m3u8
+
+#EXTINF:-1 tvg-id="Toku.US" tvg-logo="https://i0.wp.com/tokusatsunetwork.com/wp-content/uploads/2020/03/tsu-e1584362198575.png" group-title="5.CARTOON / KARTUN",TokuSHOUTsu
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c3f8f12a93c2d61b9990a4e/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=848&deviceId=5c3f8f12a93c2d61b9990a4e&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaQtV8MV9jXRkzVA7GnlogAbG5RkRQSJIzsA&usqp=CAU" group-title="5.CARTOON / KARTUN",Naruto (Bangjax TV) 
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5da0c85bd2c9c10009370984/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=c7e374a3-77f8-11ec-8df7-e1b1a799e6b3&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6dc122c4-9939-4ecc-8331-975968992978&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCEeGcdUevHmPyV-wiapX8NFCdBNh6okMQmA&usqp=CAU" group-title="5.CARTOON / KARTUN",One Piece (Bangjax TV) 
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f7790b3ed0c88000720b241/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 group-title="5.CARTOON / KARTUN" tvg-logo="https://i.postimg.cc/T15q1gJr/anim.png" ,Anime All Day
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5c363ac9e41be30cb6054c7c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 group-title="5.CARTOON / KARTUN" tvg-logo="https://i.postimg.cc/wjQK3p7W/kan.png" ,Pluto TV Kids Animation
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 group-title="5.CARTOON / KARTUN" tvg-logo="https://i.postimg.cc/YCpnnmC3/kidzz.png" ,Pluto TV Kids
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/51c75f7bb6f26ba1cd00002f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 group-title="5.CARTOON / KARTUN" tvg-logo="https://i.postimg.cc/tJYv50RH/tween.png" ,Pluto TV Tween
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5db0ae5af8797b00095c0794/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 group-title="5.CARTOON / KARTUN" tvg-logo="https://rubbyguntara.github.io/src/img/lego.png",Lego Toons
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf22549d5eeee0f5a4094ba/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/26/USAJ3504531A_20210525T051610.png" group-title="5.CARTOON / KARTUN",MinecrafTV
+http://service-stitcher-ipv4.clusters.pluto.tv/v1/stitch/embed/hls/channel/5812b821249444e05d09cc4c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/33/USBB90000726_20220125T050031.png" group-title="5.CARTOON / KARTUN",PBS KIDS
+https://d3afonbm0qxmbc.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-elbbbj7vf6xsf-prod/est.m3u8
+
+
+=====6NEWS=====
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 group-title="6.NEWS / BERITA" tvg-logo="https://www.useetv.com/assets/images/channel/logo_euronews_small1.png?v=2.0.0.15",Euronews
+https://newanv-live-cdn.mncnow.id/live/eds/EuroNews/sa_dash_vmx/EuroNews.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
+#EXTINF:0 tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/BBC_World_News_2022_%28Boxed%29.svg/1200px-BBC_World_News_2022_%28Boxed%29.svg.png" group-title="6.NEWS / BERITA",BBC World
+https://avi-live-channel-cdn.mncnow.id:443/live/eds/BBCWorldNews/sa_dash_vmx/BBCWorldNews.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 group-title="6.NEWS / BERITA" tvg-logo="https://www.useetv.com/pimages/logo_cnninternational_big.png?v=1",CNN International
+https://newanv-live-cdn.mncnow.id/live/eds/CNNInternational/sa_dash_vmx/CNNInternational.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 group-title="6.NEWS / BERITA" tvg-logo="https://www.useetv.com/assets/images/channel/logo_trtworld_small.png",TRT World
+https://newanv-live-cdn.mncnow.id/live/eds/TRTWorld/sa_dash_vmx/TRTWorld.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 group-title="6.NEWS / BERITA" tvg-logo="https://www.useetv.com/assets/images/channel/logo_cnbcasias_small.png",CNBC Asia
+https://newanv-live-cdn.mncnow.id/live/eds/CNBC/sa_dash_vmx/CNBC.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 group-title="6.NEWS / BERITA" tvg-logo="https://www.useetv.com/assets/images/channel/logo_aljazeera_small1.png",Al Jazeera
+https://newanv-live-cdn.mncnow.id/live/eds/AlJazeeraInternational/sa_dash_vmx/AlJazeeraInternational.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 group-title="6.NEWS / BERITA" tvg-logo="https://www.useetv.com/pimages/logo_newsasia_big.png?v=1",CNA
+https://newanv-live-cdn.mncnow.id/live/eds/ChannelNewsAsia/sa_dash_vmx/ChannelNewsAsia.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDAIr6kvUZ56dQ6F5e_ddVsCJx04iWnJ3KhQ&usqp=CAU" group-title="6.NEWS / BERITA",Berita Satu
+https://newanv-live-cdn.mncnow.id/live/eds/BeritaSatu/sa_dash_vmx/BeritaSatu.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
+#EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/09/Berita_satu_world_id.png/revision/latest?cb=20190324014258" group-title="6.NEWS / BERITA",Berita Satu World
+https://b1world.beritasatumedia.com/Beritasatu/B1World_manifest.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
+#EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ea/Jakarta_globe_news_channel_id.png/revision/latest?cb=20191019135004" group-title="6.NEWS / BERITA",Jakarta Globe
+https://b1english.beritasatumedia.com/Beritasatu/B1English_manifest.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
+#EXTINF:0 tvg-logo="https://i.ibb.co/Fm2BmNL/RT-PPI-IP-TV.png" group-title="6.NEWS / BERITA",RT English
+#https://newanv-live-cdn.mncnow.id/live/eds/RTEnglish/sa_dash_vmx/RTEnglish.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
+#EXTINF:0 group-title="6.NEWS / BERITA" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/n3Udup66KQxlWEE93L2NAAOPSPs=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/7150/abc-australia-2523d9.jpg" ,ABC Australia
+https://newanv-live-cdn.mncnow.id/live/eds/AustraliaPlus/sa_dash_vmx/AustraliaPlus.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
+#EXTINF:0 tvg-logo="https://image.roku.com/developer_channels/prod/576365b1deee1bbd799caae8c445a593bd07c5434b588f52d97c93c29c827297.png" group-title="6.NEWS / BERITA",Australia Channel
+https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/New_Logo_TVRI.png/800px-New_Logo_TVRI.png" group-title="6.NEWS / BERITA",TVRI WORLD
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI3)/index.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Yahoo%21_Finance_logo_2021.png" group-title="6.NEWS / BERITA",Yahoo! Finance
+https://yahoo-roku-us.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61YDuS-81ML.png" group-title="6.NEWS / BERITA",ABC News
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-abcnews/CDN/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://mytv.com.vn/upload/channel/133.png" group-title="6.NEWS / BERITA" ,VNEWS
+https://livecdn.fptplay.net/hda2/ttxvn_vhls.smil/chunklist.m3u8
+
+#EXTINF:-1 group-title="6.NEWS / BERITA" tvg-logo="https://www.mm-eu.tv/wordpress/wp-content/uploads/2016/02/rai-new24-logo.jpg", RAI News24
+https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zGSNswnB/NBC-News-Now.png" group-title="6.NEWS / BERITA", NBC NEWS NOW
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Gm4CpGQm/News-NOW-from-FOX.png" group-title="6.NEWS / BERITA",NewsNOW from FOX
+http://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/N0143g7Y/NEWSMAX.png " group-title="6.NEWS / BERITA", Newsmax
+https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+
+#EXTINF:-1 group-title="6.NEWS / BERITA" tvg-logo="https://th.bing.com/th/id/OIP.-l4m1t7XBgDT9vtTvW7zPAHaDj?pid=ImgDet&rs=1", CCTV-4
+http://210.210.155.35/qwr9ew/s/s19/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=CCTV-4
+
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19762415_ico.png?ts=1660771120" group-title="6.NEWS / BERITA",berita RTM
+https://d25tgymtnqzu8s.cloudfront.net/smil:berita/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.bWMDAEIZWtLM0ZM33qG-VQHaEK?pid=ImgDet&rs=1" group-title="6.NEWS / BERITA" , TOPNEWS
+http://61.19.242.134/feed/202105171329/chtopnews/index.m3u8
+
+#EXTINF:-1 group-title="6.NEWS / BERITA" tvg-logo="https://www.useetv.com/assets/images/channel/logo_cnnindonesia_small1.png?v=2.0.0.15",CNN Indonesia
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist.m3u8
+
+#EXTINF:-1 group-title="6.NEWS / BERITA" tvg-logo="https://www.useetv.com/assets/images/channel/logo_cnbcid_small.png",CNBC Indonesia
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist.m3u8
+
+#EXTINF:-1 group-title="6.NEWS / BERITA" tvg-logo="https://www.useetv.com/pimages/logo_seatoday_big.png?v=1",SEA Today
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(9ce3f094-4044-467e-84b7-b684a49571d5)/index.m3u8
+
+#EXTINF:-1 group-title="6.NEWS / BERITA" tvg-logo="https://www.useetv.com/assets/images/channel/logo_bloomberg_small1.png",Bloomberg
+http://rr1.dens.tv/h/h03/index.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-id="CGTN.cn" tvg-name="CGTN" tvg-url="http://www.mncvision.id.E" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/1200px-CGTN.svg.png" group-title="6.NEWS / BERITA", CGTN
+https://newanv-live-cdn.mncnow.id/live/eds/CGTN/sa_dash_vmx/CGTN.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
+#EXTINF:0 tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS--7Pgv8xvcjzkGfBvhp0bPogrySeRKoHYdQ&usqp=CAU" group-title="6.NEWS / BERITA",Bloomberg
+https://newanv-live-cdn.mncnow.id/live/eds/Bloomberg/sa_dash_vmx/Bloomberg.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="NHKWorldJapan.jp" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/Logo_NHK_World_Radio_Japan.jpg" group-title="6.NEWS / BERITA",NHK World Japan
+https://newanv-live-cdn.mncnow.id/live/eds/NHKWorldTV/sa_dash_vmx/NHKWorldTV.mpd
+
+#EXTINF:0 group-title="6.NEWS / BERITA" tvg-logo="https://nhkworldpremium.com/img/provider/logo.png" ,NHK World Premium
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjhkOWZkZjYtOGViOC0zNTkzLWFhOWEtNGFhMzJkMDk3NGE2
+https://newanv-live-cdn.mncnow.id/live/eds/NHKWorldPremium/sa_dash_vmx/NHKWorldPremium.mpd
+
+#EXTINF:0 group-title="6.NEWS / BERITA" tvg-logo="https://i.imgur.com/gtiuZEf.png",MNC News
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjhkOWZkZjYtOGViOC0zNTkzLWFhOWEtNGFhMzJkMDk3NGE2
+https://newanv-live-cdn.mncnow.id/live/eds/MNCnews-HDD/sa_dash_vmx/MNCnews-HDD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
+#EXTINF:0 tvg-name="" tvg-logo="https://i.ibb.co/vmcp3Vk/FOXPremiumCH-PPI-IP-TV.png" group-title="6.NEWS / BERITA",FOX News
+https://avi-live-channel-cdn.mncnow.id:443/live/eds/FoxNews/sa_dash_vmx/FoxNews.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 group-title="6.NEWS / BERITA" tvg-logo="https://images.useetv.com/logo_idx_big.png",IDX
+https://newanv-live-cdn.mncnow.id/live/eds/IDX/sa_dash_vmx/IDX.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 group-title="6.NEWS / BERITA" tvg-logo="https://images.useetv.com/logo_dwtv_big.png?v=2.0.0.13",DW
+https://newanv-live-cdn.mncnow.id/live/eds/DW/sa_dash_vmx/DW.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 group-title="6.NEWS / BERITA" tvg-logo="https://images.useetv.com/logo_france24_big.png?v=2.0.0.13",France 24
+https://newanv-live-cdn.mncnow.id/live/eds/France24/sa_dash_vmx/France24.mpd
+
 =====4DAERAH=====
 
 
@@ -1726,6 +2137,1105 @@ http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIKALTENG)/
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKgelq9oKF8diacn3LOfpG4SyFkED1_op25g&usqp=CAU" group-title="DAERAH",TVRI Kaltim
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIKaltimsamarinda)/index.m3u8?checkedby:iptvcat.com
+
+======KNOWLEDGE======
+
+#EXTINF:-1 tvg-id="" tvg-name="Wired 2 Fish" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/Love_Nature_TV.png" group-title="9.KNOWLEDGE / PENGETAHUAN",Love Nature 4K
+https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Wired 2 Fish" tvg-logo="https://media.wired2fish.com/uploads/2021/09/logo-wired2fish-inversed.png" group-title="9.KNOWLEDGE / PENGETAHUAN",Wired 2 Fish
+https://linear-80.frequency.stream/dist/plex/80/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="XPLORE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJw2TdCKimXLlQ_532l-qa4xf6cJxUeS-Urg&usqp=CAU" group-title="9.KNOWLEDGE / PENGETAHUAN",XPLORE
+https://xplore-roku.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="insight.au" tvg-name="Insight" tvg-logo="https://business.insight.tv/wp-content/uploads/2021/01/Insight-TV-Logo-small-150x150.png" group-title="9.KNOWLEDGE / PENGETAHUAN", INSIGHT
+https://insighttv-samsung-us.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="introuble.au" tvg-name="Introuble" tvg-logo="https://bx-tv.com/wp-content/uploads/2021/06/introble.jpg" group-title="9.KNOWLEDGE / PENGETAHUAN", INTROUBLE
+https://introuble-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="inwild.au" tvg-name="Inwild" tvg-logo="https://business.insight.tv/wp-content/uploads/2020/12/INWILD.png" group-title="9.KNOWLEDGE / PENGETAHUAN", INWILD
+https://inwild-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="inwonder.au" tvg-name="Inwonder" tvg-logo="https://business.insight.tv/wp-content/uploads/2020/12/INWONDER.png" group-title="9.KNOWLEDGE / PENGETAHUAN", INWONDER
+https://inwonder-samsungindia.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="hgtvasia.us" tvg-name="HGTV asia" tvg-logo="https://i.ibb.co/CBBxyNt/hgtv-home-tv.png" group-title="9.KNOWLEDGE / PENGETAHUAN",HGTV ID
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+https://anevia114.mncnow.id/live/eds/HGTV/sa_dash_vmx/HGTV.mpd
+#EXTINF:-1 tvg-id="" tvg-name="Smithsonian" tvg-logo="https://i.ibb.co/X751BzW/smithsonian-home-tv.png" group-title="9.KNOWLEDGE / PENGETAHUAN",Smithsonian
+https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DFbrYzh.png" group-title="9.KNOWLEDGE / PENGETAHUAN",TechStorm
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(abe4ead2-1a88-4330-9f41-382fcf94bba2)/manifest.mpd
+
+#EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_203.png" group-title="9.KNOWLEDGE / PENGETAHUAN",Animal Planet
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
+https://newanv-live-cdn.mncnow.id/live/eds/AnimalPlanet/sa_dash_vmx/AnimalPlanet.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mJPjPhP/image-6.png" group-title="9.KNOWLEDGE / PENGETAHUAN",NASA TV
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
+
+#EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_205.png" group-title="9.KNOWLEDGE / PENGETAHUAN",CGTN Documentary
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
+https://newanv-live-cdn.mncnow.id/live/eds/CGTN_Doc/sa_dash_vmx/CGTN_Doc.mpd
+
+#EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/logo-ci.jpg" group-title="9.KNOWLEDGE / PENGETAHUAN",Crime + Investigation
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
+https://newanv-live-cdn.mncnow.id/live/eds/CrimeInvestigation/sa_dash_vmx/CrimeInvestigation.mpd
+
+#EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_461.png" group-title="9.KNOWLEDGE / PENGETAHUAN",BBC Earth
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
+https://newanv-live-cdn.mncnow.id/live/eds/BBCEarth-HD/sa_dash_vmx/BBCEarth-HD.mpd
+
+#EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_112.png" group-title="9.KNOWLEDGE / PENGETAHUAN",BeSmart
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
+https://newanv-live-cdn.mncnow.id/live/eds/BeSmart/sa_dash_vmx/BeSmart.mpd
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/The_History_Channel-Logo.svg/2560px-The_History_Channel-Logo.svg.png" group-title="9.KNOWLEDGE / PENGETAHUAN",History
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
+https://newanv-live-cdn.mncnow.id/live/eds/History/sa_dash_vmx/History.mpd
+
+#EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/discovery_channel.png" group-title="9.KNOWLEDGE / PENGETAHUAN",Discovery Channel
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
+https://newanv-live-cdn.mncnow.id/live/eds/Discovery/sa_dash_vmx/Discovery.mpd
+
+#EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_202.png" group-title="9.KNOWLEDGE / PENGETAHUAN",National Geographic
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
+https://newanv-live-cdn.mncnow.id/live/eds/NatGeoChannel/sa_dash_vmx/NatGeoChannel.mpd
+
+#EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_204.png" group-title="9.KNOWLEDGE / PENGETAHUAN",National Geographic Wild
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
+https://newanv-live-cdn.mncnow.id/live/eds/NatGeoWild/sa_dash_vmx/NatGeoWild.mpd
+
+
+=======radio========
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrB3qZdETbEi5-c25Bdsmwpzc4gllcOGpLmA&usqp=CAU" group-title="10.RADIO",EBS - Surabaya
+http://streaming.radiopanorama.net:8100/
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrB3qZdETbEi5-c25Bdsmwpzc4gllcOGpLmA&usqp=CAU" group-title="10.RADIO",TRAX DKI
+http://stream.radiojar.com/rrqf78p3bnzuv
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrB3qZdETbEi5-c25Bdsmwpzc4gllcOGpLmA&usqp=CAU" group-title="10.RADIO",HITZ BANDUNG
+http://hits.unikom.ac.id:9996/
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrB3qZdETbEi5-c25Bdsmwpzc4gllcOGpLmA&usqp=CAU" group-title="10.RADIO", Hitz
+https://github.com/AqFad2811/RadioYTLive/raw/main/Hitz.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrB3qZdETbEi5-c25Bdsmwpzc4gllcOGpLmA&usqp=CAU" group-title="10.RADIO", I-RADIO
+http://stream.radiojar.com/4ywdgup3bnzuv
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrB3qZdETbEi5-c25Bdsmwpzc4gllcOGpLmA&usqp=CAU" group-title="10.RADIO",Hitz FM
+http://astro1.rastream.com/hitz
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrB3qZdETbEi5-c25Bdsmwpzc4gllcOGpLmA&usqp=CAU" group-title="10.RADIO",RRI
+https://cdnmeraukepro1.rri.co.id/web-rrimeraukepro1.mp3
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrB3qZdETbEi5-c25Bdsmwpzc4gllcOGpLmA&usqp=CAU" group-title="10.RADIO",PRAMBORS
+https://22253.live.streamtheworld.com/PRAMBORS_FM.mp3
+
+
+======VOD FILM INDO =======
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s1.indexmovies.xyz/wp-content/uploads/2021/12/film-ghostbusters-afterlife-2021-lk21-d21.jpg" group-title="(Perbaikan) VOD Film Barat JAX",Ghostbusters: Afterlife (2021)
+https://www.googleapis.com/drive/v3/files/1bVWGCEwKkzhgyx1E9NNzYoBiIrIvqwYB?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIGu_gFgibWbSnd23Mt79iMs80jZxy8DY3Hw&usqp=CAU" group-title="(Perbaikan) VOD Film Barat JAX",Harry Potter and the Goblet of Fire (2005)
+https://cloud.dubbindo.xyz/upload/videos/2022/06/HarryPotterandtheGobletofFire2005Dubbing_04_F1QipO6GBZIWXhbWXZR_video_720p_converted.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c3/Pathaan_film_poster.jpg" group-title="(Perbaikan) VOD Film Barat JAX",Pathaan (2023) 
+https://moon-100ge-streaming-server.dvsdvsdvsdva.com/hls2/01/02913/m3m53nsr9fou_n/index-v1-a1.m3u8?t=GKQCFPge0TNE5T7iIt4eSKCwVDVbsqX-I369QnzPYKg&s=1676389376&e=43200&f=14568999&srv=moon-storage-delivery-s63.dvsdvsdvsdva.com&asn=24203&sp=3000
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlzPTnijAiU83fXx25Og3bcDTYSMzFIafaaA&usqp=CAU" group-title="(Perbaikan) VOD Film Barat JAX",Sakra (2023)
+https://downloadpilem.com/playlist/aXhsWUg0aGNBMDd2Nm5JLzBEWDZQSXJMV3FhWERrRit5VjA3V0NLWUhEOHkwQyt0bVR4RHRJY0VxWTJYbkpWMjlPWnBHcmo4NlNJODRTYTh5SG1WRmZBOUx5VnFrT0c1Y2xNT1ZMT3BNRko4T2xIUUlzelc3TzFXekZybWRUSWg,/hls2/01/11183/wnxrfdjbrlr5_l/index-v1-a1.m3u8?data=VTMyeDZKbFM2N1dJcnJ0UlZqeC9NQXEySlNQbDBUZzcrbmw5dStzT0dlL1hmbjJQbUtaUVZFb0xjakY5L0pmM0FhVzVCOXVLMTZBbXBHZ3B4Y1FjZjRJZXVudDRlY0dQVDlOWWpzWXVwT2c9&t=nZNLTGP55o9fmSlIkOGgVZFtc9MNo3nwtX6askkoF68&s=1676385118&e=10800&f=55957821&srv=sto248&client=143.110.160.166&live=true&token=ZlVjWGJQQysycFA4Vm5xNnZLclNyR091cThNeGxIRmJMU1F6Y2lMZ3krcWxhNEJWMUM0MllwVW4zWGhUY2Z6ZDFwUzdVQzNOZHRPU1J4ZU5uRytJS0E9PQ,,
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s7.indexmovies.xyz/wp-content/uploads/2018/09/film-johnny-english-strikes-again2018-lk21.jpg" group-title="(Perbaikan) VOD Film Barat JAX",Johnny English Strikes Again (2018)
+https://stream.xpeer.xyz/xxx/johnny-english-strikes-again-2018/3/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s0.indexmovies.xyz/wp-content/uploads/2022/09/film-conjuring-the-beyond-2022-lk21-d21.jpg" group-title="(Perbaikan) VOD Film Barat JAX",Conjuring: The Beyond (2022)
+https://stream.xpeer.xyz/xxx/conjuring-the-beyond-2022/13/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s5.indexmovies.xyz/wp-content/uploads/2022/09/film-flight-risk-2022-lk21-d21.jpg" group-title="(Perbaikan) VOD Film Barat JAX",Flight/Risk (2022)
+https://stream.xpeer.xyz/xxx/flight-risk-2022/13/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s0.indexmovies.xyz/wp-content/uploads/2022/09/film-emily-the-criminal-2022-lk21-d21.jpg" group-title="(Perbaikan) VOD Film Barat JAX",Emily the Criminal (2022)
+https://stream.xpeer.xyz/xxx/emily-the-criminal-2022/13/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s0.indexmovies.xyz/wp-content/uploads/2022/09/film-ek-villain-returns-2022-lk21-d21.jpg" group-title="(Perbaikan) VOD Film Barat JAX",Ek Villain Returns (2022)
+https://stream.xpeer.xyz/xxx/ek-villain-returns-2022/13/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s7.indexmovies.xyz/wp-content/uploads/2022/09/film-vr-vikrant-rona-2022-lk21-d21.jpg" group-title="(Perbaikan) VOD Film Barat JAX",VR (Vikrant Rona) (2022)
+https://stream.xpeer.xyz/xxx/vr-vikrant-rona-2022/13/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s5.indexmovies.xyz/wp-content/uploads/2022/04/film-miracle-in-cell-no-7-2019-lk21-d21.jpg" group-title="(Perbaikan) VOD Film Barat JAX",Miracle in Cell No. 7 (2019)
+https://stream.xpeer.xyz/xxx/miracle-in-cell-no-7-2019/1/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s0.indexmovies.xyz/wp-content/uploads/2022/09/film-mat-kilau-2022-lk21-d21.jpg" group-title="(Perbaikan) VOD Film Barat JAX",Mat Kilau (2022)
+https://stream.xpeer.xyz/xxx/mat-kilau-2022/13/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s7.indexmovies.xyz/wp-content/uploads/2022/09/film-obi-wan-kenobi-a-jedis-return-2022-lk21-d21.jpg" group-title="(Perbaikan) VOD Film Barat JAX",Obi-Wan Kenobi: A Jedi&#8217;s Return (2022)
+https://stream.xpeer.xyz/xxx/obi-wan-kenobi-a-jedis-return-2022/13/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s5.indexmovies.xyz/wp-content/uploads/2015/12/film-miracle-in-cell-no-7-2013.jpg" group-title="(Perbaikan) VOD Film Barat JAX",Miracle in Cell No. 7 (2013)
+https://stream.xpeer.xyz/xxx/miracle-cell-no-7-2013/1/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s1.indexmovies.xyz/wp-content/uploads/2022/09/film-beast-2022-2-lk21-d21.jpg" group-title="(Perbaikan) VOD Film Barat JAX",Beast (2022)
+https://stream.xpeer.xyz/xxx/beast-2022-2/13/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.indexmovies.xyz/wp-content/uploads/2022/07/film-sniper-the-white-raven-2022-lk21-d21.jpg" group-title="(Perbaikan) VOD Film Barat JAX",Sniper. The White Raven (2022)
+https://stream.xpeer.xyz/xxx/sniper-the-white-raven-2022-03.09.2022-06.05.41/1/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s4.indexmovies.xyz/wp-content/uploads/2022/09/film-hansan-rising-dragon-2022-lk21-d21.jpg" group-title="(Perbaikan) VOD Film Barat JAX",Hansan: Rising Dragon (2022)
+https://stream.xpeer.xyz/xxx/hansan-rising-dragon-2022/1/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s6.indexmovies.xyz/wp-content/uploads/2022/09/film-fall-2022-lk21-d21.jpg" group-title="(Perbaikan) VOD Film Barat JAX",Fall (2022)
+https://stream.xpeer.xyz/xxx/fall-2022/1/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s1.indexmovies.xyz/wp-content/uploads/2022/02/film-fallen-2022-lk21-d21.jpg" group-title="(Perbaikan) VOD Film Barat JAX",Fallen (2022)
+https://stream.xpeer.xyz/xxx/fallen-2022/6/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s7.indexmovies.xyz/wp-content/uploads/2022/09/film-pinocchio-2022-lk21-d21.jpg" group-title="(Perbaikan) VOD Film Barat JAX",Pinocchio (2022)
+https://stream.xpeer.xyz/xxx/pinocchio-2022/13/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s6.indexmovies.xyz/wp-content/uploads/2022/09/film-emergency-declaration-2022-lk21-d21.jpg" group-title="(Perbaikan) VOD Film Barat JAX",Emergency Declaration (2022)
+https://stream.xpeer.xyz/xxx/emergency-declaration-2022/13/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/e4J1S8pm90aWoIsoJJlt099CtA.jpg" group-title="(Perbaikan) VOD Film Barat JAX",The Gray Man (2022)
+https://stream.xpeer.xyz/xxx/the-gray-man-2022/1/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s0.indexmovies.xyz/wp-content/uploads/2022/05/film-top-gun-maverick-2022-lk21-d21.jpg" group-title="(Perbaikan) VOD Film Barat JAX",Top Gun: Maverick (2022)
+https://stream.xpeer.xyz/xxx/top-gun-maverick-2022-26.08.2022-08.13.20/1/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s1.indexmovies.xyz/wp-content/uploads/2022/07/film-thor-love-and-thunder-2022-lk21-d21.jpg" group-title="(Perbaikan) VOD Film Barat JAX",Thor: Love and Thunder (2022)
+https://stream.xpeer.xyz/xxx/thor-love-and-thunder-2022-16.09.2022-07.44.56/13/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s1.indexmovies.xyz/wp-content/uploads/2022/07/film-minions-the-rise-of-gru-2022-lk21-d21.jpg" group-title="(Perbaikan) VOD Film Barat JAX",Minions: The Rise of Gru (2022)
+https://stream.xpeer.xyz/xxx/minions-the-rise-of-gru-2022-28.08.2022-08.38.11/1/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s5.indexmovies.xyz/wp-content/uploads/2022/06/film-jurassic-world-dominion-2022-lk21-d21.jpg" group-title="(Perbaikan) VOD Film Barat JAX",Jurassic World Dominion (2022)
+https://stream.xpeer.xyz/xxx/jurassic-world-dominion-2022/1/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s6.indexmovies.xyz/wp-content/uploads/2022/05/film-doctor-strange-in-the-multiverse-of-madness-2022-lk21-d21.jpg" group-title="(Perbaikan) VOD Film Barat JAX",Doctor Strange in the Multiverse of Madness (2022)
+https://cloud.dubbindo.xyz/upload/videos/2022/06/ylIMx1nHOLFAIBGnpec6_23_77262ddaa15ca9ae47efcb91094f804e_video_360p_converted.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s1.indexmovies.xyz/wp-content/uploads/2022/06/film-ip-man-the-awakening-2022-lk21-d21.jpg" group-title="(Perbaikan) VOD Film Barat JAX",Ip Man: The Awakening (2022)
+https://stream.xpeer.xyz/xxx/ip-man-the-awakening-2022/1/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.indexmovies.xyz/wp-content/uploads/2021/05/film-f9-2021-lk21.jpg" group-title="(Perbaikan) VOD Film Barat JAX",F9 Fast & Furious 9 (2021)
+https://cloud.dubbindo.xyz/upload/videos/2022/05/ssBCUP6WrxNFLA8KWSIW_10_6449d39662c86bc2f4fe8049b98f86be_video_360p_converted.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjE1OTIxMzQzNV5BMl5BanBnXkFtZTgwNzkxMTE3MjI@._V1_.jpg" group-title="(Perbaikan) VOD Film Barat JAX",The Boss Baby (2017)
+https://stream.xpeer.xyz/xxx/boss-baby-2017/1/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s0.indexmovies.xyz/wp-content/uploads/2021/07/film-the-boss-baby-family-business-2021-lk21.jpg" group-title="(Perbaikan) VOD Film Barat JAX",The Boss Baby: Family Business (2021)
+https://stream.xpeer.xyz/xxx/the-boss-baby-family-business-2021/1/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s4.indexmovies.xyz/wp-content/uploads/2022/06/film-the-spy-who-never-dies-2022-lk21-d21.jpg" group-title="(Perbaikan) VOD Film Barat JAX",The Spy Who Never Dies (2022)
+https://stream.xpeer.xyz/xxx/the-spy-who-never-dies-2022/1/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s5.indexmovies.xyz/wp-content/uploads/2022/06/film-attack-2022-lk21-d21.jpg" group-title="(Perbaikan) VOD Film Barat JAX",Attack (2022)
+https://stream.xpeer.xyz/xxx/attack-2022/1/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s4.indexmovies.xyz/wp-content/uploads/2022/06/film-the-siege-of-robin-hood-2022-lk21-d21.jpg" group-title="(Perbaikan) VOD Film Barat JAX",The Siege of Robin Hood (2022)
+https://stream.xpeer.xyz/xxx/the-siege-of-robin-hood-2022/1/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s4.indexmovies.xyz/wp-content/uploads/2022/06/film-the-hero-named-koxinga-2022-lk21-d21.jpg" group-title="(Perbaikan) VOD Film Barat JAX",The Hero Named Koxinga (2022)
+https://stream.xpeer.xyz/xxx/the-hero-named-koxinga-2022/1/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s0.indexmovies.xyz/wp-content/uploads/2022/06/film-hustle-2022-lk21-d21.jpg" group-title="(Perbaikan) VOD Film Barat JAX",Hustle (2022)
+https://stream.xpeer.xyz/xxx/hustle-2022/1/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.indexmovies.xyz/wp-content/uploads/2022/06/film-last-seen-alive-2022-lk21-d21.jpg" group-title="(Perbaikan) VOD Film Barat JAX",Last Seen Alive (2022)
+https://stream.xpeer.xyz/xxx/last-seen-alive-2022/1/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s5.indexmovies.xyz/wp-content/uploads/2022/04/film-the-cellar-2022-lk21-d21.jpg" group-title="(Perbaikan) VOD Film Barat JAX",The Cellar (2022)
+https://stream.xpeer.xyz/xxx/the-cellar-2022/4/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTdmNmI4MzQtZTAzNS00MjhjLWEzOGQtZjI1NDNjZjk4N2JjXkEyXkFqcGdeQXVyMTM0NTUzNDIy._V1_.jpg" group-title="(Perbaikan) VOD Film Barat JAX",Sonic the Hedgehog (2020)
+https://stream.xpeer.xyz/xxx/sonic-the-hedgehog-2020/1/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://blue.kumparan.com/image/upload/v1634025439/30662ad2a33deee611d2d1a12ca4d01492367a871c2f8e6b54a2fc689598f1b1.jpg" group-title="(Perbaikan) VOD Film Barat JAX",Sonic the Hedgehog 2 (2022)
+https://stream.xpeer.xyz/xxx/sonic-the-hedgehog-2-2022/1/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.themoviedb.org/t/p/original/6JjfSchsU6daXk2AKX8EEBjO3Fm.jpg" group-title="(Perbaikan) VOD Film Barat JAX",Morbius (2022)
+https://stream.xpeer.xyz/xxx/morbius-2022/1/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMWEwNjhkYzYtNjgzYy00YTY2LThjYWYtYzViMGJkZTI4Y2MyXkEyXkFqcGdeQXVyNTM0OTY1OQ@@._V1_.jpg" group-title="(Perbaikan) VOD Film Barat JAX",Uncharted (2022)
+https://stream.xpeer.xyz/xxx/uncharted-2022/1/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjMxOTM1OTI4MV5BMl5BanBnXkFtZTgwODE5OTYxMDI@._V1_FMjpg_UX1012_.jpg" group-title="(Perbaikan) VOD Film Barat JAX",Fantastic Beasts and Where to Find Them (2016)
+https://stream.xpeer.xyz/xxx/fantastic-beasts-find-2016/1/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.ctfassets.net/usf1vwtuqyxm/64gP4xWCGIm6suG2qIQAU6/fc36f6b1dd28742d20feb6aebd698a3a/FNBST2_ACTION_GRINDLEWALD_VERT_MAIN_DOM_2764x4096_master.jpg?w=914&q=70&fm=jpg" group-title="(Perbaikan) VOD Film Barat JAX",Fantastic Beasts: The Crimes of Grindelwald (2018)
+https://stream.xpeer.xyz/xxx/fantastic-beasts-the-crimes-of-grindelwald-2018/1/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/M/MV5BZGQ1NjQyNDMtNzFlZS00ZGIzLTliMWUtNGJkMGMzNTBjNDg0XkEyXkFqcGdeQXVyMTE1NDI5MDQx._V1_.jpg" group-title="(Perbaikan) VOD Film Barat JAX",Fantastic Beasts: The Secrets of Dumbledore (2022)
+https://stream.xpeer.xyz/xxx/fantastic-beasts-the-secrets-of-dumbledore-2022/1/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Pzr8ntG/the-batman-2.jpg" group-title="(Perbaikan) VOD Film Barat JAX",The Batman (2022)
+https://stream.xpeer.xyz/xxx/the-batman-2022/1/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.indexmovies.xyz/wp-content/uploads/2021/12/film-spider-man-no-way-home-2021-lk21-d21.jpg" group-title="(Perbaikan) VOD Film Barat JAX",Spider-Man: No Way Home (2021)
+https://stream.xpeer.xyz/xxx/spider-man-no-way-home-2021/1/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s5.indexmovies.xyz/wp-content/uploads/2022/05/film-the-lost-city-2022-lk21-d21.jpg" group-title="(Perbaikan) VOD Film Barat JAX",The Lost City (2022)
+https://stream.xpeer.xyz/xxx/the-lost-city-2022/1/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s4.indexmovies.xyz/wp-content/uploads/2022/04/film-ambulance-2022-lk21-d21.jpg" group-title="(Perbaikan) VOD Film Barat JAX",Ambulance (2022)
+https://stream.xpeer.xyz/xxx/ambulance-2022/1/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s4.indexmovies.xyz/wp-content/uploads/2022/03/film-moonfall-2022-lk21-d21.jpg" group-title="(Perbaikan) VOD Film Barat JAX",Moonfall (2022)
+https://stream.xpeer.xyz/xxx/moonfall-2022/1/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s1.indexmovies.xyz/wp-content/uploads/2022/04/film-yaksha-ruthless-operations-2022-lk21-d21.jpg" group-title="(Perbaikan) VOD Film Barat JAX",Yaksha: Ruthless Operations (2022)
+https://stream.xpeer.xyz/xxx/yaksha-ruthless-operations-2022/1/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s0.indexmovies.xyz/wp-content/uploads/2022/05/film-the-northman-2022-lk21-d21.jpg" group-title="(Perbaikan) VOD Film Barat JAX",The Northman (2022)
+https://stream.xpeer.xyz/xxx/the-northman-2022/1/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s1.indexmovies.xyz/wp-content/uploads/2022/03/film-turning-red-2022-lk21-d21.jpg" group-title="(Perbaikan) VOD Film Barat JAX",Turning Red (2022)
+https://stream.xpeer.xyz/xxx/turning-red-2022/1/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s6.indexmovies.xyz/wp-content/uploads/2022/05/film-memory-2022-lk21-d21.jpg" group-title="(Perbaikan) VOD Film Barat JAX",Memory (2022)
+https://stream.xpeer.xyz/xxx/memory-2022/1/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s5.indexmovies.xyz/wp-content/uploads/2019/05/film-john-wick-chapter-3-parabellum-2019-lk21.jpg" group-title="(Perbaikan) VOD Film Barat JAX",John Wick: Chapter 3 &#8211; Parabellum (2019)
+https://stream.xpeer.xyz/xxx/john-wick-chapter-3-parabellum-2019/1/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.indexmovies.xyz/wp-content/uploads/2017/02/film-john-wick-chapter-2-2017.jpg" group-title="(Perbaikan) VOD Film Barat JAX",John Wick: Chapter 2 (2017)
+https://stream.xpeer.xyz/xxx/john-wick-chapter-2-2017-2/1/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s5.indexmovies.xyz/wp-content/uploads/2016/01/film-john-wick-2014.jpg" group-title="(Perbaikan) VOD Film Barat JAX",John Wick (2014)
+https://stream.xpeer.xyz/xxx/john-wick-2014/1/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.indexmovies.xyz/wp-content/uploads/2022/10/film-smile-2022-lk21-d21.jpg" group-title="(Perbaikan) VOD Film Barat JAX",Smile (2022)
+https://stream.xpeer.xyz/xxx/smile-2022-03.11.2022-09.30.07/17/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s7.indexmovies.xyz/wp-content/uploads/2016/12/film-the-autopsy-of-jane-doe-2016.jpg" group-title="(Perbaikan) VOD Film Barat JAX",The Autopsy of Jane Doe (2016)
+https://stream.xpeer.xyz/xxx/autopsy-jane-doe-2016/5/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s0.indexmovies.xyz/wp-content/uploads/2022/10/film-black-adam-2022-lk21-d21.jpg" group-title="(Perbaikan) VOD Film Barat JAX",Black Adam (2022)
+https://stream.xpeer.xyz/xxx/black-adam-2022-16.11.2022-12.54.17/17/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s4.indexmovies.xyz/wp-content/uploads/2019/10/film-joker-2019-lk21.jpg" group-title="(Perbaikan) VOD Film Barat JAX",Joker (2019)
+https://stream.xpeer.xyz/xxx/joker-2019/1/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s2.indexmovies.xyz/wp-content/uploads/2022/05/film-the-bad-guys-2022-lk21-d21.jpg" group-title="(Perbaikan) VOD Film Barat JAX",The Bad Guys (2022)
+https://stream.xpeer.xyz/xxx/the-bad-guys-2022/1/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.indexmovies.xyz/wp-content/uploads/2022/07/film-the-princess-2022-lk21-d21.jpg" group-title="(Perbaikan) VOD Film Barat JAX",The Princess (2022)
+https://stream.xpeer.xyz/xxx/the-princess-2022/1/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s0.indexmovies.xyz/wp-content/uploads/2018/06/film-homesick-de-naermeste-2015-lk21.jpg" group-title="(Perbaikan) VOD Film Barat JAX",Homesick (De naermeste) (2015)
+https://stream.xpeer.xyz/xxx/homesick-de-naermeste-2015/1/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s0.indexmovies.xyz/wp-content/uploads/2022/06/film-folk-legends-the-water-monkeys-2022-lk21-d21.jpg" group-title="(Perbaikan) VOD Film Barat JAX",Folk Legends: The Water Monkeys (2022)
+https://stream.xpeer.xyz/xxx/folk-legends-the-water-monkeys-2022/1/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s7.indexmovies.xyz/wp-content/uploads/2022/06/film-onlyfans-2022-lk21-d21.jpg" group-title="(Perbaikan) VOD Film Barat JAX",OnlyFans (2022)
+https://stream.xpeer.xyz/xxx/onlyfans-2022/1/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.indexmovies.xyz/wp-content/uploads/2022/06/film-the-man-from-toronto-2022-lk21-d21.jpg" group-title="(Perbaikan) VOD Film Barat JAX",The Man from Toronto (2022)
+https://stream.xpeer.xyz/xxx/the-man-from-toronto-2022/1/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s6.indexmovies.xyz/wp-content/uploads/2022/07/02899fbe0bc403c1b961d.jpg" group-title="(Perbaikan) VOD Film Barat JAX",The Exorcist (2022)
+https://stream.xpeer.xyz/xxx/the-exorcist-2022/1/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s1.indexmovies.xyz/wp-content/uploads/2022/07/film-cracked-2022-lk21-d21.jpg" group-title="(Perbaikan) VOD Film Barat JAX",Cracked (2022)
+https://stream.xpeer.xyz/xxx/cracked-2022/1/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s1.indexmovies.xyz/wp-content/uploads/2021/12/film-resident-evil-welcome-to-raccoon-city-2021-lk21-d21.jpg" group-title="(Perbaikan) VOD Film Barat JAX",Resident Evil: Welcome to Raccoon City (2021)
+https://stream.xpeer.xyz/xxx/resident-evil-welcome-to-raccoon-city-2021/1/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s7.indexmovies.xyz/wp-content/uploads/2022/07/film-hot-blooded-2022-lk21-d21.jpg" group-title="(Perbaikan) VOD Film Barat JAX",Hot Blooded (2022)
+https://stream.xpeer.xyz/xxx/hot-blooded-2022/1/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s4.indexmovies.xyz/wp-content/uploads/2022/07/film-dhaakad-2022-lk21-d21.jpg" group-title="(Perbaikan) VOD Film Barat JAX",Dhaakad (2022)
+https://stream.xpeer.xyz/xxx/dhaakad-2022/1/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s1.indexmovies.xyz/wp-content/uploads/2022/06/film-anek-2022-lk21-d21.jpg" group-title="(Perbaikan) VOD Film Barat JAX",Anek (2022)
+https://stream.xpeer.xyz/xxx/anek-2022/1/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s2.indexmovies.xyz/wp-content/uploads/2022/07/film-samrat-prithviraj-2022-lk21-d21.jpg" group-title="(Perbaikan) VOD Film Barat JAX",Samrat Prithviraj (2022)
+https://stream.xpeer.xyz/xxx/samrat-prithviraj-2022/1/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s5.indexmovies.xyz/wp-content/uploads/2022/07/film-the-legend-of-yang-jian-2022-lk21-d21.jpg" group-title="(Perbaikan) VOD Film Barat JAX",The Legend of Yang Jian (2022)
+https://stream.xpeer.xyz/xxx/the-legend-of-yang-jian-2022/1/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s2.indexmovies.xyz/wp-content/uploads/2022/04/film-everything-everywhere-all-at-once-2022-lk21-d21.jpg" group-title="(Perbaikan) VOD Film Barat JAX",Everything Everywhere All at Once (2022)
+https://stream.xpeer.xyz/xxx/everything-everywhere-all-at-once-2022/1/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s7.indexmovies.xyz/wp-content/uploads/2022/07/film-the-sea-beast-2022-lk21-d21.jpg" group-title="(Perbaikan) VOD Film Barat JAX",The Sea Beast (2022)
+https://stream.xpeer.xyz/xxx/the-sea-beast-2022/1/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.indexmovies.xyz/wp-content/uploads/2022/03/film-fresh-2022-lk21-d21.jpg" group-title="(Perbaikan) VOD Film Barat JAX",Fresh (2022)
+https://stream.xpeer.xyz/xxx/fresh-2022/1/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s1.indexmovies.xyz/wp-content/uploads/2019/04/film-avengers-endgame-2019-lk21.jpg" group-title="(Perbaikan) VOD Film Barat JAX",Avengers: Endgame (2019)
+https://stream.xpeer.xyz/xxx/avengers-endgame-2019/1/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s0.indexmovies.xyz/wp-content/uploads/2022/07/film-code-name-banshee-2022-lk21-d21.jpg" group-title="(Perbaikan) VOD Film Barat JAX",Code Name Banshee (2022)
+https://stream.xpeer.xyz/xxx/code-name-banshee-2022/1/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.indexmovies.xyz/wp-content/uploads/2021/11/film-finch-2021-d21.jpg" group-title="(Perbaikan) VOD Film Barat JAX",Finch (2021)
+https://stream.xpeer.xyz/xxx/finch-2021/1/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.indexmovies.xyz/wp-content/uploads/2022/05/film-the-last-victim-2022-lk21-d21.jpg" group-title="(Perbaikan) VOD Film Barat JAX",The Last Victim (2022)
+https://stream.xpeer.xyz/xxx/the-last-victim-2022/1/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s6.indexmovies.xyz/wp-content/uploads/2020/12/film-minions-holiday-special-2020-lk21.jpg" group-title="(Perbaikan) VOD Film Barat JAX",Minions Holiday Special (2020)
+https://stream.xpeer.xyz/xxx/minions-holiday-special-2020/1/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s2.indexmovies.xyz/wp-content/uploads/2022/07/film-lightyear-2022-lk21-d21.jpg" group-title="(Perbaikan) VOD Film Barat JAX",Lightyear (2022)
+https://stream.xpeer.xyz/xxx/lightyear-2022/1/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s2.indexmovies.xyz/wp-content/uploads/2022/01/film-the-policemans-lineage-2022-lk21-d21.jpg" group-title="(Perbaikan) VOD Film Barat JAX",The Policeman&#8217;s Lineage (2022)
+https://stream.xpeer.xyz/xxx/the-policemans-lineage-2022/1/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s6.indexmovies.xyz/wp-content/uploads/2022/07/film-la-pasajera-2022-lk21-d21.jpg" group-title="(Perbaikan) VOD Film Barat JAX",La pasajera (2022)
+https://stream.xpeer.xyz/xxx/la-pasajera-2022/1/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s0.indexmovies.xyz/wp-content/uploads/2022/06/film-monkey-king-reborn-the-monkey-king-reborn-2021-lk21-d21.jpg" group-title="(Perbaikan) VOD Film Barat JAX",The Monkey King: Reborn (2021)
+https://stream.xpeer.xyz/xxx/monkey-king-reborn-the-monkey-king-reborn-2021/1/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s6.indexmovies.xyz/wp-content/uploads/2022/05/film-the-monkey-king-2022-lk21-d21.jpg" group-title="(Perbaikan) VOD Film Barat JAX",The Monkey King (2022)
+https://stream.xpeer.xyz/xxx/the-monkey-king-2022/1/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s7.indexmovies.xyz/wp-content/uploads/2022/07/film-11th-hour-cleaning-2022-lk21-d21.jpg" group-title="(Perbaikan) VOD Film Barat JAX",11th Hour Cleaning (2022)
+https://stream.xpeer.xyz/xxx/11th-hour-cleaning-2022/1/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s6.indexmovies.xyz/wp-content/uploads/2016/08/film-the-handmaid-2016.jpg" group-title="(Perbaikan) VOD Film Barat JAX",The Handmaiden (Ah-ga-ssi) (2016)
+https://stream.xpeer.xyz/xxx/the-handmaid-2016/1/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.indexmovies.xyz/wp-content/uploads/2015/12/film-3-idiots-2009.jpg" group-title="(Perbaikan) VOD Film Barat JAX",3 Idiots (2009)
+https://stream.xpeer.xyz/xxx/3-idiots-2009/1/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s1.indexmovies.xyz/wp-content/uploads/2016/01/film-rab-ne-bana-di-jodi-2008.jpg" group-title="(Perbaikan) VOD Film Barat JAX",Rab Ne Bana Di Jodi (2008)
+https://stream.xpeer.xyz/xxx/rab-ne-bana-di-jodi-2008/1/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.indexmovies.xyz/wp-content/uploads/2016/01/film-dilwale-2015.jpg" group-title="(Perbaikan) VOD Film Barat JAX",Dilwale (2015)
+https://stream.xpeer.xyz/xxx/dilwale-2015/1/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s5.indexmovies.xyz/wp-content/uploads/2016/01/film-mohabbatein-2000.jpg" group-title="(Perbaikan) VOD Film Barat JAX",Mohabbatein (2000)
+https://stream.xpeer.xyz/xxx/mohabbatein-2000/1/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.indexmovies.xyz/wp-content/uploads/2015/12/film-cj7-2008.jpg" group-title="(Perbaikan) VOD Film Barat JAX",CJ7 (Cheung gong 7 hou) (2008)
+https://stream.xpeer.xyz/xxx/cj7-2008/9/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s5.indexmovies.xyz/wp-content/uploads/2016/01/film-kung-fu-hustle-2004.jpg" group-title="(Perbaikan) VOD Film Barat JAX",Kung Fu Hustle (Kung fu) (2004)
+https://stream.xpeer.xyz/xxx/kung-fu-hustle-2004/1/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s6.indexmovies.xyz/wp-content/uploads/2016/05/film-shaolin-soccer-2001.jpg" group-title="(Perbaikan) VOD Film Barat JAX",Shaolin Soccer (Siu Lam juk kau) (2001)
+https://stream.xpeer.xyz/xxx/shaolin-soccer-2001/1/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s2.indexmovies.xyz/wp-content/uploads/2016/06/film-king-comedy-1999.jpg" group-title="(Perbaikan) VOD Film Barat JAX",King of Comedy (Hei kek ji wong) (1999)
+https://stream.xpeer.xyz/xxx/king-comedy-1999/9/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.indexmovies.xyz/wp-content/uploads/2016/04/film-the-mermaid-2016.jpg" group-title="(Perbaikan) VOD Film Barat JAX",The Mermaid (Mei ren yu) (2016)
+https://stream.xpeer.xyz/xxx/the-mermaid-2016/4/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s4.indexmovies.xyz/wp-content/uploads/2016/06/film-journey-west-2013.jpg" group-title="(Perbaikan) VOD Film Barat JAX",Journey to the West (Xi you: Xiang mo pian) (2013)
+https://stream.xpeer.xyz/xxx/journey-west-2013/6/360.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s7.indexmovies.xyz/wp-content/uploads/2015/12/film-pk-2014.jpg" group-title="(Perbaikan) VOD Film Barat JAX",PK (2014)
+https://stream.xpeer.xyz/xxx/pk-2014/3/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s2.indexmovies.xyz/wp-content/uploads/2022/08/film-day-shift-2022-lk21-d21.jpg" group-title="(Perbaikan) VOD Film Barat JAX",Day Shift (2022)
+https://stream.xpeer.xyz/xxx/day-shift-2022/1/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.indexmovies.xyz/wp-content/uploads/2015/12/film-inception-2010.jpg" group-title="(Perbaikan) VOD Film Barat JAX",Inception (2010)
+https://stream.xpeer.xyz/xxx/inception-2010/1/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cloud.dubbindo.xyz/upload/photos/2021/10/bHGFQ6ZARDurHXjSqkNi_19_51721b1f33cea4d0fc64648ca650f615_image.jpg" group-title="VOD Animasi JAX",Upin & Ipin: Keris Siamang Tunggal (2019) Dubbing Indonesia
+https://cloud.dubbindo.xyz/upload/videos/2021/10/UpinandIpinKerisSiamangTunggal2019WEB720p_19_kq7j5dy8dpzf_video_360p_converted.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s1.indexmovies.xyz/wp-content/uploads/2022/11/film-one-piece-film-red-2022-lk21-d21.jpg" group-title="VOD Animasi JAX",One Piece Film: Red (2022)
+https://cdn018.sh-content.com/hls2/01/00022/qyxr33z83a65_o/master.m3u8?t=GOAX8r1ZSYOLLkwn5IEZxFVk9BwX3f3NXW166v067ws&s=1676301748&e=43200&f=114168&srv=sto007&i=0.0&sp=500&p1=sto007&p2=sto007
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://104.237.198.198/wp-content/uploads/2022/06/Nonton-Film-Dragon-Ball-Super-Super-Hero-Sub-Indo.jpg" group-title="VOD Animasi JAX",Dragon Ball Super: Super Hero (2022)
+https://server46.goyusa.mom/index2.php?v=OXd3MnBsQjQwZFl1M1Z3YVVPUDBLV1BlNERQVDc4Y3F4K1BOVzViVzJhdkVhOC93TytmU1BwWnZUazcvWWNnRQ==&t=1676301970&res=360
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cloud.dubbindo.xyz/upload/photos/2021/03/KeHGorxTLiVFpfWPxxC2_21_6c0955c8029657fc462848fbaaad7723_image.jpg" group-title="VOD Animasi JAX",Toy Story (1995) Dubbing Indonesia
+https://cldup.com/iAs8qzOwTf8.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cloud.dubbindo.xyz/upload/photos/2021/04/YS3YBdZIJDQMxdn3XE7c_04_f6f0965481eacff42fa6ea774eed9b12_image.jpg" group-title="VOD Animasi JAX",Boruto: Naruto the Movie Dubbing Indonesia
+https://cldup.com/iT78eUnPLvQ.mkv?download=Boruto-Naruto.The.Movie.Dubbing.Indonesia.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cloud.dubbindo.xyz/upload/photos/2022/10/pN5cjQTOoMp4khBgvLZE_17_1b37d39ddc9e962ddf864aec55130aac_image.png" group-title="VOD Animasi JAX",Stand by Me Doraemon (2014) Dubbing Indonesia
+https://cloud.dubbindo.xyz/upload/videos/2022/10/BXnvI6aWMMvUlCSA6R8A_17_f2280332e20c078c4e8752a3c1f47737_video_360p_converted.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cloud.dubbindo.xyz/upload/photos/2021/03/D3px68FQstf194KA8uLA_16_1b4deb11c2b4c56270b5441c03226143_image.jpg" group-title="VOD Animasi JAX",Cars 3 (2017) Subtitle Indonesia
+https://cldup.com/umeprGE6CKg/PBahru.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cloud.dubbindo.xyz/upload/photos/2022/08/IFeMgnsYEvaQt7gcqmYN_12_aed98ed291c0e52144f9e4db29a287de_image.jpg" group-title="VOD Animasi JAX",Casper A Spirited Beginning (1997) Dubbing Indonesia
+https://cloud.dubbindo.xyz/upload/videos/2022/08/maRnmDkMD4C7E52n9HTj_12_2229a777811b55d645f1efd6ac38517c_video_240p_converted.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://104.237.198.194/wp-content/uploads/2022/06/Nonton-Film-Money-Heist-Korea-Joint-Economic-Area.jpg" group-title="VOD Series Barat JAX",Money Heist Korea Joint Economic Area Episode 1 (2022)
+http://23.226.71.76/y7oG550VONUrgZq7MVIauNVpuzNDdDXxnEEvRhMwUtHoeOrilmwQJmvVPOObREoPhday6J0n_4RdjnfwVfUJ_g/hThisuCl04hrINcRnWZSJJh9RYEGGxXm1YAW_zAXKVc/video.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://104.237.198.194/wp-content/uploads/2022/06/Nonton-Film-Money-Heist-Korea-Joint-Economic-Area.jpg" group-title="VOD Series Barat JAX",Money Heist Korea Joint Economic Area Episode 2 (2022)
+http://23.226.71.76/PVc5wFSjmoAk4lLrMAD3dSTN_cdvvsv6vqOFMnumx6_U1wdmmhyjgnNZNOHvuHNvreyLSQYyidMjhTrNuIOEUg/_JmaND56D7nuzch3471pbb3wEPyOmpOhL3HoLYLRl8Y/video.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://104.237.198.194/wp-content/uploads/2022/06/Nonton-Film-Money-Heist-Korea-Joint-Economic-Area.jpg" group-title="VOD Series Barat JAX",Money Heist Korea Joint Economic Area Episode 3 (2022)
+http://23.226.71.76/GCw02wNM7RHfp4CzKjNILa1FNIx9xuSFcmC_fV628hJZtkTz8SOVaCVgSy7tAf74dhLlM-bJJ4X6FoXvwN2u8A/BTZhO8L9s4cfJ7o9jDGU0tbiVsCdpvPdykKOrrekQd8/video.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://104.237.198.194/wp-content/uploads/2022/06/Nonton-Film-Money-Heist-Korea-Joint-Economic-Area.jpg" group-title="VOD Series Barat JAX",Money Heist Korea Joint Economic Area Episode 4 (2022)
+http://23.226.71.76/HZnP4ORDM4RgeLC5dkz7JmavBs-qjUhLwK7QDGanP9ye4Ff2pSGMVep0f20tiv7BEIeoPTaCtGNcclzqz7TuqQ/7RyFwUuOZy_wnIM3Tq7V-1U-L0J26tPF7teno2AlYiY/video.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://104.237.198.194/wp-content/uploads/2022/06/Nonton-Film-Money-Heist-Korea-Joint-Economic-Area.jpg" group-title="VOD Series Barat JAX",Money Heist Korea Joint Economic Area Episode 5 (2022)
+http://23.226.71.76/73mhKVH9Z47Lc7Aoiy23qMTgEnb3o0q7KEAPee95gQ2MZ_paSxkHWhyuwo_BZR2Ia_5jJiZ2ruAJoJq888QXBQ/2qe4K6e1Mje7KAQdphAa1AIrB19FpksvJioYK-ealvk/video.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://104.237.198.194/wp-content/uploads/2022/06/Nonton-Film-Money-Heist-Korea-Joint-Economic-Area.jpg" group-title="VOD Series Barat JAX",Money Heist Korea Joint Economic Area Episode 6 (2022)
+http://23.226.71.76/dfmTnXttwAT6aMhhnOOwjrLESJvVE_YOtaWzoOViWpfM46FB-Gjw3-SMf-5n-FeBU5LAUKd2tdAX5LGNqyxfsg/Qe_PXNL8pYlXdD6ybJiq3HE8KgCVapL2Eh4An1kMC9k/video.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s6.indexmovies.xyz/wp-content/uploads/2022/09/film-the-lord-of-the-rings-the-rings-of-power-2022-lk21-d21.jpg" group-title="VOD Series Barat JAX",The Lord of the Rings: The Rings of Power Episode 1 (2022)
+https://stream.xpeer.xyz/xxx/the-lord-of-the-rings-the-rings-of-power-season-1-episode-1-2022/10/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s6.indexmovies.xyz/wp-content/uploads/2022/09/film-the-lord-of-the-rings-the-rings-of-power-2022-lk21-d21.jpg" group-title="VOD Series Barat JAX",The Lord of the Rings: The Rings of Power Episode 2 (2022)
+https://stream.xpeer.xyz/xxx/the-lord-of-the-rings-the-rings-of-power-season-1-episode-2-2022/10/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s6.indexmovies.xyz/wp-content/uploads/2022/09/film-the-lord-of-the-rings-the-rings-of-power-2022-lk21-d21.jpg" group-title="VOD Series Barat JAX",The Lord of the Rings: The Rings of Power Episode 3 (2022)
+https://stream.xpeer.xyz/xxx/the-lord-of-the-rings-the-rings-of-power-season-1-episode-3-2022/13/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s6.indexmovies.xyz/wp-content/uploads/2022/09/film-the-lord-of-the-rings-the-rings-of-power-2022-lk21-d21.jpg" group-title="VOD Series Barat JAX",The Lord of the Rings: The Rings of Power Episode 4 (2022)
+https://stream.xpeer.xyz/xxx/the-lord-of-the-rings-the-rings-of-power-season-1-episode-4-2022/13/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s6.indexmovies.xyz/wp-content/uploads/2022/09/film-the-lord-of-the-rings-the-rings-of-power-2022-lk21-d21.jpg" group-title="VOD Series Barat JAX",The Lord of the Rings: The Rings of Power Episode 5 (2022)
+https://stream.xpeer.xyz/xxx/the-lord-of-the-rings-the-rings-of-power-season-1-episode-5-2022/16/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s6.indexmovies.xyz/wp-content/uploads/2022/09/film-the-lord-of-the-rings-the-rings-of-power-2022-lk21-d21.jpg" group-title="VOD Series Barat JAX",The Lord of the Rings: The Rings of Power Episode 6 (2022)
+https://stream.xpeer.xyz/xxx/the-lord-of-the-rings-the-rings-of-power-season-1-episode-6-2022/16/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s6.indexmovies.xyz/wp-content/uploads/2022/09/film-the-lord-of-the-rings-the-rings-of-power-2022-lk21-d21.jpg" group-title="VOD Series Barat JAX",The Lord of the Rings: The Rings of Power Episode 7 (2022)
+https://stream.xpeer.xyz/xxx/the-lord-of-the-rings-the-rings-of-power-season-1-episode-7-2022/16/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s6.indexmovies.xyz/wp-content/uploads/2022/09/film-the-lord-of-the-rings-the-rings-of-power-2022-lk21-d21.jpg" group-title="VOD Series Barat JAX",The Lord of the Rings: The Rings of Power Episode 8 (2022)
+https://stream.xpeer.xyz/xxx/the-lord-of-the-rings-the-rings-of-power-season-1-episode-8-2022-20.11.2022-12.04.02/17/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s4.indexmovies.xyz/wp-content/uploads/2022/08/film-she-hulk-attorney-at-law-2022-lk21-d21.jpg" group-title="VOD Series Barat JAX",She-Hulk: Attorney at Law &#8211; Season 1 Episode 1 (2022)
+https://stream.xpeer.xyz/xxx/she-hulk-attorney-at-law-season-1-episode-1-2022/1/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s4.indexmovies.xyz/wp-content/uploads/2022/08/film-she-hulk-attorney-at-law-2022-lk21-d21.jpg" group-title="VOD Series Barat JAX",She-Hulk: Attorney at Law &#8211; Season 1 Episode 2 (2022)
+https://stream.xpeer.xyz/xxx/she-hulk-attorney-at-law-season-1-episode-2-2022/1/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s4.indexmovies.xyz/wp-content/uploads/2022/08/film-she-hulk-attorney-at-law-2022-lk21-d21.jpg" group-title="VOD Series Barat JAX",She-Hulk: Attorney at Law &#8211; Season 1 Episode 3 (2022)
+https://stream.xpeer.xyz/xxx/she-hulk-attorney-at-law-season-1-episode-3-2022/10/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s4.indexmovies.xyz/wp-content/uploads/2022/08/film-she-hulk-attorney-at-law-2022-lk21-d21.jpg" group-title="VOD Series Barat JAX",She-Hulk: Attorney at Law &#8211; Season 1 Episode 4 (2022)
+https://stream.xpeer.xyz/xxx/she-hulk-attorney-at-law-season-1-episode-4-2022/13/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s4.indexmovies.xyz/wp-content/uploads/2022/08/film-she-hulk-attorney-at-law-2022-lk21-d21.jpg" group-title="VOD Series Barat JAX",She-Hulk: Attorney at Law &#8211; Season 1 Episode 5 (2022)
+https://stream.xpeer.xyz/xxx/she-hulk-attorney-at-law-season-1-episode-5-2022/13/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s4.indexmovies.xyz/wp-content/uploads/2022/08/film-she-hulk-attorney-at-law-2022-lk21-d21.jpg" group-title="VOD Series Barat JAX",She-Hulk: Attorney at Law &#8211; Season 1 Episode 6 (2022)
+https://stream.xpeer.xyz/xxx/she-hulk-attorney-at-law-season-1-episode-6-2022/16/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s4.indexmovies.xyz/wp-content/uploads/2022/08/film-she-hulk-attorney-at-law-2022-lk21-d21.jpg" group-title="VOD Series Barat JAX",She-Hulk: Attorney at Law &#8211; Season 1 Episode 6 (2022)
+https://stream.xpeer.xyz/xxx/she-hulk-attorney-at-law-season-1-episode-6-2022/16/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s4.indexmovies.xyz/wp-content/uploads/2022/08/film-she-hulk-attorney-at-law-2022-lk21-d21.jpg" group-title="VOD Series Barat JAX",She-Hulk: Attorney at Law &#8211; Season 1 Episode 7 (2022)
+https://stream.xpeer.xyz/xxx/she-hulk-attorney-at-law-season-1-episode-7-2022/16/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s4.indexmovies.xyz/wp-content/uploads/2022/08/film-she-hulk-attorney-at-law-2022-lk21-d21.jpg" group-title="VOD Series Barat JAX",She-Hulk: Attorney at Law &#8211; Season 1 Episode 8 (2022)
+https://stream.xpeer.xyz/xxx/she-hulk-attorney-at-law-season-1-episode-8-2022/16/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s1.indexmovies.xyz/wp-content/uploads/2022/08/film-house-of-the-dragon-2022-lk21-d21.jpg" group-title="VOD Series Barat JAX",House of the Dragon &#8211; Season 1 Episode 1 (2022)
+https://stream.xpeer.xyz/xxx/house-of-the-dragon-season-1-episode-1-2022/1/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s1.indexmovies.xyz/wp-content/uploads/2022/08/film-house-of-the-dragon-2022-lk21-d21.jpg" group-title="VOD Series Barat JAX",House of the Dragon &#8211; Season 1 Episode 2 (2022)
+https://stream.xpeer.xyz/xxx/house-of-the-dragon-season-1-episode-2-2022/1/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s1.indexmovies.xyz/wp-content/uploads/2022/08/film-house-of-the-dragon-2022-lk21-d21.jpg" group-title="VOD Series Barat JAX",House of the Dragon &#8211; Season 1 Episode 3 (2022)
+https://stream.xpeer.xyz/xxx/house-of-the-dragon-season-1-episode-3-2022/1/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s1.indexmovies.xyz/wp-content/uploads/2022/08/film-house-of-the-dragon-2022-lk21-d21.jpg" group-title="VOD Series Barat JAX",House of the Dragon &#8211; Season 1 Episode 4 (2022)
+https://stream.xpeer.xyz/xxx/house-of-the-dragon-season-1-episode-4-2022/13/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s1.indexmovies.xyz/wp-content/uploads/2022/08/film-house-of-the-dragon-2022-lk21-d21.jpg" group-title="VOD Series Barat JAX",House of the Dragon &#8211; Season 1 Episode 5 (2022)
+https://stream.xpeer.xyz/xxx/house-of-the-dragon-season-1-episode-5-2022/13/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s1.indexmovies.xyz/wp-content/uploads/2022/08/film-house-of-the-dragon-2022-lk21-d21.jpg" group-title="VOD Series Barat JAX",House of the Dragon &#8211; Season 1 Episode 6 (2022)
+https://stream.xpeer.xyz/xxx/house-of-the-dragon-season-1-episode-6-2022/16/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s1.indexmovies.xyz/wp-content/uploads/2022/08/film-house-of-the-dragon-2022-lk21-d21.jpg" group-title="VOD Series Barat JAX",House of the Dragon &#8211; Season 1 Episode 7 (2022)
+https://stream.xpeer.xyz/xxx/house-of-the-dragon-season-1-episode-7-2022/16/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s4.indexmovies.xyz/wp-content/uploads/2022/08/film-i-am-groot-2022-lk21-d21.jpg" group-title="VOD Series Barat JAX",I Am Groot &#8211; Season 1 Episode 1 (2022)
+https://stream.xpeer.xyz/xxx/i-am-groot-season-1-episode-1-2022/1/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s4.indexmovies.xyz/wp-content/uploads/2022/08/film-i-am-groot-2022-lk21-d21.jpg" group-title="VOD Series Barat JAX",I Am Groot &#8211; Season 1 Episode 2 (2022)
+https://stream.xpeer.xyz/xxx/i-am-groot-season-1-episode-2-2022/1/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s4.indexmovies.xyz/wp-content/uploads/2022/08/film-i-am-groot-2022-lk21-d21.jpg" group-title="VOD Series Barat JAX",I Am Groot &#8211; Season 1 Episode 3 (2022)
+https://stream.xpeer.xyz/xxx/i-am-groot-season-1-episode-3-2022/1/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s4.indexmovies.xyz/wp-content/uploads/2022/08/film-i-am-groot-2022-lk21-d21.jpg" group-title="VOD Series Barat JAX",I Am Groot &#8211; Season 1 Episode 4 (2022)
+https://stream.xpeer.xyz/xxx/i-am-groot-season-1-episode-4-2022/1/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s4.indexmovies.xyz/wp-content/uploads/2022/08/film-i-am-groot-2022-lk21-d21.jpg" group-title="VOD Series Barat JAX",I Am Groot &#8211; Season 1 Episode 5 (2022)
+https://stream.xpeer.xyz/xxx/i-am-groot-season-1-episode-5-2022/1/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s4.indexmovies.xyz/wp-content/uploads/2022/06/film-man-vs-bee-2022-lk21-d21.jpg" group-title="VOD Series Barat JAX",Man vs. Bee &#8211; Season 1 Episode 1 (2022)
+https://stream.xpeer.xyz/xxx/man-vs-bee-season-1-episode-1-2022/1/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s4.indexmovies.xyz/wp-content/uploads/2022/06/film-man-vs-bee-2022-lk21-d21.jpg" group-title="VOD Series Barat JAX",Man vs. Bee &#8211; Season 1 Episode 2 (2022)
+https://stream.xpeer.xyz/xxx/man-vs-bee-season-1-episode-2-2022/3/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s4.indexmovies.xyz/wp-content/uploads/2022/06/film-man-vs-bee-2022-lk21-d21.jpg" group-title="VOD Series Barat JAX",Man vs. Bee &#8211; Season 1 Episode 3 (2022)
+https://stream.xpeer.xyz/xxx/man-vs-bee-season-1-episode-3-2022/3/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s4.indexmovies.xyz/wp-content/uploads/2022/06/film-man-vs-bee-2022-lk21-d21.jpg" group-title="VOD Series Barat JAX",Man vs. Bee &#8211; Season 1 Episode 4 (2022)
+https://stream.xpeer.xyz/xxx/man-vs-bee-season-1-episode-4-2022/3/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s4.indexmovies.xyz/wp-content/uploads/2022/06/film-man-vs-bee-2022-lk21-d21.jpg" group-title="VOD Series Barat JAX",Man vs. Bee &#8211; Season 1 Episode 5 (2022)
+https://stream.xpeer.xyz/xxx/man-vs-bee-season-1-episode-5-2022/3/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s4.indexmovies.xyz/wp-content/uploads/2022/06/film-man-vs-bee-2022-lk21-d21.jpg" group-title="VOD Series Barat JAX",Man vs. Bee &#8211; Season 1 Episode 6 (2022)
+https://stream.xpeer.xyz/xxx/man-vs-bee-season-1-episode-6-2022/3/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s4.indexmovies.xyz/wp-content/uploads/2022/06/film-man-vs-bee-2022-lk21-d21.jpg" group-title="VOD Series Barat JAX",Man vs. Bee &#8211; Season 1 Episode 7 (2022)
+https://stream.xpeer.xyz/xxx/man-vs-bee-season-1-episode-7-2022/3/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s4.indexmovies.xyz/wp-content/uploads/2022/06/film-man-vs-bee-2022-lk21-d21.jpg" group-title="VOD Series Barat JAX",Man vs. Bee &#8211; Season 1 Episode 8 (2022)
+https://stream.xpeer.xyz/xxx/man-vs-bee-season-1-episode-8-2022/3/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s4.indexmovies.xyz/wp-content/uploads/2022/06/film-man-vs-bee-2022-lk21-d21.jpg" group-title="VOD Series Barat JAX",Man vs. Bee &#8211; Season 1 Episode 9 (2022)
+https://stream.xpeer.xyz/xxx/man-vs-bee-season-1-episode-9-2022/3/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s7.indexmovies.xyz/wp-content/uploads/2022/03/film-arrow-2012-lk21-d21.jpg" group-title="VOD Series Barat JAX",Arrow &#8211; Season 8 Episode 1 (2012)
+https://stream.xpeer.xyz/xxx/arrow-season-8-episode-1-2012/7/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s7.indexmovies.xyz/wp-content/uploads/2022/03/film-arrow-2012-lk21-d21.jpg" group-title="VOD Series Barat JAX",Arrow &#8211; Season 8 Episode 2 (2012)
+https://stream.xpeer.xyz/xxx/arrow-season-8-episode-2-2012/7/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s7.indexmovies.xyz/wp-content/uploads/2022/03/film-arrow-2012-lk21-d21.jpg" group-title="VOD Series Barat JAX",Arrow &#8211; Season 8 Episode 3 (2012)
+https://stream.xpeer.xyz/xxx/arrow-season-8-episode-3-2012/7/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s7.indexmovies.xyz/wp-content/uploads/2022/03/film-arrow-2012-lk21-d21.jpg" group-title="VOD Series Barat JAX",Arrow &#8211; Season 8 Episode 4 (2012)
+https://stream.xpeer.xyz/xxx/arrow-season-8-episode-4-2012/7/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s7.indexmovies.xyz/wp-content/uploads/2022/03/film-arrow-2012-lk21-d21.jpg" group-title="VOD Series Barat JAX",Arrow &#8211; Season 8 Episode 5 (2012)
+https://stream.xpeer.xyz/xxx/arrow-season-8-episode-5-2012/7/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s7.indexmovies.xyz/wp-content/uploads/2022/03/film-arrow-2012-lk21-d21.jpg" group-title="VOD Series Barat JAX",Arrow &#8211; Season 8 Episode 6 (2012)
+https://stream.xpeer.xyz/xxx/arrow-season-8-episode-6-2012/7/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s7.indexmovies.xyz/wp-content/uploads/2022/03/film-arrow-2012-lk21-d21.jpg" group-title="VOD Series Barat JAX",Arrow &#8211; Season 8 Episode 7 (2012)
+https://stream.xpeer.xyz/xxx/arrow-season-8-episode-7-2012/7/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s7.indexmovies.xyz/wp-content/uploads/2022/03/film-arrow-2012-lk21-d21.jpg" group-title="VOD Series Barat JAX",Arrow &#8211; Season 8 Episode 8 (2012)
+https://stream.xpeer.xyz/xxx/arrow-season-8-episode-8-2012/7/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s7.indexmovies.xyz/wp-content/uploads/2022/03/film-arrow-2012-lk21-d21.jpg" group-title="VOD Series Barat JAX",Arrow &#8211; Season 8 Episode 9 (2012)
+https://stream.xpeer.xyz/xxx/arrow-season-8-episode-9-2012/8/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s7.indexmovies.xyz/wp-content/uploads/2022/03/film-arrow-2012-lk21-d21.jpg" group-title="VOD Series Barat JAX",Arrow &#8211; Season 8 Episode 10 (2012)
+https://stream.xpeer.xyz/xxx/arrow-season-8-episode-10-2012/8/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://104.237.198.196/wp-content/uploads/2022/09/Nonton-Drakor-Love-In-Contract-Sub-Indo-200x300.jpg" group-title="VOD Series Barat JAX",Love in Contract Episode 1 (2022)
+http://23.226.71.76/eAz4hC6qF1dgLKVCf7k7W3fE1RZGi7Qn83eNRLLyLasQlfVNk2INC-BS69UxEBXuiJSHJ-GO0dCcm4Aw0c1sng/G1sGIlLb8BbLY6F4TdSLaylziJezfkR02ICLv0FTlU8/video.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://104.237.198.196/wp-content/uploads/2022/09/Nonton-Drakor-Love-In-Contract-Sub-Indo-200x300.jpg" group-title="VOD Series Barat JAX",Love in Contract Episode 2 (2022)
+http://23.226.71.76/O_zk_04L2t3j4Fmwshnnoj7xA3GeEiXV8On1TGmPHhebZ0dgCPfJ_MFNEiWjYXfIhMa4mxHQWjTLXKpcRGTmlQ/Q3fx1Xae2xzATdtunkv6vDg7JtuKKhBrWGdHlVDV9kY/video.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://104.237.198.196/wp-content/uploads/2022/09/Nonton-Drakor-Love-In-Contract-Sub-Indo-200x300.jpg" group-title="VOD Series Barat JAX",Love in Contract Episode 3 (2022)
+http://23.226.71.76/d3oltzCJqVyF42uGSUN9hW_cYoBs7vyqXh467eQRl_25jrCVK6ktZcXLQ8gby3GNTzJLXHikhAaLH_2CTFTymw/lshXJ9FzLQQcGv6Wbni4hfUUrx4vsGUtQlGO1-XSyvw/video.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://104.237.198.196/wp-content/uploads/2022/09/Nonton-Drakor-Love-In-Contract-Sub-Indo-200x300.jpg" group-title="VOD Series Barat JAX",Love in Contract Episode 4 (2022)
+http://23.226.71.76/audie565qiCXe37Q_QT1V-IePsCXnQFVMGMwSMTUS8cxdylF19hejhjuYQTmo-nX4WehtYY_IR3NRlh5FRf1TQ/jDJq8SOLyyDwCW_IrKVesrevNW2l7YJ2-OW6aPbFyes/video.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://104.237.198.196/wp-content/uploads/2022/09/Nonton-Drakor-Love-In-Contract-Sub-Indo-200x300.jpg" group-title="VOD Series Barat JAX",Love in Contract Episode 5 (2022)
+https://stream.xpeer.xyz/yyy/love-in-contract-season-1-episode-5-2022/16/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://104.237.198.196/wp-content/uploads/2022/09/Nonton-Drakor-Love-In-Contract-Sub-Indo-200x300.jpg" group-title="VOD Series Barat JAX",Love in Contract Episode 6 (2022)
+http://23.226.71.76/d4T_R99t-HoxPBiiVsx-LAn88-JfmAxD0WCr6GYaFsJIe84W5J_3krZlcUDcoj27W-7Jh4vYoOu_7JDCMagwVw/owLGGZwCdyPNfQDVqswz0kHVh5KhvMCnvsS8ErhZK7o/video.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://104.237.198.196/wp-content/uploads/2022/09/Nonton-Drakor-Love-In-Contract-Sub-Indo-200x300.jpg" group-title="VOD Series Barat JAX",Love in Contract Episode 7 (2022)
+https://stream.xpeer.xyz/xxx/love-in-contract-season-1-episode-7-2022/16/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w154/gJDvYUJcPEDJzB3SnQokifPUtRF.jpg" group-title="VOD Series Barat JAX",Big Mouth Episode 1 (2022)
+http://23.226.71.76/Q7NL78_brj12E3Ag6Ysiafe2dDV4j7GMdyt7q0KXRHGEfQdvDpVyGef5feoySWpIfslF8pg29VvfEBiqj_QQIw/0wNsyXrfR7_c-Q5zjEZKy0QZlgIJ07KX-MdJVgDua5U/video.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w154/gJDvYUJcPEDJzB3SnQokifPUtRF.jpg" group-title="VOD Series Barat JAX",Big Mouth Episode 2 (2022)
+http://23.226.71.76/Wr_9RpKCSTEJ1K1a3KZ_PcWsZ8CyiEQDJrEwounpaTWz1kM2UJE3Z0CMvhkdoRv_sNU1vQgO9dqqA-z0GRrDpw/5PgJZfbJURVEdSALJEF0ERdqT6yGcXT6ZlVf0Sk_Asw/video.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w154/gJDvYUJcPEDJzB3SnQokifPUtRF.jpg" group-title="VOD Series Barat JAX",Big Mouth Episode 3 (2022)
+http://23.226.71.76/ZkV2rzqWj5UoHWs6EBzUDIZWbXErLm8vXdIJ_G7JO_MnQg3_wpoLefLacxl09C1fvuLj268NEx6xCXKlMKfURg/P-OZLttArtnLqcvu6UvAQrm2KN1TcodX5ziVtmeTHtU/video.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w154/gJDvYUJcPEDJzB3SnQokifPUtRF.jpg" group-title="VOD Series Barat JAX",Big Mouth Episode 4 (2022)
+http://23.226.71.76/PSSzAgh7QwLEigE_mgAlrABiZ4ghHMejZLthBny1JklQf2fu-v-ejfT3YhN-Y5n86rYXakp6sx_9KsoOyv-AmA/wIcyaBZpHYzsp9PVKHXOqSGMQsU5Sk3LvnyzaqwZUQ4/video.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w154/gJDvYUJcPEDJzB3SnQokifPUtRF.jpg" group-title="VOD Series Barat JAX",Big Mouth Episode 5 (2022)
+http://23.226.71.76/_XEEpVMZghnyeGoRZNgnGeGLWRjUCoh1ak4orDr0sTaPvUxK0GCBn290GXOCAHon9ceFXQhpGv2ZUOFM9ubjMw/_L1IXWzU-GtvY_l8mcXAJ2emLadXUw2d-_Fcw3_AAJ0/video.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w154/gJDvYUJcPEDJzB3SnQokifPUtRF.jpg" group-title="VOD Series Barat JAX",Big Mouth Episode 6 (2022)
+http://23.226.71.76/fQOnZyT4XCV4OoPJ5wZdFtZ1fcn9YbnS3-wqe_3jf1G3WHWbgNJ_wBFYInq6RhIkELutkc3CiFB-KK7IetX-Tw/DEE5rjOAgn1D-TRXv90eYXSzZzWpV0D6rf7eCEK3uYU/video.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w154/gJDvYUJcPEDJzB3SnQokifPUtRF.jpg" group-title="VOD Series Barat JAX",Big Mouth Episode 7 (2022)
+http://23.226.71.76/ptD1klQKAVDnRMCHBpdR5N6EKsgwLf2GGb9Uq4TzaeFwIsLNHrB25Y7DrP_2tICaH5g0YBU5LFLL95g7mhEAWw/c5zYZUTI-AQgpKvhy-Xt7p1IxQ4bWLci3LJkyjZcyLs/video.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w154/gJDvYUJcPEDJzB3SnQokifPUtRF.jpg" group-title="VOD Series Barat JAX",Big Mouth Episode 8 (2022)
+http://23.226.71.76/n2rxf8IEZS0ARJUBmVuTcb8qoEj2bdodluOJ5Jx32XFwOOyb3yFVWYHL0b0jmn2o5EYoGWt3inbwaZzQznuoEA/y-kvS-1anXUHFHp4AfhX0_mTBkMAqprtpmVFK1ufz6w/video.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w154/gJDvYUJcPEDJzB3SnQokifPUtRF.jpg" group-title="VOD Series Barat JAX",Big Mouth Episode 9 (2022)
+http://23.226.71.76/Am2iYd8fTa1ubUal_xIq5dQvyY6VVxJxL2AFKZaZDn25ptgpRQlfkM9w3GZntKF37MhfGC2DCTbTxXhFd9eHSg/SeVZN_NQRviVG2nOOZ3q17AjSwMsMns5lu8GcEVczGU/video.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w154/gJDvYUJcPEDJzB3SnQokifPUtRF.jpg" group-title="VOD Series Barat JAX",Big Mouth Episode 10 (2022)
+http://23.226.71.76/qDEYhP29EK-gsSpJAyl55ZqHL3tYhwt8SM04pgYH6UF7iY7NDIFKm-5KvtWSqjMS-57xszRu1K6Mi7nJ0-m_Bg/zFwCPnZ8DU54TL7DwQhyxsNbsTpW6LEzig-e9EOsFHA/video.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w154/gJDvYUJcPEDJzB3SnQokifPUtRF.jpg" group-title="VOD Series Barat JAX",Big Mouth Episode 11 (2022)
+http://23.226.71.76/HFcyYnGc9nQkHoipGRllPygShk75o1tHcroMtJmt_r5Co4q4hz6z5b2PUsKJztMSeEKQL_LO_1yFj7L3PoFY5Q/x5PQNEwegOjvv6QgYAIisTOmSzBhN7nUOUa1fHYEGkw/video.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w154/gJDvYUJcPEDJzB3SnQokifPUtRF.jpg" group-title="VOD Series Barat JAX",Big Mouth Episode 12 (2022)
+http://23.226.71.76/0ZlU6XsRbDF9OPaPj04qYy9wq1ne3sys_VaoSUN_ht47id9V3njMzlUp_mVrGctSdzG7tKcNvcXHR11Y7G399A/Jieh7V1JdEIvVt6wA1NuMzLyuFv4imKevmYAgBe_v8Y/video.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w154/gJDvYUJcPEDJzB3SnQokifPUtRF.jpg" group-title="VOD Series Barat JAX",Big Mouth Episode 13 (2022)
+http://23.226.71.76/hhXdPPETUt02DQq6VBJ6Ya9Ec6-Q8tKKjRO1JYrScAVkv8kTTgB0CL8HbbVLETCkV18QwMNu-QVzivi7bsWKEQ/wF5EyljtorhNGjCjg__b4bvAZIsFqwrfumNH25zZr9o/video.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w154/gJDvYUJcPEDJzB3SnQokifPUtRF.jpg" group-title="VOD Series Barat JAX",Big Mouth Episode 14 (2022)
+https://stream.xpeer.xyz/xxx/big-mouth-season-1-episode-14-2022/13/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w154/gJDvYUJcPEDJzB3SnQokifPUtRF.jpg" group-title="VOD Series Barat JAX",Big Mouth Episode 15 (2022)
+http://23.226.71.76/0Zwp1DNd_wAnHwUhIEsABY7t7trXm3g-MFlhqZuslX9E6nQ7FP0vuqjqlwxNPOcbgZ08qpRbYeMsJ8reyL9_gg/80lsnOiXfIxZ8L3ILcnU_TGWF9cGyMQDQMjoiJyF8tk/video.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w154/gJDvYUJcPEDJzB3SnQokifPUtRF.jpg" group-title="VOD Series Barat JAX",Big Mouth Episode 16 (2022)
+http://23.226.71.76/CTkgadYk69n4kPYi7yfeyBeHJydgZ5VRmEapLe_UJcMdZNKqjUUghh5nSHo9WvwSrvQSVnc_6ht6wnwompovng/36kk59t_ORf5wLymm3B0hBjytdpcx0_9hJyY81Xxw00/video.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://104.237.198.198/wp-content/uploads/2022/07/Nonton-Series-Resident-Evil-2022-Sub-Indo.jpg" group-title="VOD Series Barat JAX",Resident Evil &#8211; Season 1 Episode 1 (2022)
+http://23.226.71.76/iLVIkxbtKVvidVA9vWXcVLjHl4JDu58fjNcGa40ePt3i7ZiLT7YO9v5IZ0dIq_E5ns2ZMAOAQan4k1_UIgFUHQ/k13GnFA7O91llsahIAPXfztVWRk07bRO8mYSOgxOKbQ/video.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://104.237.198.198/wp-content/uploads/2022/07/Nonton-Series-Resident-Evil-2022-Sub-Indo.jpg" group-title="VOD Series Barat JAX",Resident Evil &#8211; Season 1 Episode 2 (2022)
+http://23.226.71.76/PigzanT-i-0TQJwjW4d_tb53YKLK_mHMR0Nao9u13GZZ43-a3gbiKqQfj8h1oBKQ02bVpo6WsMVDYaEqEtC8og/Ox-IJtcb2ZOKjHUGS1gBMr6TVFOMx7_vbu8gunU_i_g/video.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://104.237.198.198/wp-content/uploads/2022/07/Nonton-Series-Resident-Evil-2022-Sub-Indo.jpg" group-title="VOD Series Barat JAX",Resident Evil &#8211; Season 1 Episode 3 (2022)
+http://23.226.71.76/v4PYGf6oZJzVvGvGjaJ172b6dXVWBaN2X9g49eSuqYVTLgtD6kAF3P8XjTjtg7wvIREG2ZLn-beTpvyaoiSZCg/1ShSqfZ4PbRFMjStq_nL_eNlWpYRbcbkBxziv0BQrvs/video.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://104.237.198.198/wp-content/uploads/2022/07/Nonton-Series-Resident-Evil-2022-Sub-Indo.jpg" group-title="VOD Series Barat JAX",Resident Evil &#8211; Season 1 Episode 4 (2022)
+http://23.226.71.76/EDg1R2xHNlb4Hmga-IUxg7MFOEhFF_-FyxB2m_ic9j5nSjsGpMBmo9p7lNZTN8I3HaCNBVFYR0oE2fSEvbLtLQ/H-8KBiWAncW0_4xGyZ6MYtbLoTPfHg2huOn_-oeuYXY/video.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://104.237.198.198/wp-content/uploads/2022/07/Nonton-Series-Resident-Evil-2022-Sub-Indo.jpg" group-title="VOD Series Barat JAX",Resident Evil &#8211; Season 1 Episode 5 (2022)
+http://23.226.71.76/dF01tZR9XfgHy5wH9hvcjF4GYJr2Q-osoFi7m7OIDXe6EkDYm7krzgujsoXaQ576oC4zv4qwOEq7P8ErGcT79Q/7To_l5Z1BYRG4jOJ38YFJV0k7QrwkG_ndeDqyE2m0yQ/video.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://104.237.198.198/wp-content/uploads/2022/07/Nonton-Series-Resident-Evil-2022-Sub-Indo.jpg" group-title="VOD Series Barat JAX",Resident Evil &#8211; Season 1 Episode 6 (2022)
+http://23.226.71.76/A50ytkKpBSs1gFDdyrfFrZFw8Fc9pP_R3AHRY4grG2lr-Jef_2tt-T5uOqccXSnJktJ24cwReR7wk0iXjzcxkw/TaOav90oH7y-oXgjlU24LR0nWZBlINGg3p-RFVdtAHI/video.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://104.237.198.198/wp-content/uploads/2022/07/Nonton-Series-Resident-Evil-2022-Sub-Indo.jpg" group-title="VOD Series Barat JAX",Resident Evil &#8211; Season 1 Episode 7 (2022)
+http://23.226.71.76/O_25eEP3AZB3kKOebMlc9HHfXLxpAuAuNE1gp0F8ZqvQgy5yPHwTFLP4NzT2zmtnc9XqByV_o5PIBgLw-NMa4Q/VvRp-rK8szimvpnsge0owFiN_jX45yyBMQ3FhwzI42c/video.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://104.237.198.198/wp-content/uploads/2022/07/Nonton-Series-Resident-Evil-2022-Sub-Indo.jpg" group-title="VOD Series Barat JAX",Resident Evil &#8211; Season 1 Episode 8 (2022)
+http://23.226.71.76/K4CN59fNkqNx2zSZCJSK7sElVYY2ayLs0wwhyXF2q6BM0SJsvcjU0oLJ0ZPsVJUxssnCcDr6hZzAV_dKsLpy3w/2q07ThOlLb5ses6asqKw0heaPgZOyuQRZpoTWBe4WBs/video.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://167.88.14.149/wp-content/uploads/2022/07/The-Sexy-Doctor-Is-Mine-Full.jpg" group-title="VOD Series Indo JAX",The Sexy Doctor is Mine Episode 1 (2022)
+http://23.226.71.76/8EOhWokR2s-HGsi3wxN5zudv4RuhRKazQ7OakdU8IM_XMEeffxvt-ukG-DDTQs3ajUiLVG4tGOjzEw68KxSyzQ/Jx7e4kFvyUuzweL6XMFSYCnw4JnijSOLaDKNXoy4CZc/video.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://167.88.14.149/wp-content/uploads/2022/07/The-Sexy-Doctor-Is-Mine-Full.jpg" group-title="VOD Series Indo JAX",The Sexy Doctor is Mine Episode 2 (2022)
+http://23.226.71.76/nQ0pXnNyqzeVyB19ldweOiJP5etMMdBZcgrRa73xNFWxVcBb4BPak3R84UQt7-YX2Ahwn329u2Cgb_nrhsZPOg/XjsJIBLnQ6GOVlTpZd3jlNdwHSYyQtjWCWrcJiKdGS8/video.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://167.88.14.149/wp-content/uploads/2022/07/The-Sexy-Doctor-Is-Mine-Full.jpg" group-title="VOD Series Indo JAX",The Sexy Doctor is Mine Episode 3 (2022)
+http://23.226.71.76/_EsO4Hg1RP2Q5o8SZY8qABiMsUx6AJ1MgWqwuwuNYNi-q-iFdlUkv4V4mljI8I5ynlAMCfqEr0yBAl1lPMEXwQ/JeF3GjckAx534n8rs4KBilQjwOHDP8dwbkxqWxStYbU/video.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://167.88.14.149/wp-content/uploads/2022/07/The-Sexy-Doctor-Is-Mine-Full.jpg" group-title="VOD Series Indo JAX",The Sexy Doctor is Mine Episode 4 (2022)
+http://23.226.71.76/PZ9bDnxRKtzrVutRba9vELopCq_3pzCf3ZXMZ-q617beLmfTUXAFMlU31ks5345-wPKiNw52jqbxv8JoR8uBnA/SZWwHF6-6zIxlAOVKAjSOUhToZj_FMyRN4pgUDy8Vj4/video.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://167.88.14.149/wp-content/uploads/2022/07/The-Sexy-Doctor-Is-Mine-Full.jpg" group-title="VOD Series Indo JAX",The Sexy Doctor is Mine Episode 5 (2022)
+http://23.226.71.76/yhTjDgTRbdXBzIAwyWJ5gMaQ33-IRrg10TglYcaIn0nFm0mBAi8NJN_h1K64Vcsv45GBXE56dpusmVxI0cdWOA/ouj2aIMoQL8s0ulDuuSp6H1jPwhM_IYaxrxy1aA_t2g/video.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://167.88.14.149/wp-content/uploads/2022/07/The-Sexy-Doctor-Is-Mine-Full.jpg" group-title="VOD Series Indo JAX",The Sexy Doctor is Mine Episode 6 (2022)
+http://23.226.71.76/sgLZFFuOjmhZy-zU3BjaIeTqOMKzJAl4n72lH_QhNQGsBSK1SBzYLqnwy-9ncFoDC2PZ_RDq7KUI6YyDdgDbqw/2Hand4sf-vKuxkHiw_dfjCfhuVmgW-NsqJSmDwV4cQc/video.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://167.88.14.149/wp-content/uploads/2022/07/The-Sexy-Doctor-Is-Mine-Full.jpg" group-title="VOD Series Indo JAX",The Sexy Doctor is Mine Episode 7 (2022)
+http://23.226.71.76/Xd4u-ec7xIVBhBSmdU20rDFZkPFB8U8KvWoJGYc4ZnQAtQGRQGZIMhjKdsUpTcceD2VRC-K7FiucOKpuXIgAnA/Cfkc2jjSDd9VGnmMdXzzPD7v2acpoTfDads-Tdv-C1o/video.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://167.88.14.149/wp-content/uploads/2022/07/The-Sexy-Doctor-Is-Mine-Full.jpg" group-title="VOD Series Indo JAX",The Sexy Doctor is Mine Episode 8 (2022)
+http://23.226.71.76/R4ZLYui_IMqME9cuYr6x8rOHFpW77U8oO9bStCl_0uQUbxbhxPKr5bo0cP6p78-HLUjSh703uTbzQX40rgpXTQ/QWwCO-ZVCLfDS2hgmxlGUiwSIYDr6oXakt7TaIIOYiw/video.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://104.237.198.194/wp-content/uploads/2022/07/Nonton-Series-Serigala-terakhir-2.jpg" group-title="VOD Series Indo JAX",Serigala Terakhir 2 Episode 1 (2022)
+http://23.226.71.76/ZGQLCJGxyNBkUuROE73V4J0ysEfqTcm7vsKmtIEjH9dopyCTbgPj9mSp8gMAxzJAvcyRdVozIqtFpA-gSNAItQ/RMyY4BTXW9lhTMl2FHWFkDkon_KBj6ZZx7B-d3HyUnQ/video.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://104.237.198.194/wp-content/uploads/2022/07/Nonton-Series-Serigala-terakhir-2.jpg" group-title="VOD Series Indo JAX",Serigala Terakhir 2 Episode 2 (2022)
+http://23.226.71.76/96B_mixu4rcnTPCyESenMEycG_m258o1jZBUPkBuGvksA55Tu0jXCo7c53IEOCQNNCpsyIO8SHi6chDjiOiZng/YgsvRHn6jGOECFZ1UyydUMePVuTA5zz4Yl0JyzKXLcA/video.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://104.237.198.194/wp-content/uploads/2022/07/Nonton-Series-Serigala-terakhir-2.jpg" group-title="VOD Series Indo JAX",Serigala Terakhir 2 Episode 3 (2022)
+http://23.226.71.76/dgm0GPiQqK8rXJFufHR707h0iHuk02ZRipQNGHJSQPVcvvfI_n_c6mQ5tOg_m4acrXEo3ZfTEGhM3qNAbYu8ug/fjfyaRYKjpbgxpMz9qUfMf0Wed6MHwcuWwc2gcBVHCA/video.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://104.237.198.194/wp-content/uploads/2022/07/Nonton-Series-Serigala-terakhir-2.jpg" group-title="VOD Series Indo JAX",Serigala Terakhir 2 Episode 4 (2022)
+http://23.226.71.76/5GdJGC_E_aWUvbeJRhEmNuHCPn2pqpcdI767fPCxhI5j2nQvJ6BgHDFoo240Zyouf_5wpRjin5udK4B3nrRhwA/phd35onf4brDuXROjaIMUZ5y_XIL80mD739JSM3IM2M/video.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://104.237.198.194/wp-content/uploads/2022/07/Nonton-Series-Serigala-terakhir-2.jpg" group-title="VOD Series Indo JAX",Serigala Terakhir 2 Episode 5 (2022)
+http://23.226.71.75/9c0SRBP1L95FMqzQaxfLIw4kEN7F8nR11LyVUdO8FKodUrmZmo5Ybr5d_TCCCzYnxveWxUjgTekmuWZlprZ2FA/Uvt-LXKVzy3FzOdupOfKlnJIbTbIExgedGjssIitfHg/video.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://104.237.198.194/wp-content/uploads/2022/07/Nonton-Series-Serigala-terakhir-2.jpg" group-title="VOD Series Indo JAX",Serigala Terakhir 2 Episode 6 (2022)
+http://23.226.71.76/tFOkljWHkRyuQKRxp8w1XZSfIrb288puiPKbjznP5hOIPCRzLE9zB2VLoIYx-7v84t6mz2GvLFeE3TIkDqitKQ/5F90Bvjvar3ODnNUvNSyJCDCiMa5WaTiQO_wVE8MTdQ/video.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://104.237.198.194/wp-content/uploads/2022/07/Nonton-Series-Serigala-terakhir-2.jpg" group-title="VOD Series Indo JAX",Serigala Terakhir 2 Episode 7 (2022)
+http://23.226.71.76/6hhgj2G3M0NeB2SjaWIeeN4mcInmXTGIkgeNcaYUVsyf8O3gLHxKFntmWMLC83AB7bfKydcEREO3Q3ay74_n8A/1LWqWenN8svz5pQ6avkm9qKKCGy7t710eUrNCPW4eaE/video.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://104.237.198.194/wp-content/uploads/2022/07/Nonton-Series-Serigala-terakhir-2.jpg" group-title="VOD Series Indo JAX",Serigala Terakhir 2 Episode 8 (2022)
+http://23.226.71.76/ml8A1umXeDdvePGQV1sjRc_isVvJFi3gVdcJ2yGA-zhl_U6KJwkEp5-MH7HLumxWWHJpE9Q-tJuaU6jXoyZXuA/vjPtfLxnJ54DgIYPerhfQ09v-ixdfp4265hVIh67dNU/video.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://104.237.198.194/wp-content/uploads/2022/07/Nonton-Series-Dikta-Hukum.jpg" group-title="VOD Series Indo JAX",Dikta & Hukum Episode 1 (2022)
+http://23.226.71.76/z5OAtUU0Y4tk7kV9GB52O85KitQsb_6TMz0Sh1TokJr9MmM0PMipSnrLTSuyDVDK3uPW4Voi1L8Nbd4-s8mztQ/1E0fZghD3AgNfHOPyyroenSw6UjoraeUDkYfiLle7g4/video.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://104.237.198.194/wp-content/uploads/2022/07/Nonton-Series-Dikta-Hukum.jpg" group-title="VOD Series Indo JAX",Dikta & Hukum Episode 2 (2022)
+http://23.226.71.76/AQStM6fBw_HzBdZLtDRcQw-XymkoniuHKfOBF6BtqOQC-mAS1TRzrTpiODz_VXUWJnQ5eqKDfAZatncKW0l-1Q/3XEqiv8CahVz3-nmPZmgN9oMKqU5fH1qR40vFxPWjEw/video.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://104.237.198.194/wp-content/uploads/2022/07/Nonton-Series-Dikta-Hukum.jpg" group-title="VOD Series Indo JAX",Dikta & Hukum Episode 3 (2022)
+http://23.226.71.76/AQStM6fBw_HzBdZLtDRcQw-XymkoniuHKfOBF6BtqOQC-mAS1TRzrTpiODz_VXUWJnQ5eqKDfAZatncKW0l-1Q/3XEqiv8CahVz3-nmPZmgN9oMKqU5fH1qR40vFxPWjEw/video.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://104.237.198.194/wp-content/uploads/2022/07/Nonton-Series-Dikta-Hukum.jpg" group-title="VOD Series Indo JAX",Dikta & Hukum Episode 4 (2022)
+http://23.226.71.76/D--Ua_zGOMViOjYT4TSTJUKB8le8WuTKiBlhERX5aLMwoxGC2p0rHHER1udwXmlMAAJHBdAaczgyDKTXirJRmg/nxjeThT5EBh7ZwGX3n7jvn95IKkpiWODpv_fY7Dh4FE/video.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://104.237.198.194/wp-content/uploads/2022/07/Nonton-Series-Dikta-Hukum.jpg" group-title="VOD Series Indo JAX",Dikta & Hukum Episode 5 (2022)
+http://23.226.71.76/KR_cKw5yJG0ZQ4r1wn2KGBwlfUyxBvSlWcXhqoDxVRerq-fhqrk1iXM2IHNbEvM8SF7peGdeaGjnOyC_C53W7A/G9o8hJlXOTU3neSHTpXZdO25rOOzd3Yjgc85vtdzFD8/video.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://104.237.198.194/wp-content/uploads/2022/07/Nonton-Series-Dikta-Hukum.jpg" group-title="VOD Series Indo JAX",Dikta & Hukum Episode 6 (2022)
+http://23.226.71.76/99XV_SW0V1kRNIzDuIh4Pg0Y8oM2Z2kANzF0taLOEh7ZjoWxqzbtR9GjdjqYuANR6oW_S5nLISSWZniLCzEkmA/ywuXhhYnHBoeYBUgr24lbG-hY7H9fk5WGkEHc03XYtE/video.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://104.237.198.194/wp-content/uploads/2022/07/Nonton-Series-Dikta-Hukum.jpg" group-title="VOD Series Indo JAX",Dikta & Hukum Episode 7 (2022)
+http://23.226.71.76/rSuGfHU6Lawvay13aWb8JCR73gCz39uuykQnE9ljYYYKHX5_28MI07x_TTOeaL8Opq6cC2f6FdrhFkJFUEXfBA/LX98LPvm8tDJy6hqNG5sCM4wZJhc9X-WFmy-j5BcFtA/video.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://104.237.198.194/wp-content/uploads/2022/07/Nonton-Series-Dikta-Hukum.jpg" group-title="VOD Series Indo JAX",Dikta & Hukum Episode 8 (2022)
+http://23.226.71.76/LQjp4aSj-mT1KfN3j7_2wKFfUWUKcRid4KIsN95OhiNX0xD1Ne5z1pNLwkcdHGjBkJx31guN_gvTSUenmZCGEw/TFdglR7kOm_1fwQZFBxbTS4vulEwg1aAUwtyytyrbaY/video.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://104.237.198.194/wp-content/uploads/2022/07/Nonton-Series-Dikta-Hukum.jpg" group-title="VOD Series Indo JAX",Dikta & Hukum Episode 9 (2022)
+http://23.226.71.76/b90iilv8-MOs6V-mHhenSnO92adN70Hqei_3NNwitu1cOtb5AtS7b_xg54gLCXQGJ4VT6FhZqyQzji0NS-LHZQ/qNJ10Bkzmyfqjzv5-i8ArLZkUDtBFhtYVQQYlmf8fYU/video.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://104.237.198.194/wp-content/uploads/2022/07/Nonton-Series-Dikta-Hukum.jpg" group-title="VOD Series Indo JAX",Dikta & Hukum Episode 10 (2022)
+http://23.226.71.76/hinF-Eiocc6S55aonOUMKCgX4Hn6ymLMSyD6Gh9SrvsRmNvHXL2uYjJBTiSiKWTx2EdDyUH5Vu2AgAcIRo-2XQ/Oh9lZ2okdVlK2nkavbg4vt0FM35luqM0php6BdL2DG0/video.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://104.237.198.194/wp-content/uploads/2022/07/Nonton-Series-Dikta-Hukum.jpg" group-title="VOD Series Indo JAX",Dikta & Hukum Episode 11 (2022)
+http://23.226.71.75/GJwYPkgB2HwJXblUBK4R2wIzame2eB334_g-dDzl6UTpPiPkwzDjXFojqcq-VNhsA_MMTGtOO7YEupLRlY1sIw/Q9lUErMXyMo47-lZanoWoR63ZwEgj9HzRLDe26FkZI8/video.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://104.237.198.194/wp-content/uploads/2022/07/Nonton-Series-Dikta-Hukum.jpg" group-title="VOD Series Indo JAX",Dikta & Hukum Episode 12 (2022)
+http://23.226.71.75/klYLbw2CH3eLXMCTFAyO1HkYO_SYhhZ_4ftFODdKZx97NtL7hKbIbL1YGLMHZYjZlVM_1ryIGZ8wYuisdZcZdQ/64huWIr9G9-Y0hHZGEd8ywcvBnTQ87ZWMaCxzd6qQpM/video.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://104.237.198.194/wp-content/uploads/2022/07/Nonton-Series-Dikta-Hukum.jpg" group-title="VOD Series Indo JAX",Dikta & Hukum Episode 13 (2022)
+http://23.226.71.76/u_VnY6FA5xJQACSRs79OEaZ0rfEh0OAGcFHLyPuPE7XNQPIqzoLNNIxT4tyi_kLVWDXI7GSqfw0j78z7jq9wMA/Zv6ziwDWGJv9V0k1zKrfDmulGOj93X5MwwnpqMx3_7Q/video.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://104.237.198.194/wp-content/uploads/2022/07/Nonton-Series-Dikta-Hukum.jpg" group-title="VOD Series Indo JAX",Dikta & Hukum Episode 14 (2022)
+http://23.226.71.76/7B1QekfbVWbAaBnhrgTqPtPnfMa02A25erGFHM6XAPjYelXv3WIZyWIeFV0goLofGTxAgYeom2eg_LH1xf2nbw/nTbgsm9BFtp-FrsYRhxP0dytGcKShV0ItXNWpY_qB2U/video.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://104.237.198.194/wp-content/uploads/2022/07/Nonton-Series-Dikta-Hukum.jpg" group-title="VOD Series Indo JAX",Dikta & Hukum Episode 15 (2022)
+http://23.226.71.76/C6KUszEyW0x7Wobx-4X1PfTqbpfL4-R7sjma97dfpem6yc1DB8SrSkEZ1y6nqrDRmHAiJo9FdH3cD9U64Qo50g/d3erzIPWk2Hz393Tu9dAXpV-ptxVEIlDpuboQc88js4/video.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://104.237.198.194/wp-content/uploads/2022/07/Nonton-Series-Dikta-Hukum.jpg" group-title="VOD Series Indo JAX",Dikta & Hukum Episode 16 (2022)
+http://23.226.71.76/ir1iB9uj9C0BiKOcnZDrqD8UqAeiOaCwlxc7L_vyTuVue528uUpNCMCXcnJo2rCkMHs_FqUWuCtoIquwqcCXXQ/XsjP9MZDu6OLtQ-hAoffNVB49wVoUAZ8AWzYaSjP2cQ/video.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://104.237.198.194/wp-content/uploads/2022/07/Nonton-Series-Dikta-Hukum.jpg" group-title="VOD Series Indo JAX",Dikta & Hukum Episode 17 (2022)
+http://23.226.71.76/fGtsH0PDrbfb0SkHOAPewunG93r4fxgMjQs07V5e9hOd4_JG1j_u4Rau51EUJYDJDxRJM5Z3ZwkFVvwcUfjjGg/eWwhlm583TS_yoovxczk9t-yFKRFvI2rAghCDvLR9K0/video.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://104.237.198.194/wp-content/uploads/2022/07/Nonton-Series-Dikta-Hukum.jpg" group-title="VOD Series Indo JAX",Dikta & Hukum Episode 18 (2022)
+http://23.226.71.76/Cw2QCemonj4_CsXHtEHo5XVf_qAY_d5bDpiggw344UdqrZY0sIAjulcC-sx31kGO6RTe4HNltZy6s7Bszg3ATA/u73j59YG1SF79N-CfM6XMfzY_2gfZGCfuxbcLGveN_Y/video.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://104.237.198.194/wp-content/uploads/2022/07/Nonton-Series-Dikta-Hukum.jpg" group-title="VOD Series Indo JAX",Dikta & Hukum Episode 19 (2022)
+http://23.226.71.76/mpU2ApXT-SjUoVfAp1-L8zu-FbQAuIRG363_eV7SruXhEoXUJaUJMNegS1K9ZeJaE_jCjMN54LkW34Buhcbqgg/KKEyVl_o_q1LQt9A-4dwlzssCLt0e8ZTEQ6Ar3TZgjQ/video.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://104.237.198.194/wp-content/uploads/2022/07/Nonton-Series-Dikta-Hukum.jpg" group-title="VOD Series Indo JAX",Dikta & Hukum Episode 20 (2022)
+http://23.226.71.76/e_HX5gaVJaMLcP3fYKeGo8k4uV_dcd1fQwxwfyt8HZG5Ncnucgy8JUafnnj0jSRObzMjJuWi7IGKtS7R578w5A/ez99nABQYFpEk5-hfdlgj7fDfn3tbUMFYaZXPMxrdsk/video.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://167.88.14.149/wp-content/uploads/2022/06/Nonton-Pertaruhan-The-Series.jpg" group-title="VOD Series Indo JAX",Pertaruhan The Series Episode 1 (2022)
+http://23.226.71.76/hB3gIEEUgMK7Qk7yuB_dcnElw7BfeyerujZJIh7lcVzP2kVh8tRWmtyILewUPm5TAFIYxCUoTr9H-Raf9vjxYg/INaBM_cKxTkcN5fxw1e2xYcvQDTrNHB2IQxDE3MiTIw/video.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://167.88.14.149/wp-content/uploads/2022/06/Nonton-Pertaruhan-The-Series.jpg" group-title="VOD Series Indo JAX",Pertaruhan The Series Episode 2 (2022)
+http://23.226.71.76/WAN33dtOyuggitT70PKfalX6XEwFy07oLDjRd8VeCNxH7gPvHJQjj5_8x0G98t64rQgTokfx7_FSgDpaqHgRfA/I0DhazzpalCZ46BbsivYnQRkX9dptjdDyl23Jj1s_cM/video.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://167.88.14.149/wp-content/uploads/2022/06/Nonton-Pertaruhan-The-Series.jpg" group-title="VOD Series Indo JAX",Pertaruhan The Series Episode 3 (2022)
+http://23.226.71.76/0zZKfCQTuwxEmV_fvzrTZ6wkO2ffy3rCqWeQxSS8_niLvGz0bJgA7uYW3AFv8NtP7KryaPghbmVnnhcWY74__w/UDePcpPtSOgqY_1P6eKlJjefFLvxd6SJmQpxqffLhUc/video.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://167.88.14.149/wp-content/uploads/2022/06/Nonton-Pertaruhan-The-Series.jpg" group-title="VOD Series Indo JAX",Pertaruhan The Series Episode 4 (2022)
+http://23.226.71.76/iRF6oCD1bjL0supzFhK5GzM5TA65JZ0zHwRZ4FEzgt7O2QzEUovJ7cOScBGmDHGRWumNO0yCmrNGYXuSQGQr5w/jHY96mA4_o-UJhQMuUEBA1ZVpVioUXbKZVFjYQMzdzQ/video.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://167.88.14.149/wp-content/uploads/2022/06/Nonton-Pertaruhan-The-Series.jpg" group-title="VOD Series Indo JAX",Pertaruhan The Series Episode 5 (2022)
+http://23.226.71.76/HKFvB-kaZyCI0B51a67MGRDeHW2RwuKfA9Bd5t5YW6lrzZ460MNWy69NZ3VYEBdFVHA_m1Aiu_X4lbBRuC5OPA/OEPTpGHLEx4pldZI2edrd2fqK61zXKJrPkof_JU49u0/video.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://167.88.14.149/wp-content/uploads/2022/06/Nonton-Pertaruhan-The-Series.jpg" group-title="VOD Series Indo JAX",Pertaruhan The Series Episode 6 (2022)
+http://23.226.71.76/f56dOZSFZo-t_mBgwSl6T56Q_oWaaefS5d8Wxxf1zKeuC4PMYlNJW83kUtoF8AkMFVapu6MMeebyPgINXj45GQ/5_SZZFmJr2aqjJTw2GBZqEoS2Lv-79DolAjZ1GS8xn4/video.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://167.88.14.149/wp-content/uploads/2022/06/Nonton-Pertaruhan-The-Series.jpg" group-title="VOD Series Indo JAX",Pertaruhan The Series Episode 7 (2022)
+http://23.226.71.76/XzCHFYOACJm9E7uWM0VeqJSyWKna0LN4W2k1xRd8Mzl3pv9UbTy-VqKuy3klijoW0oYsy5H1nsaWrbSe2-_7bQ/UJKTHLyrXYsNoFKWEzEfvC4ciDcdMpPc_okjO1dMsck/video.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://167.88.14.149/wp-content/uploads/2022/06/Nonton-Pertaruhan-The-Series.jpg" group-title="VOD Series Indo JAX",Pertaruhan The Series Episode 8 (2022)
+http://23.226.71.76/O1Q6Et-fWHDxCg6brr18YaAQ-8UpZhCx0xGspTBOO4G2APu7eoCJb_Cb_P-iSaBQdVeYLbrnnitpAACdhZCfWA/TRmkpii6o00Cj2iNkRl0Rs5Ua7JJD_0Tehqf2uKPsMw/video.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://167.88.14.149/wp-content/uploads/2022/06/Nonton-Film-Code-Helix-2022.jpg" group-title="VOD Series Indo JAX",Code Helix Episode 1 (2022)
+http://23.226.71.76/GmdwTxIJmWbfbUKhyL7yB468-12qbS3sOS6McpL7KAnOA7tngKjI3uwVCfKR9l4O8IozYCdIHznGXTwLhKbPNA/lXA7Rbyvm4BTauz8TkOwKB7KzFDqUyEZoGWErKMeCnw/video.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://167.88.14.149/wp-content/uploads/2022/06/Nonton-Film-Code-Helix-2022.jpg" group-title="VOD Series Indo JAX",Code Helix Episode 2 (2022)
+http://23.226.71.76/Sk1aFB3QKx4CmxQxGMnWqxYz5-v9zkVwxFzSopCQOXxheeWu_S2NrdbCZ75Qqip5StU2jf42bOMHXAyc2uTp5A/7qno_lrY5zYWArydXb_7plbIHEK8MrhmPcdMcgW8Vz8/video.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://167.88.14.149/wp-content/uploads/2022/06/Nonton-Film-Code-Helix-2022.jpg" group-title="VOD Series Indo JAX",Code Helix Episode 3 (2022)
+http://23.226.71.76/ZRDUIKgSdTmOxxMCiJUFU2Jiyf3fQsW0eyu056qPqms8pW8tcFBIJCDFF1BymG0VF-Fjc0MIwH0dp1vaPgLsbQ/5Efnl1UXD1FarzI2wSDzo_oC4g7Z-auE6wVXDsUK-lc/video.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://167.88.14.149/wp-content/uploads/2022/06/Nonton-Film-Code-Helix-2022.jpg" group-title="VOD Series Indo JAX",Code Helix Episode 4 (2022)
+http://23.226.71.76/BzvPViZJtuk5WCYKrjwmBuKgdk3DZjPaFXDjC4v4zq1TqvKPuvSghxOW_82d9U-9-eQmUt-f1los78Y6bE1czw/hHLKILe6sdmpUbn6i6KH1LM6ebpPneOYLTYnxUH4N4U/video.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://167.88.14.149/wp-content/uploads/2022/06/Nonton-Film-Code-Helix-2022.jpg" group-title="VOD Series Indo JAX",Code Helix Episode 5 (2022)
+http://23.226.71.76/uxNO-0LB3hC3n0Jyo2zmH7clAV-Wk-JQrQZr0GSD2xtqdNm3SiepoCP2otnTsFhPEL1I43Y7E-erHNfZGapkkA/CCvNBjBTOPkIqroME3RKM1M8UdL16N5yHZo6tdSBIuU/video.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://167.88.14.149/wp-content/uploads/2022/06/Nonton-Film-Code-Helix-2022.jpg" group-title="VOD Series Indo JAX",Code Helix Episode 6 (2022)
+http://23.226.71.76/LpX7dRs3JT6rzmTLWN1FGXx-xSRRX3CffPzemkPbDc8MgCafUmfGU3ALJ82ge8JQAQiJMc6BK7ntBzccC4mbxA/b69zXkwH5T2uIZ_PeVC8gmYwANlY5Jkt3hBnWiZBoT4/video.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://167.88.14.149/wp-content/uploads/2022/06/Nonton-Film-Code-Helix-2022.jpg" group-title="VOD Series Indo JAX",Code Helix Episode 7 (2022)
+http://23.226.71.76/Hal1JCDOWpeU824k-dV0f4QkxK1iG8VLCXhqGZtBCX4oc1Xd6D38d--ZZnQWqlg83gZgbFVp4z9uTM4Jzy2ajQ/u0qgurLb-91PD2GTnAWeAVAqX2x-WEnwrIVrNEqvNns/video.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://167.88.14.149/wp-content/uploads/2022/06/Nonton-Film-Code-Helix-2022.jpg" group-title="VOD Series Indo JAX",Code Helix Episode 8 (2022)
+http://23.226.71.76/lzaPYHF75kFkN8ElW9GcAKzIaQ0FxmLuVWSULnD4zpl2LG-Vroputo2G2eyzdA3WoyW8BaEyPiVo5Sot-dQfiw/-ZNxpfQUK0dQ__hKRJTWemSjwdQUqdD3SUNgs-eVFyA/video.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://104.237.198.194/wp-content/uploads/2022/07/Nonton-Film-Dear-Stranger-Sub-Indo.jpg" group-title="VOD Series Indo JAX",Dear Stranger Episode 1 (2022)
+http://23.226.71.76/lTUplYCB9VL8JQyo8FlSN5zdA4kcZ6qjThW9jtBLuQr7Mvv91s9m3HjwOu4VQ5bKKYs46YAVVj01HC9hV6v9XA/TpH_KBWHDaQVO1STwY1pQtiR6Y3yUrEjr1-I9CvQZaI/video.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://104.237.198.194/wp-content/uploads/2022/07/Nonton-Film-Dear-Stranger-Sub-Indo.jpg" group-title="VOD Series Indo JAX",Dear Stranger Episode 2 (2022)
+http://23.226.71.76/OIuCwR_7EzqSSgVUZEsHxoVV-3KZRVaHfsea8lZx4vAdhjtaETlIeT5jcxRPy5dtWrMn8cwqqp0A1e81YZ8dzw/ENK62s3Ht5gNK9ak56K_jflJsnJKVHTzh-cZ27uBXYU/video.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://104.237.198.194/wp-content/uploads/2022/07/Nonton-Film-Dear-Stranger-Sub-Indo.jpg" group-title="VOD Series Indo JAX",Dear Stranger Episode 3 (2022)
+http://23.226.71.76/nGdbfk5X_TlDakWt0JuKa0F-PDnjkWCKlAIxQ4gcT4wCKuGN1tWaGQKSyIYRYJRd2CJplRpb86uY--mNgYQHYw/retTvlYecUegXNM3nUodsN-V4ehmZfG_eGG1DnKhg8I/video.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://104.237.198.194/wp-content/uploads/2022/07/Nonton-Film-Dear-Stranger-Sub-Indo.jpg" group-title="VOD Series Indo JAX",Dear Stranger Episode 4 (2022)
+http://23.226.71.76/mlzPLoVe0nOdtyCuDYTMjNdhxG2YT0nYWE8jq8x2KramnmWYFENT815HL-ZVj18-IuNbB9E3avxy6BOapggOPw/cARHfpmU99ICSUs3MHita9IC5nBFMN_wJRsKOVaGbbs/video.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://104.237.198.194/wp-content/uploads/2022/07/Nonton-Film-Dear-Stranger-Sub-Indo.jpg" group-title="VOD Series Indo JAX",Dear Stranger Episode 5 (2022)
+http://23.226.71.76/JHOeAE9yobBIssPs2cuCJobWDvn9EyDW6Cg_DWYdKy2zs6QUOX1zfYWvv0ifXOBgrKv-TH5U_MS5GfXyEK2fIQ/zMRLACu_9bcZePRpFR4HWs1_yPPj-fu4vWdIUn8Fqf8/video.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://104.237.198.194/wp-content/uploads/2022/07/Nonton-Film-Dear-Stranger-Sub-Indo.jpg" group-title="VOD Series Indo JAX",Dear Stranger Episode 6 (2022)
+http://23.226.71.76/c3ZQZMeJM8bbsEpU3LO73lRW_eY0NNcBLfYibeF2ZtoGXApoy23yIGpeVg-BU3Q9vSCILgmcxCwIcmzz77vP0w/M3NWj-JETkZhluwADOTCOzPjVtse9WYEpIGchPxrVSs/video.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://104.237.198.194/wp-content/uploads/2022/07/Nonton-Film-Dear-Stranger-Sub-Indo.jpg" group-title="VOD Series Indo JAX",Dear Stranger Episode 7 (2022)
+http://23.226.71.76/4Wt-W_I3Fx32vDxO-7v_HbsEGzoIPXE78FJy_wMwuNTYwkYK22zu5RXyKTOTJN8m8e3ZYm9BaUolw9c2UJbwhQ/6sP4C424rBDHCCMGPT0IXG4zUL_OByEhFkQorpu0cFo/video.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://104.237.198.194/wp-content/uploads/2022/07/Nonton-Film-Dear-Stranger-Sub-Indo.jpg" group-title="VOD Series Indo JAX",Dear Stranger Episode 8 (2022)
+http://23.226.71.76/zWvm_fdf8Hz9II48KwnX9tJrHqDCRABWM63hZozljXfBXzx05kMJI_qOAbF6kgT-swpRSkh5Z18hqRxTGLcAng/ISf51cYuaT_1x5bjgZJJM2tSq59DtHinqVbgql3Awmg/video.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://104.237.198.194/wp-content/uploads/2022/07/Nonton-Film-Dear-Stranger-Sub-Indo.jpg" group-title="VOD Series Indo JAX",Dear Stranger Episode 9 (2022)
+http://23.226.71.76/36to7fc1CXlm6TTNTsKPLZRis0AXGGWcXxXTgxoLWaO67v1qxpp4im3VW67aK5TTPXkgxhzJ8L1rvAniYBMzYw/G7F08DH2m2_6BHL1CsOU1-s7PRc1X10KA71mT6wZNmU/video.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://104.237.198.194/wp-content/uploads/2022/07/Nonton-Film-Dear-Stranger-Sub-Indo.jpg" group-title="VOD Series Indo JAX",Dear Stranger Episode 10 (2022)
+http://23.226.71.76/UrQgaug-n6t9mKgKbrC5fd71ddJ0GenUFWhSvjcrVcAaHm1ddersCulb14aDlHaXHedZTOqOHDDyg620YYP_eg/iSlrpPwpIQvATO-nkq-4P2b4eb6H58DHAOkzYuPzU_k/video.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://104.237.198.194/wp-content/uploads/2022/08/Nonton-Film-Series-Indonesia-Biner.jpg" group-title="VOD Series Indo JAX",Indonesia Biner Episode 1 (2022)
+http://23.226.71.76/0FVoH95Faz-kznQCPurmb-ePj8h1ZrqjKPbXsB9J-QLY7Yl9DAeCHYYOXgjjWK5rOJZbu6jKwp1_1wVmq7a6TQ/ahamNDXrLKawIG3jqlBY0GxAUzDt9ZjuGm91DElOnLU/video.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://104.237.198.194/wp-content/uploads/2022/08/Nonton-Film-Series-Indonesia-Biner.jpg" group-title="VOD Series Indo JAX",Indonesia Biner Episode 2 (2022)
+http://23.226.71.76/PPMkwrNQt4AT_kUyzTGoV63yqlkYf0mPegCHLs9_ZZ_T3qKmblEHRuQa3rTRNQb4QHFhCernpEtfHM1IJmtRBQ/ez-N_l4YXkYfGM2P6amazrFny08xR-aVgp-VLQrQAhw/video.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://104.237.198.194/wp-content/uploads/2022/08/Nonton-Film-Series-Indonesia-Biner.jpg" group-title="VOD Series Indo JAX",Indonesia Biner Episode 3 (2022)
+http://23.226.71.76/pRKNmnBL3cxMlAjb2Sf-dpO_13ZE3DjbOkbR6xXgFfXGaxqPA7f62BbYEic--mQ9i2zqhkRNLwYYE6halyPzKg/yqW3W4akuXwl2KMZIHUODoDSkVwO8AcMiDn9sjU8KPo/video.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://104.237.198.194/wp-content/uploads/2022/08/Nonton-Film-Series-Indonesia-Biner.jpg" group-title="VOD Series Indo JAX",Indonesia Biner Episode 4 (2022)
+http://23.226.71.76/2IRlS8M39-zoQyjZ4zvEQN-OJnplqKuVS2h7ttS-SJCzDwAUEax7RWe5j0te-5O4P4ube47-3tsGU7d5_6l_yg/YW821H6I1SBIWs7LbxNyG8lDJuz0sWzAAQ7nDIkf0nw/video.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://104.237.198.194/wp-content/uploads/2022/08/Nonton-Film-Series-Indonesia-Biner.jpg" group-title="VOD Series Indo JAX",Indonesia Biner Episode 5 (2022)
+http://23.226.71.76/nkULESJ-BAh-nzWudbEzhvIAQ5ioSfWKuiLVl6mlPCbj1FKefUl6qGAMIVmNBKHZRfXs649P8hBkZL_LN6NS2A/zAg03W-GZQGhAYqH_FTlh9_HxPoGGWvG0ns0AY_28eo/video.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtVC3jtlvLVtzorqswBeUqP3ytn_ycwbIecQ&usqp=CAU" group-title="VOD Film Indo BANGJAX TV",Dear David (2023)
+https://cloud.dubbindo.xyz/upload/videos/2023/02/c9OohMNEMIqRepD1aYhd_09_2f055080c4cccc5a7102dc747738f0c6_video_480p_converted.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4twnCY9tcTt27Xv7NZZ_iNqAYU7m8eWNjIQ&usqp=CAU" group-title="VOD Film Indo BANGJAX TV",Jailangkung Sandekala (2022)
+https://cloud.dubbindo.xyz/upload/videos/2023/02/OIyPiZrYXelI4of5mld6_08_e46f2a88e41b93afe60223e5c3aec99a_video_480p_converted.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2HO8UpU_wDCZVoPAc-gWiUoBqFhNrmzpAWw&usqp=CAU" group-title="VOD Film Indo BANGJAX TV",Mendarat Darurat (2022)
+https://cloud.dubbindo.xyz/upload/videos/2023/02/ZWERgqx22wwIDMrbLZtw_03_dfab70d274dceaa57ebb630be772dcf6_video_480p_converted.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGA1jyW-IqE04fB4oZXUxA_mlrO9XBXl77EA&usqp=CAU" group-title="VOD Film Indo BANGJAX TV",Hantu Kak Limah (2018) 
+https://cloud.dubbindo.xyz/upload/videos/2023/01/Odrt3yvsP1omafwqctKd_25_8125cc7dcf4e15375b8eeccc5d2ade3d_video_480p_converted.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbk7UUazuyJ1EcjMhD8x0Jv3GfNqTJN1IRGw&usqp=CAU" group-title="VOD Film Indo BANGJAX TV",Scandal Makers (2023) 
+https://cloud.dubbindo.xyz/upload/videos/2023/01/73OB5EfWVHYzKcAV9lmC_18_c748e61169e9525aec0dfa628edb449f_video_480p_converted.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGPwf_Ylf7l6DDR3ERFM5XlZeIN_vyeIMFVA&usqp=CAU" group-title="VOD Film Indo BANGJAX TV",Pendekar Tongkat Emas (2014) Film Indonesia 
+https://cloud.dubbindo.xyz/upload/videos/2023/01/3sa1KDncCuFRo3wHquTg_15_c41c13bdcdf1d7eed49daa571678024e_video_480p_converted.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3Esi4mjcEurqyHVufnQ5HmI0czF2e6qpX-Q&usqp=CAU" group-title="VOD Film Indo BANGJAX TV",Epen Cupen the Movie (2015)
+https://cloud.dubbindo.xyz/upload/videos/2023/01/F9GkaPzpFbUzIi7P9Hlf_12_7f24d853572dba5d7d19050097e9cd1e_video_480p_converted.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5AaqiHZLkcxe5KhzKmVvODeXJUQwAT8dxgg&usqp=CAU" group-title="VOD Film Indo BANGJAX TV",Noktah Merah Perkawinan (2022)
+https://cloud.dubbindo.xyz/upload/videos/2023/01/voSBXgCV55J1m1U1E7jV_12_6669551e4e8a7fb26bf7da41b135af3e_video_480p_converted.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5IgN8XiwCwuYOG2HKPXFTjmdfK0PNtOcRSg&usqp=CAU" group-title="VOD Film Indo BANGJAX TV",Ranah 3 Warna (2022)
+https://index.wahyudin.workers.dev/0:/Punya%20Wahyudin%20Piyul/Film%20Indonesia/Ranah%203%20Warna%20(2022)%20WEB-DL%20[1080p].mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRS5NvcjwfWFqeI4Rjn6JYxj55dUCoRYXHjkw&usqp=CAU" group-title="VOD Film Indo BANGJAX TV",Mencuri Raden Saleh (2022)
+https://index.wahyudin.workers.dev/0:/Punya%20Wahyudin%20Piyul/Film%20Indonesia/Mencuri%20Raden%20Saleh%20(2022)%20NF%20WEB-DL%20[HD].mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjyzfx5v5o5WrloFGp2E14ln_obKzqYdZ3iQ&usqp=CAU" group-title="VOD Film Indo BANGJAX TV",Kamu Tidak Sendiri (2022)
+https://cloud.dubbindo.xyz/upload/videos/2023/01/fob5exeqPugNvYNf1Nf7_31_77a4917e9f0fa7b31730bdfce96e373e_video_480p_converted.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTunLgWvbrd3_V9-tf7twHZZFoUgC--XD9MoA&usqp=CAU" group-title="VOD Film Indo BANGJAX TV",The Big 4 (2022)
+https://cloud.dubbindo.xyz/upload/videos/2022/12/tFYDXDHmv1DZamwCMmOk_17_4f639a23014d7f9fa741b67cb01163d2_video_480p_converted.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgTeE0jHXINXwKNkU9LeOJjJ50kkfRiLLlRA&usqp=CAU" group-title="VOD Film Indo BANGJAX TV",The Wannn Believe (2022)
+https://cloud.dubbindo.xyz/upload/videos/2022/12/DiwZYMHRtIvtPznYv3yg_13_915c57b5f33099c30af972229c94911f_video_480p_converted.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8eNRggNFaK704A_hFUDY73FZVWkiB-oMVTg&usqp=CAU" group-title="VOD Film Indo BANGJAX TV",Sayap Sayap Patah (2022)
+https://index.wahyudin.workers.dev/0:/Punya%20Wahyudin%20Piyul/Film%20Indonesia/Sayap%20Sayap%20Patah%20(2022)%20NF%20WEB-DL%20[1080p].mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://167.88.14.149/wp-content/uploads/2022/07/Nonton-Film-Fiksi-2008.jpg" group-title="VOD Film Indo BANGJAX TV",Fiksi (2008)
+http://23.226.71.76/kvO9gwo7vzVAQXFAVGv2fhARzWL_2-DzE-qWJcSNKjJg_UIs_KEeY_muRaDrkmdbZut-7_ea79z3Uw7w7auY8w/uo7VBgspmEwOAjK-BkkUAv6Z2izUKwegkyLZABCz-TQ/video.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://167.88.14.149/wp-content/uploads/2022/07/Nonton-Cadet-1947-2021.jpg" group-title="VOD Film Indo BANGJAX TV",Kadet 1947 (2021)
+http://23.226.71.76/pF3tvYE10hDLtHKurwbcbr3m-Ib79TkRf22bAT9B9NtxorVPA1f9PSNnSiBnvX5eGAUDnLLVTrlslYiL9igajg/gO-3PhsCSASPWu8ryfMS-sgAhIgD2Ywr6xcYTXqiXzs/video.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://167.88.14.149/wp-content/uploads/2022/05/Merindu-Cahaya-De-Amstel-Full-Movie.jpg" group-title="VOD Film Indo BANGJAX TV",Merindu Cahaya De Amstel (2022)
+http://23.226.71.76/LGAtCbV24WXbNVCVoAHDbD6WU-zPXRxEfgglXcvBeI9wsogDG2XtJZEEvKQx3C4rDCsgD_W-H-av6RIxtE112A/YK5iQ9SfOcAebxj7cYqFQdUiqZHhWMINJie1wyqmbB0/video.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://167.88.14.149/wp-content/uploads/2022/05/Yowis-Ben-Finale-Full-Movie.jpg" group-title="VOD Film Indo BANGJAX TV",Yowis Ben Finale (2021)
+http://23.226.71.76/dWY609m_QJkZhRyNXz22OJUBbba6jxWmuge2unhm8sAvdUgMh_-5T38YQnfJY4yte2r-izUIgyLVcWSQUNVIQw/w3TYH912eVdIo0rjWq28YW53z4MkppYuMXF3LfUtG_Y/video.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://167.88.14.149/wp-content/uploads/2022/04/Nonton-DJS-The-Movie-Biarkan-Aku-Menari-Sub-Indo.jpg" group-title="VOD Film Indo BANGJAX TV",DJS The Movie Biarkan Aku Menari (2022)
+http://23.226.71.76/2k9ZH5JWQqjpTdYOPxT9Vc0RVJJKtqAW_8jvsgg08hwLlZFmu7X2X9WC2OqSwfqtneoMrdtGLfgDgvy7m9uz9w/GQKyyqs1QzZkhTplMP4jV8wUnH6wVJj7M1W20T8ccvk/video.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://167.88.14.149/wp-content/uploads/2022/04/Nonton-Dear-Nathan-Thank-You-Salma-Sub-Indo.jpg" group-title="VOD Film Indo BANGJAX TV",Dear Nathan Thank You Salma (2022)
+http://23.226.71.76/YYyFa6YIjUQVWVJKEzdlO0jWWpj7YdNguAQKC1UMjAURpKq4JS7TuRLp3-ufIae_RTTGBBaoJTPHtaULPx2y-g/_7QmqtWaPfBzf-F7X5yyb8Jo-JowjsWIkG3KceC_bhM/video.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://167.88.14.149/wp-content/uploads/2022/04/Nonton-Film-Tuhan-Minta-Duit-2022.jpg" group-title="VOD Film Indo BANGJAX TV",Tuhan Minta Duit! (2022)
+http://23.226.71.76/w_ZZwwLXw5YT9G7yWrhfVdTDDOxLa2fuatif54GovI8DVXe_X5vQWo0Icv2c7uUns6KBKpk5zRCycHLaYAODtQ/-8raSlJ0y8uYkZKwaJ4NUB-sBTIGGG3M24Sp1bNq_e4/video.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://167.88.14.149/wp-content/uploads/2022/04/Nonton-Streaming-Movie-Pulang-2022.jpg" group-title="VOD Film Indo BANGJAX TV",Pulang (2022)
+http://23.226.71.76/jA1fjwY54YqYRJudkaoHubh-IIUgWocXwOaOV7i7qugQbiz9WMDT2rD12L6F27tvxLm3TlYGGfwG2dpoOvG63Q/jVhUFosqgfm6ErT4m6DEUN403T8nNuQwD9UMzwP4uHw/video.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://167.88.14.149/wp-content/uploads/2022/04/Nonton-Seperti-Dendam-Rindu-Harus-Dibayar-Tuntas-2021-Streaming-Full-Movie.jpg" group-title="VOD Film Indo BANGJAX TV",Seperti Dendam Rindu Harus Dibayar Tuntas (2021)
+http://23.226.71.76/g2y8FvRzVjn4O2bsnYnT_TS_WXnVTvRAkv6cxowayBK8awDNiZuyfdjgSkN6SdcLQzCbNw43kv2KD6zDMVZzHw/jpb_GBRNid6Tnhg0KY-ok2SVH_PteQCVyi-VQEIEYL0/video.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://167.88.14.149/wp-content/uploads/2022/03/Nonton-Kuyang-The-Movie-2021.jpg" group-title="VOD Film Indo BANGJAX TV",Kuyang The Movie (2021)
+http://23.226.71.76/k_WitkErQXpYQzZZs8xAz8bXrSg0PmYcnlWMfXut-YRAoycHiRI1fBHNlmdii7CVwB5aPNVvKoPgfN7O5sWUow/FQqZ77Sl2ZUZcVJVy_X8qz7UdflAvZfYn-HTsleBnoM/video.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://167.88.14.149/wp-content/uploads/2022/03/Nonton-Jakarta-vs-Everybody-2022-Sub-Indo.jpg" group-title="VOD Film Indo BANGJAX TV",Jakarta vs Everybody (2022)
+http://23.226.71.76/rH8ZHFflVCYhgr6DP8h3W3v8ykVoqVfYdBSbMr_qffScT-9h4Ni2hPDddS7x6lHsstK__ss1VOCEa-bCH_u1ag/lYGFvw5isdJi-Xp1GtuZV0ax9RF3FfnC140JBjuYkZk/video.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/y10Ll8lFOIZNIVxvraVirT1GMT5.jpg" group-title="VOD Film Indo BANGJAX TV",The Doll 2 (2017)
+http://23.226.71.75/TqLPJwF1ycBY-N_X1Evd_aRL0JB5wQslYEs5JTQ-F0bhFWYvWHx9BDASSplLy5W9-mWy-007j8hjAP1PgMciTQ/sD0KQiBgtGewCGFzS5gF4PNPrcJsbhY0CXGAeHuF2VU/video.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://104.237.198.195/wp-content/uploads/2022/09/Nonton-Film-The-Doll-3-Gratis-Full-HD.jpg" group-title="VOD Film Indo BANGJAX TV",The Doll 3 (2022)
+http://23.226.71.76/AtsgT4-2Yjm9A9Ez2UNFDhyVmgYGOGr21gFZ-t1lh1pKFuRwOiO74FVLy__evPTgFhBLEVxjO5772Et5VZ-YRg/JePTE1ZYt1cSJqdzm4tfECqz8qAQdkSnKxUiU-G2Z4g/video.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/u0SPU9ZwhqFvzB88dzdVoK12Ne5.jpg" group-title="VOD Film Indo BANGJAX TV",Mumun (CAM) (2022)
+http://23.226.71.76/kn3lPeeBYGh9aSU1w3ezBd4Izw7rxjzIkg6zzO8M4a7eO9XXxNCvGiuxWEXsm7sQMDoHe4BGvgKdCcpSYhoH0g/1n2ms5rpXJx4CM5t6suss1MY-qWo2yrf8QCE3avP7qA/video.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://167.88.14.149/wp-content/uploads/2021/10/Nonton-The-Raid-Sub-Indo.jpg" group-title="VOD Film Indo BANGJAX TV",The Raid Redemption (2011)
+http://23.226.71.75/BDUF1Tx49JbU92YQo0-jU37JSAxrF3ytFaZKJ2IjopE2NQXZpOe45XT7NT5wGO19iz1nFT3OgKHp3e4FZKO__Q/bnIOj9HoNP-tZhrdnnlxs9YwpKtZW9KbSMsl9ISnwbw/video.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://167.88.14.149/wp-content/uploads/2021/10/The-Raid-2-2014.jpg" group-title="VOD Film Indo BANGJAX TV",The Raid 2 (2014)
+http://23.226.71.75/rXTO2VCkB_5CLXFwO5P-sgxDsg84F7RFHm3b1TqFDJAY_zMPQ_hi1-_EnZiWXl6rZfG_sPkBcoz68X3mYsl4Jw/NR_KJjWhwLI3llsIizW5ZhD9QBFdbPiNjiXg6MZwSng/video.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://167.88.14.149/wp-content/uploads/2020/02/dwPRDiUAvoQmETTfWxNFXhs7IpY.jpg" group-title="VOD Film Indo BANGJAX TV",Headshot (2016)
+http://23.226.71.75/_B43aNv3FeugJQ7FDzrMaprQTGrYScLZGRJPubuHz63bCX-ihj9UfFEB0WdQd9BC34H2y2c1IP0s2vZZqCGlLw/6qw-9NwWBxFx37gJ7N_QF1WuhnAgxSc2-SWV_kZ1uNE/video.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://167.88.14.149/wp-content/uploads/2021/10/Nonton-The-Night-Comes-for-us-Sub-Indo.jpg" group-title="VOD Film Indo BANGJAX TV",The Night Comes for Us (2018)
+http://23.226.71.75/U7xpz8sT9daAlCZ1BwsYOXTP9QZORY3nOkgvSCJKRew4KL9IAFJS5eq_0C02ywcM6U74LYJ7VBSf0Hmv87V09Q/LcaB2f6Jktu7aYMDOkdLkEsLFoAMemOAEgQ9MdmzRSc/video.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/ahRkDEJArR2gSTHadnESt8L0cqQ.jpg" group-title="VOD Film Indo BANGJAX TV",Titisan Setan 2 (2021)
+http://23.226.71.76/dJaZ5FeS6r46UeqfSaqHUmmMSx78L__tm5WTADkuSB5Tm5HWYXeA3SrqyaJiDYFjmJZAa5vyJu6x0wD41DREzQ/bGrooSuZOA4Jbm0oZHgO5j5f0dYNmXoICbWeJ0AArdA/video.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/sSrXDjK3aLIMKXMuGDKVZuOQUdU.jpg" group-title="VOD Film Indo BANGJAX TV",Bekas Rumah Sakit (2020)
+http://23.226.71.76/UBMGJMnGBlaRvAqDgICw-OVBw1OMjU_AOSe91kcU92HoUd_ZhRlf0zXUshA8jq6zqtntCZiaR19yKX0YUKy-pg/ifB4ugvFCnkZfPPAWBIHS6OQtOri7JfXoVvtkZL57VA/video.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://167.88.14.149/wp-content/uploads/2022/07/7TIGzv2iLqxmIHWNsx8oQguut5G-200x300.jpg" group-title="VOD Film Indo BANGJAX TV",Misi Kafe Biru (2022)
+http://23.226.71.76/2nSDLF6_GdVrhmWlNdrdn2vcpLPCm_gAuTBPhqVlDqKGa8yPuNSXgpK7DM-k4B0rlm1Gdx3nOsgQj2N-k6YFSQ/IE8UjCYI7TQa9XmQ5yXe5w8dhxz5Fx9Qhidg1N70Qfk/video.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://167.88.14.149/wp-content/uploads/2020/02/2gGclrHn6Ncl5cGqUpG3PoufS12.jpg" group-title="VOD Film Indo BANGJAX TV",Hit & Run (2019)
+http://23.226.71.76/jCpW_2p9fyGY-gRGPMjpL9ClmZD0H8fOTHyfvBLRfNH-Po4YVrql4sNupWlCNx1NsqQEbemFNZxRr8qL5tT8VA/qBXFZqF6_dkK0KLNZMP5Ql1ooJPQpr8kNDcwBIiNc7M/video.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://167.88.14.149/wp-content/uploads/2022/07/lOFMVvKRJQUXX9SUuYXYh2d55Ob.jpg" group-title="VOD Film Indo BANGJAX TV",How Are You Really? (2022)
+http://23.226.71.76/jg18eX4kCgK89q4B3z0S9FcmB7eNeMZ9arsSjfUNWWE7iLBxcpoWGdqzgzCdkWrpYhZITR6TEuinvyxDW2860Q/8DNTFdTz8AlZZAWggQIzKORatWouEKGejtO9s90EWNE/video.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://167.88.14.149/wp-content/uploads/2022/07/Nonton-FIlm-The-Last-Prank-2022-212x300.jpg" group-title="VOD Film Indo BANGJAX TV",The Last Prank (2022)
+http://23.226.71.76/1JLXQcRSALpkWRiKD0P2uTfgtjfhM5Zg5KTR6isCtT9P1X3zBQqFfH9hwE3z-rCbBHdDPabd1IpDhVv2-niDUw/4I0pFTRpa6JMfqsRp4Kd79ycqpLhPJKGROC7BYMR0to/video.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://167.88.14.149/wp-content/uploads/2022/07/Sumiati-The-Urban-Legend-Full-Movie-225x300.jpg" group-title="VOD Film Indo BANGJAX TV",Sumiati (2015)
+http://23.226.71.76/OvzYtY02Um_wba4D2M4CFvn9goE23WcWDYKltyFepftZWjGvY6QyZ2SSYoH-_PmqpwFNLLtkR4Vz-HofKVpyEg/Z03fTjdNQdSBreLgzefG3xVhzLMPHD4wncncNVD0bpE/video.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://167.88.14.149/wp-content/uploads/2022/07/zyEgFV2KQe2IUQpIN87EfaIR7TN.jpg" group-title="VOD Film Indo BANGJAX TV",Inang (2022)
+http://23.226.71.76/9GPBOHu0ia_X-Eav8aGhZv3SEfzSvSCueU0urLGvzwUuduWjpkFFe3bznaz2Nn9fogEpR2TzhWOuWJnu59DsjA/P8VRcYC8uRPQMWyZqSUE85TmtOQmjfaTorSXIMm7vqY/video.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://167.88.14.149/wp-content/uploads/2022/07/enjelang-Maghrib-2022-Full-Movie-207x300.jpg" group-title="VOD Film Indo BANGJAX TV",Menjelang Maghrib (2022)
+http://23.226.71.76/G2LTJYePD85cSrwrVB2DkTKKygTDgHAqe9MzDQp2LGjNb8zhPkagEGjgUxU3WYxVVVc1FTDjp-uyPH3o81IAdw/Gdd7MXshnkMrZMnyDGtyuQJcR2nY2BEnFpfCvsLYGrw/video.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/grhplRFAr1CCa5VNcd9KUTE4aOo.jpg" group-title="VOD Film Indo BANGJAX TV",Nussa (2021)
+http://95.214.52.182/Mbfwi4xKeqPocxJNP_wTip62w_7wMbS3il4_6N_saZJKV_cBJqEoWTgSyIKUZi_FjWd4epvSIOYt292Kbm8h2A/NRhuXukrWSpC0vVOeV6FftcyTikv59boEfKwOPURjgQ/video.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/YX8fLv9/053894900-1648645150-meweimg1648633801610.jpg" group-title="VOD Film Indo BANGJAX TV",KKN di Desa Penari Uncut (2022)
+http://23.226.71.76/8G8QEGavnv-6OrIH4llsFtK4s9kbzF5mx_RATJf9sj3OlitSoW5VSMYVe20vu-dnsNGW4fnzyubPCi4-xmAigQ/rlNtW7ISkbROeJLN6Yl44-T2dlM5v1T2ZnCnm34JDZ4/video.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/yJAaieLyOUXKh63ip7yPvDJsNHe.jpg" group-title="VOD Film Indo BANGJAX TV",Kau & Dia 2 (2022)
+http://23.226.71.76/i5sD4ZiB3VDlMxJoZevW3TCrTkBgb7XgcUxKGDB8fkwcqR3juhJBANO5Gy-mPxJaDPLUg2Sa9zWeDdoIFHTYMA/UqTrb8Ves2wLTjM7CFiyXiCcotSKOZ5g5FoekjLdx4I/video.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://167.88.14.149/wp-content/uploads/2022/06/Eiffel-Im-In-Love-Full-Movie.jpg" group-title="VOD Film Indo BANGJAX TV",Eiffel Im In Love (2003)
+http://23.226.71.76/OIRXlT8yNFJAQjyPxz77W8zz00FHSREt8E6AriCgI3BZ7ydjWIQzm1_giK7OujGZ_elceJwOn9RGRIPV8tVEuQ/MJ1VUf3Q31SnB19idmBdiX_NUJxsLQf2eqeXJoCIWP8/video.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://167.88.14.149/wp-content/uploads/2022/06/Nonton-Film-Ben-Jody-2022.jpg" group-title="VOD Film Indo BANGJAX TV",Ben & Jody (2022)
+http://23.226.71.76/Mm0eEHfG3Mi-I-aiq1Vqc6LfqagdekX_X2BTQejFT-MD6c-iWlgLZ1vVj9qlkF8JKkc4iTyq0EuLZfo3-qn-7g/MiKOUcs5dWEK-kGoV_bGlqprv1u17xpS0HHv4OxjU6g/video.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://167.88.14.149/wp-content/uploads/2022/06/Nonton-Makmum-2-Sub-Indo.jpg" group-title="VOD Film Indo BANGJAX TV",Makmum 2 (2021)
+http://23.226.71.76/UiS02J1NiOSLqEqMXK9nJ42xBjeXaTdzh8vfGiBTKkH1Zr3B8wmZivR00yPFRTB5K4-KANkXDjmyv1NexmLikg/HnKnevx8VWAZUyKsqvy1Xfq2AAOouCMs0YL9QXEVJSI/video.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://167.88.14.149/wp-content/uploads/2022/06/Streaming-Baby-Blues-2022.jpg" group-title="VOD Film Indo BANGJAX TV",Baby Blues (2022)
+http://23.226.71.76/ogGnC9uanVkZddHOrCV_9ejVPuUh3zOHO7bKhJZwuBOjOeQrv-6QeppjIdshMNsncunlTrVuQ8aKJSnliuEuUQ/Y2SwjChkBt7CTFDLNqEa190FWgL9-PHCsbWwov8VVCA/video.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://167.88.14.149/wp-content/uploads/2022/05/Nonton-Film-Father-Son-2022.jpg" group-title="VOD Film Indo BANGJAX TV",Father & Son (2022)
+http://23.226.71.76/mhyEAyrRNLEAKDjKdq8YT12Hqzw51L_euxsWueK1zoza3jqUnfcNQXa8Fzw4G5wj_odN2nxyk0235PGSr0k_VA/k7B0jRaHqCzeMpdnucO9vREKezvWxI9BIr4eI92ELAw/video.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://167.88.14.149/wp-content/uploads/2022/05/Nonton-Ada-Mertua-Di-Rumahku-2022.jpg" group-title="VOD Film Indo BANGJAX TV",Ada Mertua Di Rumahku (2022)
+http://23.226.71.76/CJi8Hq50I5RDUahhTEv7LZpo9Bx0An5SKh_8PLSI5RgRcWmh6AhuNe3-GCCgOhZOFoYlwa9F0zynkfKvlDynEg/ughiGkZ5j522ojyPEwLP6fhPsmzQeu-hmSpKxiS0vs0/video.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://167.88.14.149/wp-content/uploads/2022/05/Nonton-Download-7-24-2022.jpg" group-title="VOD Film Indo BANGJAX TV",7-24 (2022)
+http://23.226.71.76/R7LpO5SxqBN28t0uu3Mx9dSBOmU2h5je5Ncuv8antTRldXur5u3tZzsOqm2OBS-Z-ZnzUiExmdxbkMx26iFH3A/9PjoG7i_XOjNdvPwNyoUpMwR1iFzqTUgD9fvTIgTX78/video.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://167.88.14.149/wp-content/uploads/2022/05/Nonton-Download-Film-Kambodja-2022.jpg" group-title="VOD Film Indo BANGJAX TV",Kambodja (2022)
+http://23.226.71.76/KO1OgGgjHNQmZu73bKQCxjRWt1wQ3MJHESsE3CB50FAyOSBzh2_TUpa-0ebfsFUIPk3JkYLHHbAGDFR4Assblg/K_Oykzumn12JHinDH9_LMi_YnA8bsKN27eLIoNJb84E/video.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://167.88.14.149/wp-content/uploads/2022/05/Nonton-Film-Kopi-Pahit-2022.jpg" group-title="VOD Film Indo BANGJAX TV",Kopi Pahit (2022)
+http://23.226.71.76/7MVKhOryy-2l0G1gIyB0z5_gy6lLn8BrA9tgakty4oLym4I9_lrr3HSLqtmdfw0PiAoGhYOx9NoTkv-Lep3YIw/Dd0qpyRgdRUewf4lDqNcHxZRBiJPofHSjC9eU--YDqI/video.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://167.88.14.149/wp-content/uploads/2022/05/Nonton-Vidkill-2021.jpg" group-title="VOD Film Indo BANGJAX TV",Vidkill (2021)
+http://23.226.71.76/jn5f477tY9Dvu2dYYaPG0fWM6w7YzbLYV1Pa_UuomTXT-RJmJxLl5cmrjlQK7I2RVLRfYs1T-EDap6iesyDO4A/BsLzLTbR_7BXJa_hQfMkn49h4cAwdCaUp75YjxoaOTs/video.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://167.88.14.149/wp-content/uploads/2022/05/Nonton-Film-Cinta-Warung-Sebelah-2022.jpg" group-title="VOD Film Indo BANGJAX TV",Cinta Warung Sebelah (2022)
+http://23.226.71.76/tRD8d_EYkjId1wvmd2ZQq3Y3Plv8A001mqNbYXUdMijEUma7HEfazu_S3JT6XB1ONuujaW04Alp5bUIETmegMg/kXgbvEQp-pgusnINnoD1EycnUC5LI6hORxF_AVGjotw/video.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://167.88.14.149/wp-content/uploads/2022/05/Nonton-Film-Satu-Untuk-Selamanya-2022.jpg" group-title="VOD Film Indo BANGJAX TV",Satu Untuk Selamanya (2022)
+http://23.226.71.76/DbAJhJZEBizvJ2RSjZJcXtLvGKzCTmsVOE70nEyNYZ5vNVtGSPx-OLTjBPQn5qfN65-hvydZ4XbNgfL450gDYw/MvIejtt-l-bscOerjNynHQ9-qxGUeUQcqhq1GMT-yoQ/video.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://167.88.14.149/wp-content/uploads/2022/05/Clandestine-Full-Movie.jpg" group-title="VOD Film Indo BANGJAX TV",Clandestine (2022)
+http://23.226.71.76/K7ravahB-SvH96dWorTDf_vGqm8a858x6YUKV_MxLbHC27fS6pRrfft_SKedo97-hzXDnsxLnoj4wSC1lxZ3-w/rOiBRgz4i5H6P9tD8IWl3oNxs8iKNygwW2fSUk-azRc/video.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://167.88.14.149/wp-content/uploads/2022/05/Nonton-Eyang-Putri.jpg" group-title="VOD Film Indo BANGJAX TV",Eyang Putri (2021)
+http://23.226.71.76/p7DxoMNkiw5BdV_Q9kK1SlU55po3c1xdmFMk_s9oaFOfUVaJMcXgkEx8eSd2_d86KavmgvglHyrOdj2wg80gnA/XzHQuVb7R18aR7Ljm2Nw0u0HOpkhsMqYn3iOArTa3Jk/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/yqknC9JCttVznuayCJaSvbApT1K.jpg" group-title="VOD Film Indo BANGJAX TV",Satria Dewa: Gatotkaca (2022)
+http://23.226.71.76/ZwjRsrub42R-5vBKBlIMHu0dYi-E8VEHelPxppJv3qTPLjmagh49ckkom_C-UpmMryf8VfcRJPQHiroau8Vakw/UL-Yq6eBoTkeONulJDRvAepO6XqdPxrQA3BwFVqIRW4/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdns.klimg.com/resized/660x/g/foto_adegan_film_hantu_budeg/p/foto_adegan_film_hantu_budeg-20121120-001-uji.jpg" group-title="VOD Film Indo BANGJAX TV",Hantu Budeg (2012)
+https://storage.googleapis.com/b458263421913c0e2b8.appspot.com/dcfd9e1dc974eae60c63c18be6a4c346_1622868784.mp4?sumber=awal_storage
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/s0MJ12Lf412G3KD3VkNGplHtK48.jpg" group-title="VOD Film Indo BANGJAX TV",Kuntilanak 3 (2022)
+http://23.226.71.76/HRe4gSmShIp-8TYn54Slm4fJaBv_brzTtV_UU51iaoby9h1jMmkrFfAXPT5pX-KBGZvWgmo_UYPOUPbyYQnb0g/6ojzIjGAmn4PaeiNqK91WYqIJrACVQtXakVZAJ-M-Yg/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/pJA0ncjV9J9mSokynAQP9O9m2lV.jpg" group-title="VOD Film Indo BANGJAX TV",Ngeri-Ngeri Sedap (2022)
+http://23.226.71.76/On5j05fg9xlgii8doFIVKpYdtPr0HX16y1ok7-uKduRFM_lzz390aNN_tF1l86hEBZp49bCbSY7tUKssPYTEaw/mOyI8yNUFaiE8lYAyx6qn1R0-Mss1vvYDNP-JBXCTGQ/video.m3u8
+
+#EXTINF:-1 tvg-logo="http://104.237.198.195/wp-content/uploads/2022/09/Nonton-Film-Kalut-Nak-Kahwin-241x300.jpg" group-title="VOD Film Indo BANGJAX TV",Kalut Nak Kahwin (2022)
+http://23.226.71.76/utvlV2S6WbOhltc0Fs818DZu4HHs6r9x8rPGYPGkI_NyjHTybpxSsF5Rw6LeV02NqkHXtn5jSddAtS0316f6QA/ZYG0dU4mls8psRork7kzq4fLZy2Z9l-3_xV0DWb0Gl0/720.m3u8
+
+#EXTINF:-1 tvg-logo="http://104.237.198.195/wp-content/uploads/2022/09/gmzPfRI5n6VPleiImv4kAsnEGdO.jpg" group-title="VOD Film Indo BANGJAX TV",Mahlukat (2022)
+http://23.226.71.76/pQ-Xk4F8RJNz4VB65eskZOvTjiQQAE_3ESXIztWwOqMej2lBzK9gmdGKfgLKWFnF3WCs2BXGheRdNZp-FJNhSQ/uJDKkZ7XnzXgnEGOrV4UVKYAmo5WitAlB5klLdaI0yQ/video.m3u8
+
+#EXTINF:-1 tvg-logo="http://104.237.198.195/wp-content/uploads/2022/09/5u9PbAMrWxZYourYksyFRPBbfCU.jpg" group-title="VOD Film Indo BANGJAX TV",One Night Stand (2022)
+http://23.226.71.76/8MYOPXxnbrLERlm95S0yl64KDnR9HkkpurC-WYQUN0bteOwWTLGMk97SyL26YoCNMAWtbs--FTCZDNdsHeWpjg/nnfCKEQm5BIceZRIjZ3XJuuzcayS1738y7F0eNlFxPs/video.m3u8
+
+#EXTINF:-1 tvg-logo="http://104.237.198.195/wp-content/uploads/2022/09/dhIcT3nNSIF5CzOGkFwkq2DEwh1.jpg" group-title="VOD Film Indo BANGJAX TV",Gara-Gara Warisan (2022)
+http://23.226.71.76/QSxPvFg1t-btSCeb06QlK9ZbMZ5nc5jgjCYNsSBdOg_SXjWbntsgDs9Uaw-wvAscrpBEn1K_59bS8OkqLBfSFg/La7yaK9KmOzdAy6STsaZCRPbLZQxwCN4awGjSzSBG2Q/video.m3u8
+
+#EXTINF:-1 tvg-logo="http://104.237.198.195/wp-content/uploads/2022/08/wvBIGpNrjO2xNJsMFSQkxoJIkQ1.jpg" group-title="VOD Film Indo BANGJAX TV",Garis Waktu (2022)
+http://23.226.71.76/40_3vBvCuekRCMo-WHWUA2B2KyCcDxutorK3gseaoH_YAxBo56pGTw6JJ6MfZZ5aJy6M0p_ORyKzsMCy56WIug/w08-8HHJgN-OHv3ZFnLzsonxh7OsdNCPcpq5BQSmwBU/video.m3u8
+
+#EXTINF:-1 tvg-logo="http://104.237.198.195/wp-content/uploads/2022/09/Nonton-Film-Perjalanan-Pertama-Full-Movie-200x300.jpg" group-title="VOD Film Indo BANGJAX TV",Perjalanan Pertama (2022)
+http://23.226.71.76/RyKpTX27rhnIYnsToBDdQjFvvI9UVG5qzrhv4664p0N2FtXZE55TvOydANl-Dl4TER6pRQ6jXfBSQMRMXTqnNw/kEEHKc4qvsKb0osC7Aq8l7GD4F_4Fepyf7_RpQZojdM/video.m3u8
+
+#EXTINF:-1 tvg-logo="http://104.237.198.195/wp-content/uploads/2022/09/7UkcMbrurCHTe2CDu9WuIZkCisu.jpg" group-title="VOD Film Indo BANGJAX TV",Miracle in Cell No. 7 (CAM) (2022)
+http://23.226.71.76/3_y2pwLwzmv4jJVKC7wO_BAT6bSs0Ud_mgaY2_53mS-RU_2t3jyYb6VCrlOQX0xAJZRVDPrJvmygmE524EG3zA/ay7GT_laUVEy5PX8b_bSUptSzzvqy0x9gDaW1dzBC9k/video.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/5MK8njK8trk1xM1KeGSVd69AAvn.jpg" group-title="VOD Film Indo BANGJAX TV",Pengabdi Setan 2: Communion (2022)
+http://23.226.71.76/9KQi1qkP6r6EZoNYgb8Zk5PXz_PcxrDNqMlqAklqPWuz0w-GTGQmyf4c5EGUmQc6YZf6UEGlldxbw058jH0s8g/loG1Hg6ECma8lVvPN6jYVZ_MmQE8nODodDSdclScVjY/video.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/1fdqRcgEYNkXCnnKAzz2JtFnUv7.jpg" group-title="VOD Film Indo BANGJAX TV",Mencuri Raden Saleh (CAM) (2022)
+http://23.226.71.76/gEKrsjeXtM05zfnkqxfftB8WjBWgwitqUUKtUDvjLX1CqVTtU1aYH51bo6ET8ig0R13JH964ESw1Pc1hcMXvLw/B0YgheMOsZ2jDLNuYPHxMC31x_yVeI1kAqlv3I5AENY/video.m3u8
 
 
 =====5KARTUN=====
