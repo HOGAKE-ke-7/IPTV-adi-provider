@@ -1468,7 +1468,7 @@ https://m-inews.rctiplus.id/inews-sdi-avc1_1800000=6-mp4a_128000=1.m3u8|referer=
 #EXTINF:-1 tvg-id="inews.id" group-title="NASIONAL" tvg-logo="https://i.imgur.com/sojdCIg.png" , INEWS
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-https://newanv-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
+https://anv-live-cdn-118.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjhkOWZkZjYtOGViOC0zNTkzLWFhOWEtNGFhMzJkMDk3NGE2
 #EXTINF:-1 tvg-id="MUSICTV.id" tvg-logo="https://static.mncnow.id/images/channel/825ba442/de54.png" group-title=" NASIONAL", MuSiC tV
@@ -1548,7 +1548,7 @@ https://on-load.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjhkOWZkZjYtOGViOC0zNTkzLWFhOWEtNGFhMzJkMDk3NGE2
 #EXTINF:-1 tvg-id="RTV.id" tvg-logo="https://i.postimg.cc/TYtmTvLh/rtv.png" group-title=" NASIONAL", RTV
-https://nxanv-live-cdn.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd
+https://akm611a-live-cdn.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
 #EXTINF:-1 tvg-id="SCTV.id" tvg-logo="https://i.postimg.cc/xjyMFz9v/sctv.png" group-title=" NASIONAL", SCTV
