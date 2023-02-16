@@ -1524,9 +1524,9 @@ https://nxanv-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 #EXTINF:-1 tvg-id="Net.id" tvg-logo="https://i.postimg.cc/sX57zB7R/net.png" group-title=" NASIONAL", NET
 https://akm611a-live-cdn.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjhkOWZkZjYtOGViOC0zNTkzLWFhOWEtNGFhMzJkMDk3NGE2
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
 #EXTINF:-1 tvg-id="rcti.id" tvg-logo="https://static.mncnow.id/images/channel/928ba7e3/38c2.png" group-title=" NASIONAL" tvg-name="RCTI", RCTI
-https://avi-live-channel-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
+https://akm611a-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 #EXTINF:-1 tvg-id="rcti.id" tvg-logo="https://static.mncnow.id/images/channel/928ba7e3/38c2.png" group-title=" NASIONAL" tvg-name="RCTI", RCTI 2
 https://m-rcti.rctiplus.id/rcti-sdi-avc1_1800000=6-mp4a_128000=1.m3u8|referer=https://m.rctiplus.com/
 http://golive.yn.lt/live/aff/01.m3u8
