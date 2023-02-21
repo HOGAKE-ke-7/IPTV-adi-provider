@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://epg.pw/xmltv/epg_ID.xml" refresh="3600"
+#EXTM3U x-tvg-url="https://epg.pw/xmltv/epg_ID.xml, https://raw.githubusercontent.com/pendy99/iptv-epg/main/epg_ID.xml" refresh="1"
 
 ==============LIVEEVENT==============
 #EXTINF:-1 tvg-id="epl1.id" tvg-logo="https://i.ibb.co/Px0MpqN/Picsart-22-09-03-09-32-53-852.png" group-title="LIVE EVENT", LIVE FOOTBALL 1
