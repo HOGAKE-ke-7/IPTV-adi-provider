@@ -1761,12 +1761,32 @@ https://edge.taghtia.com/sa/6.m3u8
 https://h1.intechmedia.net/intech/ch64.m3u8
 #EXTINF:-1 tvg-id="RodjaTV.id"  tvg-logo="https://www.lyngsat.com/logo/tv/aa/al-iman-tv-id.png" group-title="ISLAM",  Al-Iman TV
 https://tv.rodja.live/aliman/ngrp:HD_all/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.rasyaad.tv/wp-content/uploads/2020/07/logo-rasyaad.png" group-title="ISLAM",RASYAAD TV
+https://h1.intechmedia.net/intech/ch6.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/medstv.jpg" group-title="ISLAM",MEDS TV ACEH
+https://h1.intechmedia.net/intech/ch23.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/makkah.png" group-title="ISLAM",MAKKAH TV
+http://210.210.155.35/qwr9ew/s/s28/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/medina.png" group-title="ISLAM",MADINAH TV
+http://210.210.155.35/qwr9ew/s/s27/index.m3u8
+#EXTINF:-1 tvg-logo="https://live.artvisi.or.id/logo/insantv.png" group-title="ISLAM",INSAN TV
+https://h1.intechmedia.net/intech/ch1.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/ahsan.png" group-title="ISLAM",AHSAN TV
+https://h1.intechmedia.net/intech/ch4.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/367F1A03-8317-448A-B336-CB5E0B14BD78.jpeg" group-title="ISLAM",ALFURQON TV
+https://h1.intechmedia.net/intech/ch24.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/HIJRAH TV.jpg" group-title="ISLAM",HIJRAH TV
+https://h1.intechmedia.net/intech/ch8.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/HIJRAH TV.jpg" group-title="ISLAM",HIJRAH TV
+https://h1.intechmedia.net/intech/ch8.m3u8
+#EXTINF:-1 tvg-logo="http://live.artvisi.or.id/logo/surautv.png" group-title="ISLAM",SURAU TV
+http://119.235.249.58:1935/surautv/live/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/alerth-alnabawi-channel-jo.png" group-title="ISLAM", Alnabawi
 http://82.212.74.2:8000/live/7307.m3u8
 #EXTINF:-1 group-title="ISLAM" tvg-logo="https://www.lyngsat.com/logo/tv/ss/surau_tv_id.png", SURAU TV
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(b3673fde-4acd-4f1d-95a5-a204d62545ac)/manifest.mpd
-#EXTINF:-1 group-title="ISLAM" tvg-logo="http://kamiselaluada.com/img/muadztv.png", muadzTV
-http://wowza60.indostreamserver.com:1935/muadztv/live/chunklist_123.m3u8
+#EXTINF:-1 group-title="ISLAM" tvg-logo="http://kamiselaluada.com/img/muadztv.png", Muadz TV
+https://h1.intechmedia.net/intech/ch5.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjhkOWZkZjYtOGViOC0zNTkzLWFhOWEtNGFhMzJkMDk3NGE2
 #EXTINF:-1 tvg-logo="https://static.mncnow.id/images/channel/67bf9750/1608.png" group-title="ISLAM", MNC Muslim
