@@ -1445,13 +1445,13 @@ http://ys-users.com:8080/obconline021/6eQmVNsDZY/497744
 http://ys-users.com:8080/obconline021/6eQmVNsDZY/497745
 ====================NASIONAL====================
 #EXTINF:-1 tvg-id="rcti.id" group-title="NASIONAL" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/dd/RCTI_logo_2015.svg/1280px-RCTI_logo_2015.svg.png",RCTI
-https://m-rcti.rctiplus.id/rcti-sdi-avc1_1800000=6-mp4a_128000=1.m3u8|referer=https://m.rctiplus.com/
+https://rcti-linier.rctiplus.id/rcti-sdi-avc1_600000=5-mp4a_96000=1.m3u8?auth_key=1676932898-e3857ea87232a0758eada641e06f53db-0-96ed2247e418921ab39d7bb9b2f1fbff|referer=https://m.rctiplus.com/
 #EXTINF:-1 tvg-id="gtv.id" group-title="NASIONAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/GTV_%282017%29.svg/1000px-GTV_%282017%29.svg.png",GTV
-https://m-gtv.rctiplus.id/gtv-sdi-avc1_1200000=5-mp4a_128000=1.m3u8|referer=https://m.rctiplus.com/
+https://gtv-linier.rctiplus.id/gtv-sdi-avc1_600000=5-mp4a_96000=1.m3u8?auth_key=1676933010-f3a586ff13a2d7adb064b633f9dfbbcf-0-abcab17e41f9d0260bd4c6a014a78acd|referer=https://m.rctiplus.com/
 #EXTINF:-2 tvg-id="mnctv.id" group-title="NASIONAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/MNCTV_logo_2015.svg/1600px-MNCTV_logo_2015.svg.png" tvg-name="MNCTV",MNCTV
-https://m-mnctv.rctiplus.id/mnctv-sdi-avc1_1200000=5-mp4a_128000=1.m3u8|referer=https://m.rctiplus.com/
+https://mnctv-linier.rctiplus.id/mnctv-sdi-avc1_600000=5-mp4a_96000=1.m3u8?auth_key=1676932965-536b0f54a45ee3f4e2fb0f19d4ae0c91-0-7bbe2e20baa5376683be7d95743c0298|referer=https://m.rctiplus.com/
 #EXTINF:-1 tvg-id="inews.id" group-title="NASIONAL" tvg-logo="https://i.imgur.com/sojdCIg.png" , INEWS
-https://m-inews.rctiplus.id/inews-sdi-avc1_1800000=6-mp4a_128000=1.m3u8|referer=https://m.rctiplus.com/
+https://inews-linier.rctiplus.id/inews-sdi-avc1_600000=5-mp4a_96000=1.m3u8?auth_key=1676933033-98f83d327bf31be1accbe8670cc83ba6-0-a4d95ef762e28e41335c204b0cd2cac8|referer=https://m.rctiplus.com/
 #EXTINF:-1 tvg-id="inews.id" group-title="NASIONAL" tvg-logo="https://i.imgur.com/sojdCIg.png" , INEWS
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
@@ -1528,7 +1528,7 @@ https://akm611a-live-cdn.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
 #EXTINF:-1 tvg-id="rcti.id" tvg-logo="https://static.mncnow.id/images/channel/928ba7e3/38c2.png" group-title=" NASIONAL" tvg-name="RCTI", RCTI
 https://akm611a-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 #EXTINF:-1 tvg-id="rcti.id" tvg-logo="https://static.mncnow.id/images/channel/928ba7e3/38c2.png" group-title=" NASIONAL" tvg-name="RCTI", RCTI 2
-https://m-rcti.rctiplus.id/rcti-sdi-avc1_1800000=6-mp4a_128000=1.m3u8|referer=https://m.rctiplus.com/
+https://rcti-linier.rctiplus.id/rcti-sdi-avc1_600000=5-mp4a_96000=1.m3u8?auth_key=1676932898-e3857ea87232a0758eada641e06f53db-0-96ed2247e418921ab39d7bb9b2f1fbff|referer=https://m.rctiplus.com/
 http://golive.yn.lt/live/aff/01.m3u8
 $https://avi-live-channel-cdn.mncnow.id/live/eds/RCTI/sa_dash_vmx/RCTI.mpd
 https://on-load.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
@@ -3065,7 +3065,7 @@ http://210.210.155.37/uq2663/h/h124/index.m3u8
 #EXTINF:-1 tvg-id=".id" tvg-logo="http://www.dens.tv/images/channel-logo/120.jpg" group-title="DENSTV",MOTO RACING
 http://210.210.155.37/uq2663/h/h223/index.m3u8
 #EXTINF:-1 tvg-id="rcti.id" tvg-logo="https://i.ibb.co/GCY8VdF/IMG-20221207-234520.png" group-title="DENSTV",RCTI
-https://rcti-linier.rctiplus.id/RCTI2022.m3u8|Referer=https://m.rctiplus.com/
+https://rcti-linier.rctiplus.id/rcti-sdi-avc1_600000=5-mp4a_96000=1.m3u8?auth_key=1676932898-e3857ea87232a0758eada641e06f53db-0-96ed2247e418921ab39d7bb9b2f1fbff|referer=https://m.rctiplus.com/
 #EXTINF:-1 tvg-id="mnctv.id" tvg-logo="https://i.ibb.co/dG3cP14/IMG-20221207-234300.png" group-title="DENSTV",MNCTV
 https://d2oaub8o4ti3xm.cloudfront.net/MNCTV_2021.m3u8|Referer=https://m.rctiplus.com/
 #EXTINF:-1 tvg-id="gtv.id" tvg-logo="https://i.ibb.co/K2xHhRC/IMG-20221207-234208.png" group-title="DENSTV",GTV
