@@ -1521,7 +1521,7 @@ http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist.m3u8
 https://nxanv-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjhkOWZkZjYtOGViOC0zNTkzLWFhOWEtNGFhMzJkMDk3NGE2
-#EXTINF:-1 tvg-id="Net.id" tvg-logo="https://i.postimg.cc/sX57zB7R/net.png" group-title=" NASIONAL", NET TV
+#EXTINF:-1 tvg-id="63241" tvg-logo="https://i.postimg.cc/sX57zB7R/net.png" group-title=" NASIONAL", NET TV
 https://akm611a-live-cdn.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
