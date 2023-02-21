@@ -334,7 +334,7 @@ http://15.235.166.26:8080/live/SmileFree/PakaiYangBijak/13.ts
 http://15.235.166.26:8080/live/SmileFree/PakaiYangBijak/15.ts
 
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/EknqlDs.png?v=1.1.1.1" group-title="LOKAL" tvg-id="iNews",iNews
-https://vcdn2.rctiplus.id/live/eds/INEWS_2021/live_fta/INEWS_2021.m3u8
+https://inews-linier.rctiplus.id/inews-sdi-avc1_600000=5-mp4a_96000=1.m3u8?auth_key=1676933033-98f83d327bf31be1accbe8670cc83ba6-0-a4d95ef762e28e41335c204b0cd2cac8|referer=https://m.rctiplus.com/
 
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/EknqlDs.png?v=1.1.1.1" group-title="LOKAL",JTV
 http://122.248.43.138:1935/ch2/myStream/playlist.m3u8
