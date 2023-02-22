@@ -1449,7 +1449,7 @@ https://rcti-linier.rctiplus.id/rcti-sdi-avc1_600000=5-mp4a_96000=1.m3u8?auth_ke
 #EXTINF:-1 tvg-id="gtv.id" group-title="NASIONAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/GTV_%282017%29.svg/1000px-GTV_%282017%29.svg.png",GTV
 https://gtv-linier.rctiplus.id/gtv-sdi-avc1_600000=5-mp4a_96000=1.m3u8?auth_key=1677087992-6ee569094ae1c74425b25f1bf4a82ecd-0-661a07bf50232f85d41e5b827030ce02|referer=https://m.rctiplus.com/
 #EXTINF:-2 tvg-id="mnctv.id" group-title="NASIONAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/MNCTV_logo_2015.svg/1600px-MNCTV_logo_2015.svg.png" tvg-name="MNCTV",MNCTV
-https://m-mnctv.rctiplus.id/mnctv-sdi-avc1_600000=5-mp4a_96000=1.m3u8%7Creferer=https://m.rctiplus.com/
+https://mnctv-linier.rctiplus.id/mnctv-sdi-avc1_600000=5-mp4a_96000=1.m3u8?auth_key=1677110411-c6519cb2527bd3e9d7488cb9b5b821a3-0-caf2032cb4027b808efaf22b3c86f322|referer=https://m.rctiplus.com/
 #EXTINF:-1 tvg-id="inews.id" group-title="NASIONAL" tvg-logo="https://i.imgur.com/sojdCIg.png" , INEWS
 https://inews-linier.rctiplus.id/inews-sdi-avc1_600000=5-mp4a_96000=1.m3u8?auth_key=1677088044-a5594bf6d637146933f236b9e762191d-0-423609bff0e4734cb2500498cca6bdd5|referer=https://m.rctiplus.com/
 #EXTINF:-1 tvg-id="inews.id" group-title="NASIONAL" tvg-logo="https://i.imgur.com/sojdCIg.png" , INEWS
