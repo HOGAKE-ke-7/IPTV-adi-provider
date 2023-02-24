@@ -10,161 +10,195 @@
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/Paijo29/1/main/live.jpg" group-title="LIVE EVENT",1. Barcelona vs Sociedad ( 03:00 WIB ) CH1
 https://newanv-live-cdn.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel-HD.mpd
 
-#EXTINF:-1 tvg-id=" tvg-logo="https://raw.githubusercontent.com/Paijo29/1/main/live.jpg" group-title="LIVE EVENT",1. Barcelona vs Sociedad ( 03:00 WIB ) CH2
-https://zenpro2.wedodemos.com/live/_definst_/stream_1_4e329@VG33/playlist.m3u8|referer=https://xoivo6.com/
+#EXTINF:-1 tvg-id=" tvg-logo="https://raw.githubusercontent.com/Paijo29/1/main/live.jpg" group-title="#1.LIVE EVENT",1. Nantes vs Juventus ( 00:45 WIB ) CH1
+https://lb.buy-global.store/live/lb555/bp1-240.m3u8|User-agent=ㅤyacineee55000
 
-#EXTINF:-1 tvg-id=" tvg-logo="https://raw.githubusercontent.com/Paijo29/1/main/live.jpg" group-title="LIVE EVENT",1. Barcelona vs Sociedad ( 03:00 WIB ) CH3
-https://newtest.webtv1.lol/lb/premium81/index.m3u8?|referer=https://widevine.licenses4.me/
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://raw.githubusercontent.com/Paijo29/1/main/live.jpg",1. Nantes vs Juventus ( 00:45 WIB ) CH2
+http://62.182.82.104/L_1_PREMIUM/index.m3u8?token=test&v=1673204766768
 
-#EXTINF:-1 tvg-id=" tvg-logo="https://raw.githubusercontent.com/Paijo29/1/main/live.jpg" group-title="LIVE EVENT",1. Barcelona vs Sociedad ( 03:00 WIB ) CH4
-https://cdn.raino.xyz/hls/stream3.m3u8|Referer=http://bdnewszh.com/
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://raw.githubusercontent.com/Paijo29/1/main/live.jpg",1. Nantes vs Juventus ( 00:45 WIB ) CH3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cbd13b7a883e53e98d5c7f34d0013be8:d5bc9e92f214d77520ab7faa1ecad10b
+https://director.streaming.telia.com/tvm-packager-prod/group1/60896c3647a23d7f115cd57a/manifest.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTINF:0 group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/Paijo29/1/main/live.jpg",2. Osasuna vs Sevilla ( 04:00 WIB ) CH1
-https://newanv-live-cdn.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd
+#EXTINF:-1 tvg-id=" tvg-logo="https://raw.githubusercontent.com/Paijo29/1/main/live.jpg" group-title="#1.LIVE EVENT",2. Midtjylland vs Sporting CP ( 00:45 WIB ) CH1
+https://webudit.onlinewebtv.lol/lb/premium49/index.m3u8?|referer=https://widevine.licenses4.me/
 
-#EXTINF:-1 tvg-id=" tvg-logo="https://raw.githubusercontent.com/Paijo29/1/main/live.jpg" group-title="LIVE EVENT",2. Osasuna vs Sevilla ( 04:00 WIB ) CH2
-https://zenpro2.wedodemos.com/live/_definst_/stream_1_4e329@VG40/playlist.m3u8|referer=https://xoivo6.com/
+#EXTINF:-1 tvg-id=" tvg-logo="https://raw.githubusercontent.com/Paijo29/1/main/live.jpg" group-title="#1.LIVE EVENT",2. Midtjylland vs Sporting CP ( 00:45 WIB ) CH2
+https://webudit.onlinewebtv.lol/lb/premium56/index.m3u8?|referer=https://widevine.licenses4.me/
 
-#EXTINF:-1 tvg-id=" tvg-logo="https://raw.githubusercontent.com/Paijo29/1/main/live.jpg" group-title="LIVE EVENT",2. Osasuna vs Sevilla ( 04:00 WIB ) CH3
-https://newtest.webtv1.lol/lb/premium137/index.m3u8?|referer=https://widevine.licenses4.me/
+#EXTINF:-1 tvg-id=" tvg-logo="https://raw.githubusercontent.com/Paijo29/1/main/live.jpg" group-title="#1.LIVE EVENT",3. Monaco vs Leverkusen ( 00:45 WIB ) CH1
+https://webudit.onlinewebtv.lol/lb/premium51/index.m3u8?|referer=https://widevine.licenses4.me/
 
-#EXTINF:-1 tvg-id=" tvg-logo="https://raw.githubusercontent.com/Paijo29/1/main/live.jpg" group-title="LIVE EVENT",3. Nottingham vs Man United ( 03:00 WIB ) CH1
-https://newtest.webtv1.lol/lb/premium414/index.m3u8?|referer=https://widevine.licenses4.me/
+#EXTINF:-1 tvg-id=" tvg-logo="https://raw.githubusercontent.com/Paijo29/1/main/live.jpg" group-title="#1.LIVE EVENT",3. Monaco vs Leverkusen ( 00:45 WIB ) CH2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ce17264b317db108f19cdc11aa1a9e66:a21188aee8fc5c56d016fcffcc6b2295
+https://cdn-01.toffeelive.com/origin-09/live-origin/smil:sony_ten1_hd.smil/manifest.mpd
 
-#EXTINF:-1 tvg-id=" tvg-logo="https://raw.githubusercontent.com/Paijo29/1/main/live.jpg" group-title="LIVE EVENT",3. Nottingham vs Man United ( 03:00 WIB ) CH2
-https://cdn.raino.xyz/hls/stream5.m3u8|Referer=http://bdnewszh.com/
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://raw.githubusercontent.com/Paijo29/1/main/live.jpg",4. PSV vs Sevilla ( 00:45 WIB ) CH1
+https://webudit.onlinewebtv.lol/lb/premium415/index.m3u8?|referer=https://widevine.licenses4.me/
 
-#EXTINF:-1 tvg-id=" tvg-logo="https://raw.githubusercontent.com/Paijo29/1/main/live.jpg" group-title="LIVE EVENT",3. Nottingham vs Man United ( 03:00 WIB ) CH3
-https://zenpro2.wedodemos.com/live/_definst_/stream_1_4e329@VG24/playlist.m3u8|referer=https://xoivo6.com/
+#EXTINF:-1 tvg-id=" tvg-logo="https://raw.githubusercontent.com/Paijo29/1/main/live.jpg" group-title="#1.LIVE EVENT",4. PSV vs Sevilla ( 00:45 WIB ) CH2
+https://lb.buy-global.store/live/lb555/bp2-240.m3u8|User-agent=ㅤyacineee55000
 
-#EXTINF:-1 tvg-id=" tvg-logo="https://raw.githubusercontent.com/Paijo29/1/main/live.jpg" group-title="LIVE EVENT",3. Nottingham vs Man United ( 03:00 WIB ) CH4
-https://75d6bb941b.s3.amazonaws.com/6591ae85fc/live.m3u8|Referer=https://da0sethasaix.pics/
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://raw.githubusercontent.com/Paijo29/1/main/live.jpg",5. Man United vs Barcelona ( 03:00 WIB ) CH1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ce17264b317db108f19cdc11aa1a9e66:a21188aee8fc5c56d016fcffcc6b2295
+https://cdn-01.toffeelive.com/origin-09/live-origin/smil:sony_ten2_hd.smil/manifest.mpd
 
-#EXTINF:-1 tvg-id=" tvg-logo="https://raw.githubusercontent.com/Paijo29/1/main/live.jpg" group-title="LIVE EVENT",3. Nottingham vs Man United ( 03:00 WIB ) CH5
-https://newtest.webtv1.lol/lb/premium61/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+#EXTINF:-1 tvg-id=" tvg-logo="https://raw.githubusercontent.com/Paijo29/1/main/live.jpg" group-title="#1.LIVE EVENT",5. Man United vs Barcelona ( 03:00 WIB ) CH2
+https://webudit.onlinewebtv.lol/lb/premium32/index.m3u8?|referer=https://widevine.licenses4.me/
+https://newtest.webtv1.lol/lb/premium32/index.m3u8|referer=https://widevine.licenses4.me/
 
-#EXTINF:-1 tvg-id=" tvg-logo="https://raw.githubusercontent.com/Paijo29/1/main/bundesliga.jpg" group-title="LIVE EVENT",4. Mainz vs Dortmund ( 00:30 WIB ) CH1
-https://zenpro2.wedodemos.com/live/_definst_/stream_1_4e329@VG26/playlist.m3u8|referer=https://xoivo6.com/
+#EXTINF:-1 tvg-id=" tvg-logo="https://raw.githubusercontent.com/Paijo29/1/main/live.jpg" group-title="#1.LIVE EVENT",5. Man United vs Barcelona ( 03:00 WIB ) CH3
+https://lb.buy-global.store/live/lb555/bp1-240.m3u8|User-agent=ㅤyacineee55000
 
-#EXTINF:-1 tvg-id=" tvg-logo="https://raw.githubusercontent.com/Paijo29/1/main/bundesliga.jpg" group-title="LIVE EVENT",4. Mainz vs Dortmund ( 00:30 WIB ) CH2
-https://newtest.webtv1.lol/lb/premium93/index.m3u8?|referer=https://widevine.licenses4.me/
+#EXTINF:-1 tvg-id=" tvg-logo="https://raw.githubusercontent.com/Paijo29/1/main/live.jpg" group-title="#1.LIVE EVENT",6. AS Roma vs RB Salzburg ( 03:00 WIB ) CH1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ce37e20374e55be6bb4d26837af27605:52cc532f748fcbf2b806dad4289bf84c
+https://director.streaming.telia.com/tvm-packager-prod/group1/60896dfd47a23d7c065cd68c/manifest.mpd
 
-#EXTINF:-1 tvg-id=" tvg-logo="https://raw.githubusercontent.com/Paijo29/1/main/liga%20portugal.jpg" group-title="LIVE EVENT",4. Mainz vs Dortmund ( 00:30 WIB ) CH3
-https://cdn.raino.xyz/hls/stream1.m3u8|Referer=http://bdnewszh.com/
+#EXTINF:-1 tvg-id=" tvg-logo="https://raw.githubusercontent.com/Paijo29/1/main/live.jpg" group-title="#1.LIVE EVENT",6. AS Roma vs RB Salzburg ( 03:00 WIB ) CH2
+https://webudit.onlinewebtv.lol/lb/premium56/index.m3u8?|referer=https://widevine.licenses4.me/
 
-#EXTINF:-1 tvg-id=" tvg-logo="https://raw.githubusercontent.com/Paijo29/1/main/bundesliga.jpg" group-title="LIVE EVENT",4. Mainz vs Dortmund ( 00:30 WIB ) CH4
-https://newtest.webtv1.lol/lb/premium93/index.m3u8|referer=https://widevine.licenses4.me/
+#EXTINF:-1 tvg-id=" tvg-logo="https://raw.githubusercontent.com/Paijo29/1/main/live.jpg" group-title="#1.LIVE EVENT",6. AS Roma vs RB Salzburg ( 03:00 WIB ) CH3
+https://lb.buy-global.store/live/lb555/bp2-240.m3u8|User-agent=ㅤyacineee55000
 
-#EXTINF:-1 tvg-id=" tvg-logo="https://raw.githubusercontent.com/Paijo29/1/main/bundesliga.jpg" group-title="LIVE EVENT",5. Leverkusen vs Bochum ( 02:30 WIB ) CH1
-https://newtest.webtv1.lol/lb/premium91/index.m3u8|referer=https://widevine.licenses4.me/
+#EXTINF:-1 tvg-id=" tvg-logo="https://raw.githubusercontent.com/Paijo29/1/main/live.jpg" group-title="#1.LIVE EVENT",7. Rennes vs Shakhtar ( 03:00 WIB ) CH1
+https://lb.buy-global.store/live/lb555/bp3-240.m3u8|User-agent=ㅤyacineee55000
 
-#EXTINF:-1 tvg-id=" tvg-logo="https://raw.githubusercontent.com/Paijo29/1/main/bundesliga.jpg" group-title="LIVE EVENT",5. Leverkusen vs Bochum ( 02:30 WIB ) CH2
-https://zenpro2.wedodemos.com/live/_definst_/stream_1_4e329@VG36/playlist.m3u8|referer=https://xoivo6.com/
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://raw.githubusercontent.com/Paijo29/1/main/live.jpg",7. Rennes vs Shakhtar ( 03:00 WIB ) CH2
+https://webudit.onlinewebtv.lol/lb/premium418/index.m3u8?|referer=https://widevine.licenses4.me/
 
-#EXTINF:-1 tvg-id=" tvg-logo="https://raw.githubusercontent.com/Paijo29/1/main/bundesliga.jpg" group-title="LIVE EVENT",5. Leverkusen vs Bochum ( 02:30 WIB ) CH3
-https://newtest.webtv1.lol/lb/premium91/index.m3u8?|referer=https://widevine.licenses4.me/
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://raw.githubusercontent.com/Paijo29/1/main/live.jpg",8. Union Berlin vs Ajax ( 03:00 WIB ) CH1
+https://webudit.onlinewebtv.lol/lb/premium415/index.m3u8?|referer=https://widevine.licenses4.me/
 
-#EXTINF:-1 tvg-id=" tvg-logo="https://raw.githubusercontent.com/Paijo29/1/main/bundesliga.jpg" group-title="LIVE EVENT",5. Leverkusen vs Bochum ( 02:30 WIB ) CH4
-https://cdn.raino.xyz/hls/stream2.m3u8|Referer=http://bdnewszh.com/
+#EXTINF:-1 tvg-id=" tvg-logo="https://raw.githubusercontent.com/Paijo29/1/main/live.jpg" group-title="#1.LIVE EVENT",8. Union Berlin vs Ajax ( 03:00 WIB ) CH2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=04c5eaf62cd75f2d947ab4d621f39256:76967598962e7a7314a2b251e9070725
+https://director.streaming.telia.com/tvm-packager-prod/group1/6089c17d47a23d76645ceaf4/manifest.mpd
 
-#EXTINF:-1 tvg-id=" tvg-logo="https://raw.githubusercontent.com/Paijo29/1/main/liga%20portugal.jpg" group-title="LIVE EVENT",6. Porto vs Viseu ( 02:45 WIB ) CH1
-https://newtest.webtv1.lol/lb/premium49/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://raw.githubusercontent.com/Paijo29/1/main/live.jpg",9. M'gladbach vs Bayern Munchen ( 21:30 WIB ) CH1
+#https://webudit.onlinewebtv.lol/lb/premium103/index.m3u8?|referer=https://widevine.licenses4.me/
 
-#EXTINF:-1 tvg-id=" tvg-logo="https://raw.githubusercontent.com/Paijo29/1/main/liga%20portugal.jpg" group-title="LIVE EVENT",6. Porto vs Viseu ( 02:45 WIB ) CH2
-https://zenpro2.wedodemos.com/live/_definst_/stream_1_4e329@VG18/playlist.m3u8|referer=https://xoivo6.com/
+#EXTINF:-1 tvg-id=" tvg-logo="https://raw.githubusercontent.com/Paijo29/1/main/live.jpg" group-title="#1.LIVE EVENT",9. M'gladbach vs Bayern Munchen ( 21:30 WIB ) CH2
+#https://webudit.onlinewebtv.lol/lb/premium467/index.m3u8?|referer=https://widevine.licenses4.me/
 
-#EXTINF:-1 tvg-id=" tvg-logo="https://raw.githubusercontent.com/Paijo29/1/main/liga%20portugal.jpg" group-title="LIVE EVENT",6. Porto vs Viseu ( 02:45 WIB ) CH3
-https://newtest.webtv1.lol/lb/premium82/index.m3u8?|referer=https://widevine.licenses4.me/
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://raw.githubusercontent.com/Paijo29/1/main/live.jpg",10. Lille vs Strasbourg ( 21:00 WIB ) CH1
+#http://103.167.167.5:8111/play/a02n/index.m3u8
 
-#EXTINF:-1 tvg-id=" tvg-logo="https://bit.ly/BangjaxPlaylistLifeTime" group-title="LIVE EVENT",8. Villarreal vs Girona ( 20:00 WIB )
-#https://newtest.webtv1.lol/lb/premium415/index.m3u8?|referer=https://widevine.licenses4.me/
+#EXTINF:-1 tvg-id=" tvg-logo="https://raw.githubusercontent.com/Paijo29/1/main/live.jpg" group-title="#1.LIVE EVENT",10. Wolfsburg vs RB Leipzig ( 21:30 WIB ) CH1
+https://newtest.webtv1.lol/lb/premium442/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
-#EXTINF:-1 tvg-id=" tvg-logo="https://bit.ly/BangjaxPlaylistLifeTime" group-title="LIVE EVENT",8. Villarreal vs Girona ( 20:00 WIB )
-#https://zenpro2.wedodemos.com/live/_definst_/stream_1_4e329@VG10/playlist.m3u8|referer=https://xoivo6.com/
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://raw.githubusercontent.com/Paijo29/1/main/live.jpg",11. Porto vs Rio Ave ( 03:30 WIB ) CH1
+https://webudit.onlinewebtv.lol/lb/premium49/index.m3u8?|referer=https://widevine.licenses4.me/
 
-#EXTINF:-1 tvg-id=" tvg-logo="https://bit.ly/BangjaxPlaylistLifeTime" group-title="LIVE EVENT",9. Elche vs Osasuna ( 22:15 WIB )
-#https://cdn.raino.xyz/hls/stream3.m3u8|Referer=http://bdnewszh.com/
+#EXTINF:-1 tvg-id=" tvg-logo="https://raw.githubusercontent.com/Paijo29/1/main/live.jpg" group-title="#1.LIVE EVENT",11. Porto vs Rio Ave ( 03:30 WIB ) CH2
+#http://103.167.167.5:8111/play/a02n/index.m3u8
 
-#EXTINF:-1 tvg-id=" tvg-logo="https://bit.ly/BangjaxPlaylistLifeTime" group-title="LIVE EVENT",9. Elche vs Osasuna ( 22:15 WIB )
-#https://newtest.webtv1.lol/lb/premium415/index.m3u8?|referer=https://widevine.licenses4.me/
+#EXTINF:-1 tvg-id=" tvg-logo="https://raw.githubusercontent.com/Paijo29/1/main/live.jpg" group-title="#1.LIVE EVENT",12. Ajax vs RKC Waalwijk ( 22:45 WIB ) CH1
+#https://webudit.onlinewebtv.lol/lb/premium386/index.m3u8?|referer=https://widevine.licenses4.me/
 
-#EXTINF:-1 tvg-id=" tvg-logo="https://bit.ly/BangjaxPlaylistLifeTime" group-title="LIVE EVENT",9. Elche vs Osasuna ( 22:15 WIB )
-#https://zenpro2.wedodemos.com/live/_definst_/stream_1_4e329@VG10/playlist.m3u8|referer=https://xoivo6.com/
+#EXTINF:-1 tvg-id=" tvg-logo="https://raw.githubusercontent.com/Paijo29/1/main/live.jpg" group-title="#1.LIVE EVENT",12. Ajax vs RKC Waalwijk ( 22:45 WIB ) CH2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
+#https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-022/stream.mpd
 
-#EXTINF:-1 tvg-id=" tvg-logo="https://bit.ly/BangjaxPlaylistLifeTime" group-title="LIVE EVENT",10. Barcelona vs Getafe ( 00:30 WIB )
-#https://cdn.raino.xyz/hls/stream3.m3u8|Referer=http://bdnewszh.com/
+#EXTINF:-1 tvg-id=" tvg-logo="https://raw.githubusercontent.com/Paijo29/1/main/live.jpg" group-title="#1.LIVE EVENT",13. Sporting CP vs Porto ( 01:00 WIB ) CH1
+#https://zenpro2.wedodemos.com/live/_definst_/stream_1_4e329@VG09/playlist.m3u8|referer=https://xoivo6.com/
 
-#EXTINF:-1 tvg-id=" tvg-logo="https://bit.ly/BangjaxPlaylistLifeTime" group-title="LIVE EVENT",10.  Barcelona vs Getafe ( 00:30 WIB )
-#https://newtest.webtv1.lol/lb/premium415/index.m3u8?|referer=https://widevine.licenses4.me/
+#EXTINF:-1 tvg-id=" tvg-logo="https://raw.githubusercontent.com/Paijo29/1/main/live.jpg" group-title="#1.LIVE EVENT",13. Sporting CP vs Porto ( 01:00 WIB ) CH2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
+#https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-022/stream.mpd
 
-#EXTINF:-1 tvg-id=" tvg-logo="https://bit.ly/BangjaxPlaylistLifeTime" group-title="LIVE EVENT",10.  Barcelona vs Getafe ( 00:30 WIB )
-#https://zenpro2.wedodemos.com/live/_definst_/stream_1_4e329@VG10/playlist.m3u8|referer=https://xoivo6.com/
-
-#EXTINF:-1 tvg-id=" tvg-logo="https://bit.ly/BangjaxPlaylistLifeTime" group-title="LIVE EVENT",11.  Atle Bilbao vs Real Madrid ( 03:00 WIB )
-#https://cdn.raino.xyz/hls/stream3.m3u8|Referer=http://bdnewszh.com/
-
-#EXTINF:-1 tvg-id=" tvg-logo="https://bit.ly/BangjaxPlaylistLifeTime" group-title="LIVE EVENT",11.  Atle Bilbao vs Real Madrid ( 03:00 WIB )
-#https://newtest.webtv1.lol/lb/premium415/index.m3u8?|referer=https://widevine.licenses4.me/
-
-#EXTINF:-1 tvg-id=" tvg-logo="https://bit.ly/BangjaxPlaylistLifeTime" group-title="LIVE EVENT",11.  Atle Bilbao vs Real Madrid ( 03:00 WIB )
-#https://zenpro2.wedodemos.com/live/_definst_/stream_1_4e329@VG10/playlist.m3u8|referer=https://xoivo6.com/
-
-#EXTINF:-1 tvg-id=" tvg-logo="https://bit.ly/BangjaxPlaylistLifeTime" group-title="LIVE EVENT",11.  Atle Bilbao vs Real Madrid ( 03:00 WIB )
-#https://newtest.webtv1.lol/lb/premium415/index.m3u8?|referer=https://widevine.licenses4.me/
-
-#EXTINF:-1 tvg-id=" tvg-logo="https://bit.ly/BangjaxPlaylistLifeTime" group-title="LIVE EVENT",11.  Atle Bilbao vs Real Madrid ( 03:00 WIB )
-#https://cdn.raino.xyz/hls/stream3.m3u8|Referer=http://bdnewszh.com/
-
-#EXTINF:-1 tvg-id=" tvg-logo="https://bit.ly/BangjaxPlaylistLifeTime" group-title="LIVE EVENT",12.  B Dortmund vs Augsburg ( 21:30 WIB )
-#https://white45.click:2086/live/mario2009/fsdfgfdsxdf/80243.m3u8
-
-#EXTINF:-1 tvg-id=" tvg-logo="https://bit.ly/BangjaxPlaylistLifeTime" group-title="LIVE EVENT",12. B Dortmund vs Augsburg ( 21:30 WIB )
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://raw.githubusercontent.com/Paijo29/1/main/live.jpg",13. Clermont vs Marseille ( 03:00 WIB ) CH2
 #https://zenpro2.wedodemos.com/live/_definst_/stream_1_4e329@VG18/playlist.m3u8|referer=https://xoivo6.com/
 
-#EXTINF:-1 tvg-id=" tvg-logo="https://bit.ly/BangjaxPlaylistLifeTime" group-title="LIVE EVENT",12.  B Dortmund vs Augsburg ( 21:30 WIB )
+#EXTINF:-1 tvg-id=" tvg-logo="https://raw.githubusercontent.com/Paijo29/1/main/live.jpg" group-title="#1.LIVE EVENT",14. PSV vs Groningen ( 02:00 WIB ) CH1
+#https://global.zkshuye.cn/live/sd-1-3747465.m3u8
+
+#EXTINF:-1 tvg-id=" tvg-logo="https://raw.githubusercontent.com/Paijo29/1/main/live.jpg" group-title="#1.LIVE EVENT",14. PSV vs Groningen ( 02:00 WIB ) CH2
+#https://webudit.onlinewebtv.lol/lb/premium379/index.m3u8?|referer=https://widevine.licenses4.me/
+
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://raw.githubusercontent.com/Paijo29/1/main/live.jpg",14. Cambuur vs Ajax ( 18:15 WIB ) CH3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
+#https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-022/stream.mpd
+
+#EXTINF:-1 tvg-id=" tvg-logo="https://raw.githubusercontent.com/Paijo29/1/main/live.jpg" group-title="#1.LIVE EVENT",15. Feyenoord vs PSV ( 20:30 WIB ) CH1
+#https://zenpro2.wedodemos.com/live/_definst_/stream_1_4e329@VG34/playlist.m3u8|referer=https://xoivo6.com/
+
+#EXTINF:-1 tvg-id=" tvg-logo="https://raw.githubusercontent.com/Paijo29/1/main/live.jpg" group-title="#1.LIVE EVENT",15. Feyenoord vs PSV ( 20:30 WIB ) CH2
+#https://global.zkshuye.cn/live/sd-1-3747466.m3u8
+
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://raw.githubusercontent.com/Paijo29/1/main/live.jpg",15. Feyenoord vs PSV ( 20:30 WIB ) CH3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cbd13b7a883e53e98d5c7f34d0013be8:d5bc9e92f214d77520ab7faa1ecad10b
+#https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-022/stream.mpd
+
+#EXTINF:-1 tvg-id=" tvg-logo="https://raw.githubusercontent.com/Paijo29/1/main/live.jpg" group-title="#1.LIVE EVENT",16. Porto vs Vizela ( 01:00 WIB ) CH1
+#https://cdn.raino.xyz/hls/stream10.m3u8|Referer=http://bdnewszh.com/
+
+#EXTINF:-1 tvg-id=" tvg-logo="https://raw.githubusercontent.com/Paijo29/1/main/live.jpg" group-title="#1.LIVE EVENT",16. Porto vs Vizela ( 01:00 WIB ) CH2
+#https://zenpro2.wedodemos.com/live/_definst_/stream_1_4e329@VG29/playlist.m3u8|referer=https://xoivo6.com/
+
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://raw.githubusercontent.com/Paijo29/1/main/live.jpg",16. Porto vs Vizela ( 01:00 WIB ) CH3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cbd13b7a883e53e98d5c7f34d0013be8:d5bc9e92f214d77520ab7faa1ecad10b
+#https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-022/stream.mpd
+
+#EXTINF:-1 tvg-id=" tvg-logo="https://raw.githubusercontent.com/Paijo29/1/main/live.jpg" group-title="#1.LIVE EVENT",11.  Atle Bilbao vs Real Madrid ( 03:00 WIB )
+#https://cdn.raino.xyz/hls/stream3.m3u8|Referer=http://bdnewszh.com/
+
+#EXTINF:-1 tvg-id=" tvg-logo="https://raw.githubusercontent.com/Paijo29/1/main/live.jpg" group-title="#1.LIVE EVENT",12.  B Dortmund vs Augsburg ( 21:30 WIB )
+#https://white45.click:2086/live/mario2009/fsdfgfdsxdf/80243.m3u8
+
+#EXTINF:-1 tvg-id=" tvg-logo="https://raw.githubusercontent.com/Paijo29/1/main/live.jpg" group-title="#1.LIVE EVENT",12. B Dortmund vs Augsburg ( 21:30 WIB )
+#https://zenpro2.wedodemos.com/live/_definst_/stream_1_4e329@VG18/playlist.m3u8|referer=https://xoivo6.com/
+
+#EXTINF:-1 tvg-id=" tvg-logo="https://raw.githubusercontent.com/Paijo29/1/main/live.jpg" group-title="#1.LIVE EVENT",12.  B Dortmund vs Augsburg ( 21:30 WIB )
 #https://newtest.webtv1.lol/lb/premium93/index.m3u8?|referer=https://widevine.licenses4.me/
 
-#EXTINF:-1 tvg-id=" tvg-logo="https://bit.ly/BangjaxPlaylistLifeTime" group-title="LIVE EVENT",13. Mgladbach vs Leverkusen ( 23:30 WIB )
+#EXTINF:-1 tvg-id=" tvg-logo="https://raw.githubusercontent.com/Paijo29/1/main/live.jpg" group-title="#1.LIVE EVENT",13. Mgladbach vs Leverkusen ( 23:30 WIB )
 #https://zenpro2.wedodemos.com/live/_definst_/stream_1_4e329@VG11/playlist.m3u8|referer=https://xoivo6.com/
 
-#EXTINF:-1 tvg-id=" tvg-logo="https://bit.ly/BangjaxPlaylistLifeTime" group-title="LIVE EVENT",13.  Mgladbach vs Leverkusen ( 23:30 WIB )
+#EXTINF:-1 tvg-id=" tvg-logo="https://raw.githubusercontent.com/Paijo29/1/main/live.jpg" group-title="#1.LIVE EVENT",13.  Mgladbach vs Leverkusen ( 23:30 WIB )
 #https://newtest.webtv1.lol/lb/premium93/index.m3u8?|referer=https://widevine.licenses4.me/
 
-#EXTINF:-1 tvg-id=" tvg-logo="https://bit.ly/BangjaxPlaylistLifeTime" group-title="LIVE EVENT",13.  Mgladbach vs Leverkusen ( 23:30 WIB )
+#EXTINF:-1 tvg-id=" tvg-logo="https://raw.githubusercontent.com/Paijo29/1/main/live.jpg" group-title="#1.LIVE EVENT",13.  Mgladbach vs Leverkusen ( 23:30 WIB )
 #https://white45.click:2086/live/mario2009/fsdfgfdsxdf/80244.m3u8
 
-#EXTINF:-1 tvg-id=" tvg-logo="https://bit.ly/BangjaxPlaylistLifeTime" group-title="LIVE EVENT",14.  Lille vs Pau ( 00:30 WIB )
+#EXTINF:-1 tvg-id=" tvg-logo="https://raw.githubusercontent.com/Paijo29/1/main/live.jpg" group-title="#1.LIVE EVENT",14.  Lille vs Pau ( 00:30 WIB )
 #https://newtest.webtv1.lol/lb/premium92/index.m3u8?|referer=https://widevine.licenses4.me/
 
-#EXTINF:-1 tvg-id=" tvg-logo="https://bit.ly/BangjaxPlaylistLifeTime" group-title="LIVE EVENT",14.  Lille vs Pau ( 00:30 WIB )
+#EXTINF:-1 tvg-id=" tvg-logo="https://raw.githubusercontent.com/Paijo29/1/main/live.jpg" group-title="#1.LIVE EVENT",14.  Lille vs Pau ( 00:30 WIB )
 #https://zenpro2.wedodemos.com/live/_definst_/stream_1_4e329@VG42/playlist.m3u8|referer=https://xoivo6.com/
 
-#EXTINF:-1 tvg-id=" tvg-logo="https://bit.ly/BangjaxPlaylistLifeTime" group-title="LIVE EVENT",15.  Feyenoord vs Ajax ( 20:30 WIB )
+#EXTINF:-1 tvg-id=" tvg-logo="https://raw.githubusercontent.com/Paijo29/1/main/live.jpg" group-title="#1.LIVE EVENT",15.  Feyenoord vs Ajax ( 20:30 WIB )
 #https://newtest.webtv1.lol/lb/premium125/index.m3u8?|referer=https://widevine.licenses4.me/
 
-#EXTINF:-1 tvg-id=" tvg-logo="https://bit.ly/BangjaxPlaylistLifeTime" group-title="LIVE EVENT",15.  Feyenoord vs Ajax ( 20:30 WIB )
+#EXTINF:-1 tvg-id=" tvg-logo="https://raw.githubusercontent.com/Paijo29/1/main/live.jpg" group-title="#1.LIVE EVENT",15.  Feyenoord vs Ajax ( 20:30 WIB )
 #https://zenpro2.wedodemos.com/live/_definst_/stream_1_4e329@VG13/playlist.m3u8|referer=https://xoivo6.com/
 
-#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://bit.ly/BangjaxPlaylistLifeTime",16. Al Nassr (CR7) vs Al Ittifaq ( 00:30 WIB )
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://raw.githubusercontent.com/Paijo29/1/main/live.jpg",16. Al Nassr (CR7) vs Al Ittifaq ( 00:30 WIB )
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=74ec471a250d423e9de47243fe4e7378:a2e328ed74149502cdeaad656f6af378
 #https://ssc-1-ak.akamaized.net/out/v1/0da39f594cc34c4a9b03f0d696a86276/index.mpd
 
-#EXTINF:-1 tvg-id=" tvg-logo="https://bit.ly/BangjaxPlaylistLifeTime" group-title="LIVE EVENT",16.  Al Nassr (CR7) vs Al Ittifaq ( 00:30 WIB )
+#EXTINF:-1 tvg-id=" tvg-logo="https://raw.githubusercontent.com/Paijo29/1/main/live.jpg" group-title="#1.LIVE EVENT",16.  Al Nassr (CR7) vs Al Ittifaq ( 00:30 WIB )
 #http://51.159.105.171/live/26nov.usman/446622/224922.ts?token=GhMNBEZcR1gRVgBbXFcGAgIGBgEDXAsIW15TUFAJV1JUAlcBAwYAWwJEGBoXEhZRBVtrXgVGAgJQUg4GARQUFhJUFzpcUEdYEVQBCVRWUxZIFEBeDAEaClNQAAcECQFVUgZJR0VdAUAJRAUMU1ZQFkgUUU8VAUpeAwpoUFZOXwAEE18LQFgJThEJWmcAAwlVClIWDUNVGhxAD0REEQJYFg1dSUdXXREQUhJRGl5EVgxXDhYbQwdXRQwSRU0RAhQqLxNJR1BMEQddFV1XCkReFhBFFhtDDUtvEANEQEFdVw4EQ0dfFwRHThELVUA7BQtaClNXQwgLVkNAXBUFERQUDg5fDBFaRjoSWgIWAkZXUAJcDhZK
 
-#EXTINF:-1 tvg-id=" tvg-logo="https://bit.ly/BangjaxPlaylistLifeTime" group-title="LIVE EVENT",16.  Al Nassr (CR7) vs Al Ittifaq ( 00:30 WIB )
+#EXTINF:-1 tvg-id=" tvg-logo="https://raw.githubusercontent.com/Paijo29/1/main/live.jpg" group-title="#1.LIVE EVENT",16.  Al Nassr (CR7) vs Al Ittifaq ( 00:30 WIB )
 #http://golive.yn.lt/live/bola/03.m3u8
 
-#EXTINF:-1 tvg-id=" tvg-logo="https://bit.ly/BangjaxPlaylistLifeTime" group-title="LIVE EVENT",16.  Al Nassr (CR7) vs Al Ittifaq ( 00:30 WIB )
+#EXTINF:-1 tvg-id=" tvg-logo="https://raw.githubusercontent.com/Paijo29/1/main/live.jpg" group-title="#1.LIVE EVENT",16.  Al Nassr (CR7) vs Al Ittifaq ( 00:30 WIB )
 #http://golive.yn.lt/live/bola/07.m3u8
 
-#EXTINF:-1 tvg-id=" tvg-logo="https://bit.ly/BangjaxPlaylistLifeTime" group-title="LIVE EVENT",17.  Koln vs Werder Bremen ( 00:30 WIB )
+#EXTINF:-1 tvg-id=" tvg-logo="https://raw.githubusercontent.com/Paijo29/1/main/live.jpg" group-title="#1.LIVE EVENT",17.  Koln vs Werder Bremen ( 00:30 WIB )
 #https://newtest.webtv1.lol/lb/premium93/index.m3u8?|referer=https://widevine.licenses4.me/
 
-#EXTINF:-1 tvg-id=" tvg-logo="https://bit.ly/BangjaxPlaylistLifeTime" group-title="LIVE EVENT",17.  Koln vs Werder Bremen ( 00:30 WIB )
+#EXTINF:-1 tvg-id=" tvg-logo="https://raw.githubusercontent.com/Paijo29/1/main/live.jpg" group-title="#1.LIVE EVENT",17.  Koln vs Werder Bremen ( 00:30 WIB )
 #https://white45.click:2086/live/mario2009/fsdfgfdsxdf/80243.m3u8
 
 #EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://raw.githubusercontent.com/Paijo29/1/main/briliga1.jpg",BRI Liga 1 (Server 1) 
@@ -401,7 +435,7 @@ https://bit.ly/Trans7yeyem3u8
 #EXTINF:-1 group-title="LOKAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/MNCTV_logo_2015.svg/1600px-MNCTV_logo_2015.svg.png",MNC TV Vision+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-https://newanv-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
+https://anevi-live-channel-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 
 #EXTINF:-1 group-title="LOKAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/MNCTV_logo_2015.svg/1600px-MNCTV_logo_2015.svg.png",MNC TV Rcti+
 https://m-mnctv.rctiplus.id/mnctv-sdi-avc1_600000=5-mp4a_96000=1.m3u8|referer=https://m.rctiplus.com/
@@ -425,7 +459,7 @@ https://gtv-linier.rctiplus.id/gtv-sdi-avc1_600000=5-mp4a_96000=1.m3u8?auth_key=
 #EXTINF:-1 group-title="LOKAL" tvg-logo="https://i.imgur.com/sojdCIg.png",iNews Vision+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-https://avia-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
+https://anevi-live-channel-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
 
 #EXTINF:-1 group-title="LOKAL" tvg-logo="https://i.imgur.com/sojdCIg.png" ,iNews Rcti+
 https://inews-linier.rctiplus.id/inews-sdi-avc1_600000=5-mp4a_96000=1.m3u8?auth_key=1677222997-5c72d6946b592cbccef67a60cd1b01ba-0-565b9aa18cc3abe4f9f7f3a71de076b2|referer=https://m.rctiplus.com/
@@ -683,79 +717,92 @@ https://newtest.webtv1.lol/lb/premium142/index.m3u8?|referer=https://widevine.li
 #EXTINF:-1 Logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOlTQEkaQSafvXmEjWcLX4UlGsGSBfV4jWAg&usqp=CAU" group-title="SPORTS",Sport 4 HD IL
 https://newtest.webtv1.lol/lb/premium143/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
-#EXTINF:-1 Logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOlTQEkaQSafvXmEjWcLX4UlGsGSBfV4jWAg&usqp=CAU" group-title="SPORTS",Sport 5 HD IL
-https://newtest.webtv1.lol/lb/premium144/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCXxnatNQpOUX8kgm2Mynm3iGXQxaubOdhnA&usqp=CAU",BEIN SPORT 2 DZ
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-040/stream.mpd
 
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCXxnatNQpOUX8kgm2Mynm3iGXQxaubOdhnA&usqp=CAU",BEIN SPORT 3 DZ
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-041/stream.mpd
 
 #EXTINF:-1 tvg-id="beINSports1.qa" group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNnDmRd3CXnUDIR5vRE6C2QEQFFE83cVxnQQ&usqp=CAU" ,beIN Sports 1
-https://newtest.webtv1.lol/lb/premium91/index.m3u8|referer=https://widevine.licenses4.me/
+https://lb.buy-global.store/live/lb555/bs1-multi.m3u8|User-agent=ㅤyacineee55000
+http://103.167.167.5:8111/play/a02m/index.m3u8
 
 #EXTINF:-1 tvg-id="beINSports2.qa" group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNnDmRd3CXnUDIR5vRE6C2QEQFFE83cVxnQQ&usqp=CAU" ,beIN Sports 2
-https://newtest.webtv1.lol/lb/premium92/index.m3u8|referer=https://widevine.licenses4.me/
+https://lb.buy-global.store/live/lb555/bs2-multi.m3u8|User-agent=ㅤyacineee55000
+http://103.167.167.5:8111/play/a02n/index.m3u8
 
 #EXTINF:-1 tvg-id="beINSports3.qa" group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNnDmRd3CXnUDIR5vRE6C2QEQFFE83cVxnQQ&usqp=CAU" ,beIN Sports 3
-https://newtest.webtv1.lol/lb/premium93/index.m3u8|referer=https://widevine.licenses4.me/
+https://lb.buy-global.store/live/lb555/bs3-multi.m3u8|User-agent=ㅤyacineee55000
+http://62.182.82.104/BEIN_SPORT_3_HD/index.m3u8?token=test&v=1673204766768
 
 #EXTINF:-1 tvg-id="beINSports4.qa" group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNnDmRd3CXnUDIR5vRE6C2QEQFFE83cVxnQQ&usqp=CAU" ,beIN Sports 4
-https://newtest.webtv1.lol/lb/premium94/index.m3u8|referer=https://widevine.licenses4.me/
+http://62.182.82.104/BEIN_SPORT_4_HD/index.m3u8?token=test&v=1673204766768
 
 #EXTINF:-1 tvg-id="beINSports5.qa" group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNnDmRd3CXnUDIR5vRE6C2QEQFFE83cVxnQQ&usqp=CAU",beIN Sports 5
-https://newtest.webtv1.lol/lb/premium95/index.m3u8|referer=https://widevine.licenses4.me/
+http://62.182.82.104/BEIN_SPORT_5_HD/index.m3u8?token=test&v=1673204766768
 
 #EXTINF:-1 tvg-id="beINSports6.qa" group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNnDmRd3CXnUDIR5vRE6C2QEQFFE83cVxnQQ&usqp=CAU" ,beIN Sports 6
-https://newtest.webtv1.lol/lb/premium96/index.m3u8|referer=https://widevine.licenses4.me/
+http://62.182.82.104/BEIN_SPORT_6_HD/index.m3u8?token=test&v=1673204766768
 
 #EXTINF:-1 tvg-id="beINSports7.qa" group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNnDmRd3CXnUDIR5vRE6C2QEQFFE83cVxnQQ&usqp=CAU" ,beIN Sports 7
-https://newtest.webtv1.lol/lb/premium97/index.m3u8|referer=https://widevine.licenses4.me/
+http://62.182.82.104/BEIN_SPORT_7_HD/index.m3u8?token=test&v=1673204766768
 
 #EXTINF:-1 tvg-id="beINSportsPremium1.qa" group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNnDmRd3CXnUDIR5vRE6C2QEQFFE83cVxnQQ&usqp=CAU" ,beIN Sports Premium 1
-https://newtest.webtv1.lol/lb/premium98/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+http://62.182.82.104/L_1_PREMIUM/index.m3u8?token=test&v=1673204766768
+https://lb.buy-global.store/live/lb555/bp1-multi.m3u8|User-agent=ㅤyacineee55000
 
 #EXTINF:-1 tvg-id="beINSportsPremium2.qa" group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNnDmRd3CXnUDIR5vRE6C2QEQFFE83cVxnQQ&usqp=CAU" ,beIN Sports Premium 2
-https://newtest.webtv1.lol/lb/premium99/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+http://62.182.82.104/L_2_PREMIUM/index.m3u8?token=test&v=1673204766768
+https://lb.buy-global.store/live/lb555/bp2-multi.m3u8|User-agent=ㅤyacineee55000
 
 #EXTINF:-1 tvg-id="beINSportsPremium3.qa" group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNnDmRd3CXnUDIR5vRE6C2QEQFFE83cVxnQQ&usqp=CAU" ,beIN Sports Premium 3
-https://newtest.webtv1.lol/lb/premium100/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+http://62.182.82.104/L_3_PREMIUM/index.m3u8?token=test&v=1673204766768
+https://lb.buy-global.store/live/lb555/bp3-multi.m3u8|User-agent=ㅤyacineee55000
 
-#EXTINF:-1 tvg-id="beINSportsEnglish1.qa" group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNnDmRd3CXnUDIR5vRE6C2QEQFFE83cVxnQQ&usqp=CAU" ,beIN Sports English 1
-https://newtest.webtv1.lol/lb/premium61/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNnDmRd3CXnUDIR5vRE6C2QEQFFE83cVxnQQ&usqp=CAU" ,beIN Sports English 1
+https://ge2.livechymde.xyz/uk_beinsportsenglish1/index.m3u8?|referer=https://aesport.tv/
 
-#EXTINF:-1 tvg-id="beINSportsEnglish2.qa" group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNnDmRd3CXnUDIR5vRE6C2QEQFFE83cVxnQQ&usqp=CAU" ,beIN Sports English 2
-https://newtest.webtv1.lol/lb/premium90/index.m3u8|referer=https://widevine.licenses4.me/
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNnDmRd3CXnUDIR5vRE6C2QEQFFE83cVxnQQ&usqp=CAU" ,beIN Sports English 2
+https://webudit.onlinewebtv.lol/lb/premium90/index.m3u8?|referer=https://widevine.licenses4.me/
 
-#EXTINF:-1 tvg-id="beINSportsEnglish3.qa" group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNnDmRd3CXnUDIR5vRE6C2QEQFFE83cVxnQQ&usqp=CAU" ,beIN Sports English 3
-https://newtest.webtv1.lol/lb/premium46/index.m3u8|referer=https://widevine.licenses4.me/
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNnDmRd3CXnUDIR5vRE6C2QEQFFE83cVxnQQ&usqp=CAU" ,beIN Sports English 3
+https://webudit.onlinewebtv.lol/lb/premium46/index.m3u8?|referer=https://widevine.licenses4.me/
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNnDmRd3CXnUDIR5vRE6C2QEQFFE83cVxnQQ&usqp=CAU" ,beIN Sports Turkiye 1
-https://newtest.webtv1.lol/lb/premium62/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNnDmRd3CXnUDIR5vRE6C2QEQFFE83cVxnQQ&usqp=CAU" ,beIN Sports 1 Turkey
+https://webudit.onlinewebtv.lol/lb/premium62/index.m3u8?|referer=https://widevine.licenses4.me/
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNnDmRd3CXnUDIR5vRE6C2QEQFFE83cVxnQQ&usqp=CAU" ,beIN Sports Turkiye 2
-https://newtest.webtv1.lol/lb/premium63/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNnDmRd3CXnUDIR5vRE6C2QEQFFE83cVxnQQ&usqp=CAU" ,beIN Sports 2 Turkey
+https://webudit.onlinewebtv.lol/lb/premium63/index.m3u8?|referer=https://widevine.licenses4.me/
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNnDmRd3CXnUDIR5vRE6C2QEQFFE83cVxnQQ&usqp=CAU" ,beIN Sports Turkiye 3
-https://newtest.webtv1.lol/lb/premium64/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNnDmRd3CXnUDIR5vRE6C2QEQFFE83cVxnQQ&usqp=CAU" ,beIN Sports 3 Turkey
+https://webudit.onlinewebtv.lol/lb/premium64/index.m3u8?|referer=https://widevine.licenses4.me/
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNnDmRd3CXnUDIR5vRE6C2QEQFFE83cVxnQQ&usqp=CAU" ,beIN Sports Turkiye 4
-https://newtest.webtv1.lol/lb/premium67/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNnDmRd3CXnUDIR5vRE6C2QEQFFE83cVxnQQ&usqp=CAU" ,beIN Sports 4 Turkey
+https://webudit.onlinewebtv.lol/lb/premium65/index.m3u8?|referer=https://widevine.licenses4.me/
 
-#EXTINF:-1 tvg-id="beINSports1France.fr" group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNnDmRd3CXnUDIR5vRE6C2QEQFFE83cVxnQQ&usqp=CAU" ,beIN Sports France 1
-http://warkop.cf/80/bein/14.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNnDmRd3CXnUDIR5vRE6C2QEQFFE83cVxnQQ&usqp=CAU" ,beIN Sports 1 HD France
+https://webudit.onlinewebtv.lol/lb/premium116/index.m3u8?|referer=https://widevine.licenses4.me/
 
-#EXTINF:-1 tvg-id="beINSports2France.fr" group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNnDmRd3CXnUDIR5vRE6C2QEQFFE83cVxnQQ&usqp=CAU" ,beIN Sports France 2
-http://warkop.cf/80/bein/15.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNnDmRd3CXnUDIR5vRE6C2QEQFFE83cVxnQQ&usqp=CAU" ,beIN Sports 2 HD France
+https://webudit.onlinewebtv.lol/lb/premium117/index.m3u8?|referer=https://widevine.licenses4.me/
 
-#EXTINF:-1 tvg-id="beINSports3France.fr" group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNnDmRd3CXnUDIR5vRE6C2QEQFFE83cVxnQQ&usqp=CAU" ,beIN Sports France 3
-http://warkop.cf/80/bein/16.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNnDmRd3CXnUDIR5vRE6C2QEQFFE83cVxnQQ&usqp=CAU" ,beIN Sports 3 France
+https://webudit.onlinewebtv.lol/lb/premium118/index.m3u8?|referer=https://widevine.licenses4.me/
 
-
-#EXTINF:1 tvg-id="beINSports1Thailand.th" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPooDEfnPydWGbAXYU2lRsiENb2_l1cKF7PQ&usqp=CAU" group-title="SPORTS", Bein Sports TH 1
+#EXTINF:1 tvg-id="beINSports1Thailand.th" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPooDEfnPydWGbAXYU2lRsiENb2_l1cKF7PQ&usqp=CAU" group-title="3.SPORTS / OLAHRAGA", beIN Sports TH 1
 https://youdooball.livedoomovies.com:4432/02_epl1_720p/chunklist.m3u8
 
-#EXTINF:1 tvg-id="beINSports2Thailand.th" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPooDEfnPydWGbAXYU2lRsiENb2_l1cKF7PQ&usqp=CAU" group-title="SPORTS", Bein Sports TH 2
+#EXTINF:1 tvg-id="beINSports2Thailand.th" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPooDEfnPydWGbAXYU2lRsiENb2_l1cKF7PQ&usqp=CAU" group-title="3.SPORTS / OLAHRAGA", beIN Sports TH 2
 https://stream.warpballsod.tv/bein2.m3u8|referer=https://www.warpballsod.tv/
 
-#EXTINF:1 tvg-id="beINSports3Thailand.th" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPooDEfnPydWGbAXYU2lRsiENb2_l1cKF7PQ&usqp=CAU" group-title="SPORTS", Bein Sports TH 3
-https://youdooball.livedoomovies.com:4432/02_sport6_1080p/chunklist.m3u8
+#EXTINF:-1 tvg-id="beINSports3Thailand.th" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPooDEfnPydWGbAXYU2lRsiENb2_l1cKF7PQ&usqp=CAU" group-title="3.SPORTS / OLAHRAGA",beIN Sports TH 3
+https://xn--l3cm7a5azd.googlecdnforstreaming.live:446/db4k/bein2/playlist.m3u8|referer=https://dooball4k.live/
+https://xn--l3cm7a5azd.googlecdnforstreaming.live:446/db4k/tpf1_480/playlist.m3u8
+https://xn--l3cm7a5azd.googlecdnforstreaming.live:446/db4k/tsp2/playlist.m3u8|referer=https://dooball4k.live/&User-agent=Mozilla/5.0
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://thumbor.prod.vidiocdn.com/zUeO5Z0qWsLChLPVtUmiW7wjXP4=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-3beebf.jpg", CHAMPIONS TV 1
 https://seulangatv.com/YANG-NYURI-ANAK-DAJJAL/vidioHLS/6685.m3u8
