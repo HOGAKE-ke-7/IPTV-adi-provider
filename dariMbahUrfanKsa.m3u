@@ -735,16 +735,16 @@ http://rr2.dens.tv/s/s28/index10.m3u8
 http://rr2.dens.tv/s/s27/index10.m3u8
 
 #EXTINF:-1 tvg-id="RCTI.Id" tvg-logo="https://cdn.ksa.my.id/rcti.png" group-title="National TV",RCTI+
-https://rcti-linier.rctiplus.id/rcti-sdi-avc1_600000=5-mp4a_96000=1.m3u8?auth_key=1676932898-e3857ea87232a0758eada641e06f53db-0-96ed2247e418921ab39d7bb9b2f1fbff|referer=https://m.rctiplus.com/
+https://rcti-linier.rctiplus.id/rcti-sdi-avc1_600000=5-mp4a_96000=1.m3u8?auth_key=1677339049-a541524d386f3468558d1d7d00cf4b6c-0-4fddd3f7493976f60590e5fb6b3ea223|referer=https://m.rctiplus.com/
 
 #EXTINF:-1 tvg-id="GTV.Id" tvg-logo="https://cdn.ksa.my.id/gtv.png" group-title="National TV",GTV+
-https://gtv-linier.rctiplus.id/gtv-sdi-avc1_600000=5-mp4a_96000=1.m3u8?auth_key=1676933010-f3a586ff13a2d7adb064b633f9dfbbcf-0-abcab17e41f9d0260bd4c6a014a78acd|referer=https://m.rctiplus.com/
+https://gtv-linier.rctiplus.id/gtv-sdi-avc1_600000=5-mp4a_96000=1.m3u8?auth_key=1677339087-7c89829e06de7e02d6ddc200d5b66943-0-34393a49dd11c73e82b84df586e6f97a|referer=https://m.rctiplus.com/
 
 #EXTINF:-1 tvg-id="MNCTV.Id" tvg-logo="https://cdn.ksa.my.id/mnctv.png" group-title="National TV",MNCTV+
-https://mnctv-linier.rctiplus.id/mnctv-sdi-avc1_600000=5-mp4a_96000=1.m3u8?auth_key=1676932965-536b0f54a45ee3f4e2fb0f19d4ae0c91-0-7bbe2e20baa5376683be7d95743c0298|referer=https://m.rctiplus.com/
+https://m-mnctv.rctiplus.id/mnctv-sdi-avc1_600000=5-mp4a_96000=1.m3u8|referer=https://m.rctiplus.com/
 
 #EXTINF:-1 tvg-id="iNews.Id" tvg-logo="https://cdn.ksa.my.id/inews.png" group-title="National TV",iNewsTV+
-https://inews-linier.rctiplus.id/inews-sdi-avc1_600000=5-mp4a_96000=1.m3u8?auth_key=1676933033-98f83d327bf31be1accbe8670cc83ba6-0-a4d95ef762e28e41335c204b0cd2cac8|referer=https://m.rctiplus.com/
+https://inews-linier.rctiplus.id/inews-sdi-avc1_600000=5-mp4a_96000=1.m3u8?auth_key=1677339135-4abc2aa871a785f0faa84209b40136d6-0-a63e0bce7841a895dcdc409b5555c8bb|referer=https://m.rctiplus.com/
 
 #EXTINF:-1 tvg-id="Trans7.Id" group-title="National TV" tvg-logo="https://cdn.ksa.my.id/trans7.png",TRANS7
 https://video.detik.com/trans7/smil:trans7.smil/chunklist_w1440823282_b744100_sleng.m3u8
