@@ -375,7 +375,7 @@ https://newanv-live-cdn.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerch
 https://newanv-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 
 #EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStkV6WEZEmwnJZAFHwDzaLBKCyv3WQ3yR3-Q&usqp=CAU",AFF (Server 3) 
-https://rcti-linier.rctiplus.id/rcti-sdi-avc1_600000=5-mp4a_96000=1.m3u8?auth_key=1677339049-a541524d386f3468558d1d7d00cf4b6c-0-4fddd3f7493976f60590e5fb6b3ea223|referer=https://m.rctiplus.com/
+https://rcti-linier.rctiplus.id/rcti-sdi-avc1_600000=5-mp4a_96000=1.m3u8?auth_key=1677347509-984315af9709daa6852c54aeb08cecbf-0-68722ac711db6de65f604c20d06f5001|referer=https://m.rctiplus.com/
 
 #EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStkV6WEZEmwnJZAFHwDzaLBKCyv3WQ3yR3-Q&usqp=CAU",AFF (Server 4) 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -446,7 +446,7 @@ https://m-mnctv.rctiplus.id/mnctv-sdi-avc1_600000=5-mp4a_96000=1.m3u8|referer=ht
 https://akm611a-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 
 #EXTINF:-1 group-title="LOKAL" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/dd/RCTI_logo_2015.svg/1280px-RCTI_logo_2015.svg.png",RCTI Rcti+
-https://rcti-linier.rctiplus.id/rcti-sdi-avc1_600000=5-mp4a_96000=1.m3u8?auth_key=1677339049-a541524d386f3468558d1d7d00cf4b6c-0-4fddd3f7493976f60590e5fb6b3ea223|referer=https://m.rctiplus.com/
+https://rcti-linier.rctiplus.id/rcti-sdi-avc1_600000=5-mp4a_96000=1.m3u8?auth_key=1677347509-984315af9709daa6852c54aeb08cecbf-0-68722ac711db6de65f604c20d06f5001|referer=https://m.rctiplus.com/
 
 #EXTINF:-1 group-title="LOKAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/GTV_%282017%29.svg/1000px-GTV_%282017%29.svg.png",GTV Vision+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -454,7 +454,7 @@ https://rcti-linier.rctiplus.id/rcti-sdi-avc1_600000=5-mp4a_96000=1.m3u8?auth_ke
 https://newanv-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
 
 #EXTINF:-1 group-title="LOKAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/GTV_%282017%29.svg/1000px-GTV_%282017%29.svg.png",GTV Rcti+
-https://gtv-linier.rctiplus.id/gtv-sdi-avc1_600000=5-mp4a_96000=1.m3u8?auth_key=1677339087-7c89829e06de7e02d6ddc200d5b66943-0-34393a49dd11c73e82b84df586e6f97a|referer=https://m.rctiplus.com/
+https://gtv-linier.rctiplus.id/gtv-sdi-avc1_600000=5-mp4a_96000=1.m3u8?auth_key=1677347612-1619d6204efc4a500f74b3cdf1854fb6-0-8284561af15bb73c8b7d6cebfec4db4e|referer=https://m.rctiplus.com/
 
 #EXTINF:-1 group-title="LOKAL" tvg-logo="https://i.imgur.com/sojdCIg.png",iNews Vision+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha

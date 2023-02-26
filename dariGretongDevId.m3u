@@ -641,11 +641,11 @@ http://210.210.155.37/uq2663/h/h124/index.m3u8
 #EXTINF:-1 tvg-id=".id" tvg-logo="http://www.dens.tv/images/channel-logo/120.jpg" group-title="DENSTV",MOTO RACING
 http://210.210.155.37/uq2663/h/h223/index.m3u8
 #EXTINF:-1 tvg-id="rcti.id" tvg-logo="https://i.ibb.co/GCY8VdF/IMG-20221207-234520.png" group-title="DENSTV",RCTI
-https://rcti-linier.rctiplus.id/rcti-sdi-avc1_600000=5-mp4a_96000=1.m3u8?auth_key=1677339049-a541524d386f3468558d1d7d00cf4b6c-0-4fddd3f7493976f60590e5fb6b3ea223|referer=https://m.rctiplus.com/
+https://rcti-linier.rctiplus.id/rcti-sdi-avc1_600000=5-mp4a_96000=1.m3u8?auth_key=1677347509-984315af9709daa6852c54aeb08cecbf-0-68722ac711db6de65f604c20d06f5001|referer=https://m.rctiplus.com/
 #EXTINF:-1 tvg-id="mnctv.id" tvg-logo="https://i.ibb.co/dG3cP14/IMG-20221207-234300.png" group-title="DENSTV",MNCTV
 https://m-mnctv.rctiplus.id/mnctv-sdi-avc1_600000=5-mp4a_96000=1.m3u8|referer=https://m.rctiplus.com/
 #EXTINF:-1 tvg-id="gtv.id" tvg-logo="https://i.ibb.co/K2xHhRC/IMG-20221207-234208.png" group-title="DENSTV",GTV
-https://gtv-linier.rctiplus.id/gtv-sdi-avc1_600000=5-mp4a_96000=1.m3u8?auth_key=1677339087-7c89829e06de7e02d6ddc200d5b66943-0-34393a49dd11c73e82b84df586e6f97a|referer=https://m.rctiplus.com/
+https://gtv-linier.rctiplus.id/gtv-sdi-avc1_600000=5-mp4a_96000=1.m3u8?auth_key=1677347612-1619d6204efc4a500f74b3cdf1854fb6-0-8284561af15bb73c8b7d6cebfec4db4e|referer=https://m.rctiplus.com/
 #EXTINF:-1 tvg-id="inews.id" tvg-logo="https://i.ibb.co/Wvp5KrJ/IMG-20221207-234346.png" group-title="DENSTV",INEWS
 https://inews-linier.rctiplus.id/inews-sdi-avc1_600000=5-mp4a_96000=1.m3u8?auth_key=1677339135-4abc2aa871a785f0faa84209b40136d6-0-a63e0bce7841a895dcdc409b5555c8bb|referer=https://m.rctiplus.com/
 

@@ -735,10 +735,10 @@ http://rr2.dens.tv/s/s28/index10.m3u8
 http://rr2.dens.tv/s/s27/index10.m3u8
 
 #EXTINF:-1 tvg-id="RCTI.Id" tvg-logo="https://cdn.ksa.my.id/rcti.png" group-title="National TV",RCTI+
-https://rcti-linier.rctiplus.id/rcti-sdi-avc1_600000=5-mp4a_96000=1.m3u8?auth_key=1677339049-a541524d386f3468558d1d7d00cf4b6c-0-4fddd3f7493976f60590e5fb6b3ea223|referer=https://m.rctiplus.com/
+https://rcti-linier.rctiplus.id/rcti-sdi-avc1_600000=5-mp4a_96000=1.m3u8?auth_key=1677347509-984315af9709daa6852c54aeb08cecbf-0-68722ac711db6de65f604c20d06f5001|referer=https://m.rctiplus.com/
 
 #EXTINF:-1 tvg-id="GTV.Id" tvg-logo="https://cdn.ksa.my.id/gtv.png" group-title="National TV",GTV+
-https://gtv-linier.rctiplus.id/gtv-sdi-avc1_600000=5-mp4a_96000=1.m3u8?auth_key=1677339087-7c89829e06de7e02d6ddc200d5b66943-0-34393a49dd11c73e82b84df586e6f97a|referer=https://m.rctiplus.com/
+https://gtv-linier.rctiplus.id/gtv-sdi-avc1_600000=5-mp4a_96000=1.m3u8?auth_key=1677347612-1619d6204efc4a500f74b3cdf1854fb6-0-8284561af15bb73c8b7d6cebfec4db4e|referer=https://m.rctiplus.com/
 
 #EXTINF:-1 tvg-id="MNCTV.Id" tvg-logo="https://cdn.ksa.my.id/mnctv.png" group-title="National TV",MNCTV+
 https://m-mnctv.rctiplus.id/mnctv-sdi-avc1_600000=5-mp4a_96000=1.m3u8|referer=https://m.rctiplus.com/
