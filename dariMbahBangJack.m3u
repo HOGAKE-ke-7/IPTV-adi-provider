@@ -375,7 +375,7 @@ https://newanv-live-cdn.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerch
 https://newanv-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 
 #EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStkV6WEZEmwnJZAFHwDzaLBKCyv3WQ3yR3-Q&usqp=CAU",AFF (Server 3) 
-https://rcti-linier.rctiplus.id/rcti-sdi-avc1_600000=5-mp4a_96000=1.m3u8?auth_key=1677347509-984315af9709daa6852c54aeb08cecbf-0-68722ac711db6de65f604c20d06f5001|referer=https://m.rctiplus.com/
+https://rcti-linier.rctiplus.id/rcti-sdi-avc1_600000=5-mp4a_96000=1.m3u8?auth_key=1677431103-866108a0aec26d2e6179e13834840af6-0-93c70b2048ffa36d723f9d3da50f219e|referer=https://m.rctiplus.com/
 
 #EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStkV6WEZEmwnJZAFHwDzaLBKCyv3WQ3yR3-Q&usqp=CAU",AFF (Server 4) 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -383,7 +383,7 @@ https://rcti-linier.rctiplus.id/rcti-sdi-avc1_600000=5-mp4a_96000=1.m3u8?auth_ke
 https://newanv-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
 
 #EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStkV6WEZEmwnJZAFHwDzaLBKCyv3WQ3yR3-Q&usqp=CAU" ,AFF (Server 5) 
-https://inews-linier.rctiplus.id/inews-sdi-avc1_600000=5-mp4a_96000=1.m3u8?auth_key=1677339135-4abc2aa871a785f0faa84209b40136d6-0-a63e0bce7841a895dcdc409b5555c8bb|referer=https://m.rctiplus.com/
+https://inews-linier.rctiplus.id/inews-sdi-avc1_600000=5-mp4a_96000=1.m3u8?auth_key=1677431055-9b98691ec98b0d3067f8843abe77ac17-0-6bbd62977cd7204fe7cad2d153c9bf84|referer=https://m.rctiplus.com/
 
 =====1LOKAL=====
 
@@ -446,7 +446,7 @@ https://m-mnctv.rctiplus.id/mnctv-sdi-avc1_600000=5-mp4a_96000=1.m3u8|referer=ht
 https://akm611a-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 
 #EXTINF:-1 group-title="LOKAL" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/dd/RCTI_logo_2015.svg/1280px-RCTI_logo_2015.svg.png",RCTI Rcti+
-https://rcti-linier.rctiplus.id/rcti-sdi-avc1_600000=5-mp4a_96000=1.m3u8?auth_key=1677347509-984315af9709daa6852c54aeb08cecbf-0-68722ac711db6de65f604c20d06f5001|referer=https://m.rctiplus.com/
+https://rcti-linier.rctiplus.id/rcti-sdi-avc1_600000=5-mp4a_96000=1.m3u8?auth_key=1677431103-866108a0aec26d2e6179e13834840af6-0-93c70b2048ffa36d723f9d3da50f219e|referer=https://m.rctiplus.com/
 
 #EXTINF:-1 group-title="LOKAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/GTV_%282017%29.svg/1000px-GTV_%282017%29.svg.png",GTV Vision+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -454,7 +454,7 @@ https://rcti-linier.rctiplus.id/rcti-sdi-avc1_600000=5-mp4a_96000=1.m3u8?auth_ke
 https://newanv-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
 
 #EXTINF:-1 group-title="LOKAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/GTV_%282017%29.svg/1000px-GTV_%282017%29.svg.png",GTV Rcti+
-https://gtv-linier.rctiplus.id/gtv-sdi-avc1_600000=5-mp4a_96000=1.m3u8?auth_key=1677347612-1619d6204efc4a500f74b3cdf1854fb6-0-8284561af15bb73c8b7d6cebfec4db4e|referer=https://m.rctiplus.com/
+https://gtv-linier.rctiplus.id/gtv-sdi-avc1_600000=5-mp4a_96000=1.m3u8?auth_key=1677430937-4522b3f13fff918f42e550895cdd1a3c-0-ef809d9209d9e749caab330891952c07|referer=https://m.rctiplus.com/
 
 #EXTINF:-1 group-title="LOKAL" tvg-logo="https://i.imgur.com/sojdCIg.png",iNews Vision+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -462,7 +462,7 @@ https://gtv-linier.rctiplus.id/gtv-sdi-avc1_600000=5-mp4a_96000=1.m3u8?auth_key=
 https://anevi-live-channel-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
 
 #EXTINF:-1 group-title="LOKAL" tvg-logo="https://i.imgur.com/sojdCIg.png" ,iNews Rcti+
-https://inews-linier.rctiplus.id/inews-sdi-avc1_600000=5-mp4a_96000=1.m3u8?auth_key=1677339135-4abc2aa871a785f0faa84209b40136d6-0-a63e0bce7841a895dcdc409b5555c8bb|referer=https://m.rctiplus.com/
+https://inews-linier.rctiplus.id/inews-sdi-avc1_600000=5-mp4a_96000=1.m3u8?auth_key=1677431055-9b98691ec98b0d3067f8843abe77ac17-0-6bbd62977cd7204fe7cad2d153c9bf84|referer=https://m.rctiplus.com/
 
 #EXTINF:0 group-title="LOKAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/512px-Antv_logo.svg.png",ANTV Vision+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
