@@ -960,7 +960,7 @@ https://newtest.webtv1.lol/lb/premium80/index.m3u8|referer=https://widevine.lice
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/yxL35WPL/20220926-145249.png" group-title="Lokal" tvg-id="RCTI.id" tvg-name="RCTI", RCTI HD
 https://anevi-live-channel-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 #EXTINF:-1 group-title="Lokal" tvg-id="RCTI.id" tvg-logo="https://i.postimg.cc/yxL35WPL/20220926-145249.png",RCTI (Vision+)
-https://rcti-linier.rctiplus.id/rcti-sdi-avc1_600000=5-mp4a_96000=1.m3u8?auth_key=1677431103-866108a0aec26d2e6179e13834840af6-0-93c70b2048ffa36d723f9d3da50f219e|referer=https://m.rctiplus.com/
+https://m-rcti.rctiplus.id/rcti-sdi.m3u8?auth_key=1677670680-84fc3bc16f454554ff158b75062d87e0-0-ee2a760a00d2f61fbe2a87561f2fdcd8|referer=https://m.rctiplus.com/
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjhkOWZkZjYtOGViOC0zNTkzLWFhOWEtNGFhMzJkMDk3NGE2
@@ -977,7 +977,7 @@ https://geocities.ws/ariev7xx/moji.m3u8
 https://anevi-live-channel-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 
 #EXTINF:-1 group-title="Lokal" tvg-id="MNCTV.id" tvg-logo="https://i.postimg.cc/9Xb9zNhy/20220926-145209.png",MNCTV (Vision+)
-https://m-mnctv.rctiplus.id/mnctv-sdi-avc1_600000=5-mp4a_96000=1.m3u8|referer=https://m.rctiplus.com/
+https://m-mnctv.rctiplus.id/mnctv-sdi-avc1_600000=5-mp4a_96000=1.m3u8?auth_key=1677670568-e6250b3db48f614ab924584dad1edea3-0-e7925c2ada11f0b322d45e51d9ce256e|referer=https://m.rctiplus.com/
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -1023,7 +1023,7 @@ https://video.detik.com/transtv/smil:transtv.smil/chunklist.m3u8
 https://anevi-live-channel-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
 
 #EXTINF:-1 group-title="Lokal" tvg-id="GTV.id" tvg-logo="https://i.postimg.cc/WbfJwFt3/20220926-145143.png",GTV (Vision+)
-https://gtv-linier.rctiplus.id/gtv-sdi-avc1_600000=5-mp4a_96000=1.m3u8?auth_key=1677430937-4522b3f13fff918f42e550895cdd1a3c-0-ef809d9209d9e749caab330891952c07|referer=https://m.rctiplus.com/
+https://m-gtv.rctiplus.id/gtv-sdi-avc1_600000=5-mp4a_96000=1.m3u8?auth_key=1677670729-d11d77abbab646c6866739cb2c3e3eb8-0-e5264b69d21e49a82d59fdc0fc5f2947|referer=https://m.rctiplus.com/
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
