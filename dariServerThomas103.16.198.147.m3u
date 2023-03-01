@@ -1,7 +1,10 @@
-#EXTINF:-1 tvg-id="" tvg-name="RCTI" tvg-logo="rcti.png" group-title="LIVE EVENT",PSM Makassar vs Dewa United FC
+#EXTINF:-1 tvg-id="" tvg-name="RCTI" tvg-logo="rcti.png" group-title="LIVE EVENT",PSM Makassar vs Dewa United FC (LIGA1)
 https://cdn.thomasandi.my.id/ch/vidiohls.php?id=205
-#EXTINF:-1 tvg-id="" tvg-name="RCTI" tvg-logo="rcti.png" group-title="LIVE EVENT",INDONESIA VS IRAK
+#EXTINF:-1 tvg-id="" tvg-name="RCTI" tvg-logo="rcti.png" group-title="LIVE EVENT",INDONESIA VS IRAK (AFF)
 https://cdn.thomasandi.my.id/ch/rplus.php?id=rcti
+#EXTINF:-1 tvg-id="" tvg-name="RCTI" tvg-logo="rcti.png" group-title="LIVE EVENT",Australia vs Vietnam (AFF)
+https://cdn.thomasandi.my.id/ch/rplus.php?id=inews
+
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://thomasandi.my.id/drmlele/drmcubmu
