@@ -441,7 +441,7 @@ https://bit.ly/Trans7yeyem3u8
 https://m-mnctv.rctiplus.id/mnctv-sdi-avc1_600000=5-mp4a_96000=1.m3u8?auth_key=1677670568-e6250b3db48f614ab924584dad1edea3-0-e7925c2ada11f0b322d45e51d9ce256e|referer=https://m.rctiplus.com/
 
 #EXTINF:-1 group-title="LOKAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/MNCTV_logo_2015.svg/1600px-MNCTV_logo_2015.svg.png",MNC TV Rcti+
-https://m-mnctv.rctiplus.id/mnctv-sdi-avc1_600000=5-mp4a_96000=1.m3u8|referer=https://m.rctiplus.com/
+https://m-mnctv.rctiplus.id/mnctv-sdi-avc1_600000=5-mp4a_96000=1.m3u8?auth_key=1677670568-e6250b3db48f614ab924584dad1edea3-0-e7925c2ada11f0b322d45e51d9ce256e|referer=https://m.rctiplus.com/
 
 #EXTINF:-1 group-title="LOKAL" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/dd/RCTI_logo_2015.svg/1280px-RCTI_logo_2015.svg.png",RCTI Vision+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -449,7 +449,7 @@ https://m-mnctv.rctiplus.id/mnctv-sdi-avc1_600000=5-mp4a_96000=1.m3u8|referer=ht
 https://m-rcti.rctiplus.id/rcti-sdi.m3u8?auth_key=1677670680-84fc3bc16f454554ff158b75062d87e0-0-ee2a760a00d2f61fbe2a87561f2fdcd8|referer=https://m.rctiplus.com/
 
 #EXTINF:-1 group-title="LOKAL" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/dd/RCTI_logo_2015.svg/1280px-RCTI_logo_2015.svg.png",RCTI Rcti+
-https://rcti-linier.rctiplus.id/rcti-sdi-avc1_600000=5-mp4a_96000=1.m3u8?auth_key=1677223146-5b1deaea7403405d7508acd6f1aa8b46-0-abd5253527ad4c248213f7a841c3d8e9|referer=https://m.rctiplus.com/
+https://m-rcti.rctiplus.id/rcti-sdi.m3u8?auth_key=1677670680-84fc3bc16f454554ff158b75062d87e0-0-ee2a760a00d2f61fbe2a87561f2fdcd8|referer=https://m.rctiplus.com/
 
 #EXTINF:-1 group-title="LOKAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/GTV_%282017%29.svg/1000px-GTV_%282017%29.svg.png",GTV Vision+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -457,7 +457,7 @@ https://rcti-linier.rctiplus.id/rcti-sdi-avc1_600000=5-mp4a_96000=1.m3u8?auth_ke
 https://m-gtv.rctiplus.id/gtv-sdi-avc1_600000=5-mp4a_96000=1.m3u8?auth_key=1677670729-d11d77abbab646c6866739cb2c3e3eb8-0-e5264b69d21e49a82d59fdc0fc5f2947|referer=https://m.rctiplus.com/
 
 #EXTINF:-1 group-title="LOKAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/GTV_%282017%29.svg/1000px-GTV_%282017%29.svg.png",GTV Rcti+
-https://gtv-linier.rctiplus.id/gtv-sdi-avc1_600000=5-mp4a_96000=1.m3u8?auth_key=1677223114-b555918cacb8c2bb152f85b252af2c3d-0-293d68e2123747089d54a7443f4245fe|referer=https://m.rctiplus.com/
+https://m-gtv.rctiplus.id/gtv-sdi-avc1_600000=5-mp4a_96000=1.m3u8?auth_key=1677670729-d11d77abbab646c6866739cb2c3e3eb8-0-e5264b69d21e49a82d59fdc0fc5f2947|referer=https://m.rctiplus.com/
 
 #EXTINF:-1 group-title="LOKAL" tvg-logo="https://i.imgur.com/sojdCIg.png",iNews Vision+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -465,7 +465,7 @@ https://gtv-linier.rctiplus.id/gtv-sdi-avc1_600000=5-mp4a_96000=1.m3u8?auth_key=
 https://m-inews.rctiplus.id/inews-sdi-avc1_600000=5-mp4a_96000=1.m3u8?auth_key=1677670774-97253e0624da888d3b7ef3e3f8d9579e-0-cd5254d972b8590ed6628cd5adfbf7a1|referer=https://m.rctiplus.com/
 
 #EXTINF:-1 group-title="LOKAL" tvg-logo="https://i.imgur.com/sojdCIg.png" ,iNews Rcti+
-https://inews-linier.rctiplus.id/inews-sdi-avc1_600000=5-mp4a_96000=1.m3u8?auth_key=1677222997-5c72d6946b592cbccef67a60cd1b01ba-0-565b9aa18cc3abe4f9f7f3a71de076b2|referer=https://m.rctiplus.com/
+https://m-inews.rctiplus.id/inews-sdi-avc1_600000=5-mp4a_96000=1.m3u8?auth_key=1677670774-97253e0624da888d3b7ef3e3f8d9579e-0-cd5254d972b8590ed6628cd5adfbf7a1|referer=https://m.rctiplus.com/
 
 #EXTINF:-1 group-title="LOKAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/512px-Antv_logo.svg.png",ANTV Vision+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
