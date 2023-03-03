@@ -641,13 +641,13 @@ http://210.210.155.37/uq2663/h/h124/index.m3u8
 #EXTINF:-1 tvg-id=".id" tvg-logo="http://www.dens.tv/images/channel-logo/120.jpg" group-title="DENSTV",MOTO RACING
 http://210.210.155.37/uq2663/h/h223/index.m3u8
 #EXTINF:-1 tvg-id="rcti.id" tvg-logo="https://i.ibb.co/GCY8VdF/IMG-20221207-234520.png" group-title="DENSTV",RCTI
-https://m-rcti.rctiplus.id/rcti-sdi.m3u8?auth_key=1677670680-84fc3bc16f454554ff158b75062d87e0-0-ee2a760a00d2f61fbe2a87561f2fdcd8|referer=https://m.rctiplus.com/
+https://d-rcti.rctiplus.id/rcti-sdi-avc1_600000=5-mp4a_96000=1.m3u8?auth_key=1677783056-849358d83fe84d1aa4677d74daa9ecbe-0-06be09b6db207ad97e6a7b207006d334|referer=https://m.rctiplus.com/
 #EXTINF:-1 tvg-id="mnctv.id" tvg-logo="https://i.ibb.co/dG3cP14/IMG-20221207-234300.png" group-title="DENSTV",MNCTV
-https://m-mnctv.rctiplus.id/mnctv-sdi-avc1_600000=5-mp4a_96000=1.m3u8?auth_key=1677670568-e6250b3db48f614ab924584dad1edea3-0-e7925c2ada11f0b322d45e51d9ce256e|referer=https://m.rctiplus.com/
+https://mnctv-azure.rctiplus.id/mnctv-sdi-avc1_600000=5-mp4a_96000=1.m3u8|referer=https://m.rctiplus.com/
 #EXTINF:-1 tvg-id="gtv.id" tvg-logo="https://i.ibb.co/K2xHhRC/IMG-20221207-234208.png" group-title="DENSTV",GTV
-https://m-gtv.rctiplus.id/gtv-sdi-avc1_600000=5-mp4a_96000=1.m3u8?auth_key=1677670729-d11d77abbab646c6866739cb2c3e3eb8-0-e5264b69d21e49a82d59fdc0fc5f2947|referer=https://m.rctiplus.com/
+https://d-gtv.rctiplus.id/gtv-sdi-avc1_600000=5-mp4a_96000=1.m3u8?auth_key=1677783024-0921e5f014773b6e79d44e6a2903b5b3-0-c5ef076925671a38ea0ff0cb466c3544|referer=https://m.rctiplus.com/
 #EXTINF:-1 tvg-id="inews.id" tvg-logo="https://i.ibb.co/Wvp5KrJ/IMG-20221207-234346.png" group-title="DENSTV",INEWS
-https://m-inews.rctiplus.id/inews-sdi-avc1_600000=5-mp4a_96000=1.m3u8?auth_key=1677670774-97253e0624da888d3b7ef3e3f8d9579e-0-cd5254d972b8590ed6628cd5adfbf7a1|referer=https://m.rctiplus.com/
+https://d-inews.rctiplus.id/inews-sdi-avc1_600000=5-mp4a_96000=1.m3u8?auth_key=1677782996-9754e06d0787bacaba817619cac239a3-0-794f067f90854885afbecfd2c13172a2|referer=https://m.rctiplus.com/
 
 =====================THAILAND=======================
 
