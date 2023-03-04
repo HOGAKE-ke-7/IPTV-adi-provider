@@ -159,7 +159,7 @@ https://anevi-live-channel-cdn.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/s
 https://anevi-live-channel-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 
 #EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStkV6WEZEmwnJZAFHwDzaLBKCyv3WQ3yR3-Q&usqp=CAU",AFF (Server 3) 
-https://d-rcti.rctiplus.id/rcti-sdi-avc1_600000=5-mp4a_96000=1.m3u8?auth_key=1677944207-b6144f59a2c8058f95b06e230cc375a4-0-6bc9d3861fdeb3a92564c2247ce7d93a|referer=https://m.rctiplus.com/
+https://rcti-linier.rctiplus.id/RCTI2022.m3u8|Referer=https://m.rctiplus.com/
 
 #EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStkV6WEZEmwnJZAFHwDzaLBKCyv3WQ3yR3-Q&usqp=CAU",AFF (Server 4) 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -167,7 +167,7 @@ https://d-rcti.rctiplus.id/rcti-sdi-avc1_600000=5-mp4a_96000=1.m3u8?auth_key=167
 https://anevi-live-channel-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
 
 #EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStkV6WEZEmwnJZAFHwDzaLBKCyv3WQ3yR3-Q&usqp=CAU" ,AFF (Server 5) 
-https://d-inews.rctiplus.id/inews-sdi-avc1_600000=5-mp4a_96000=1.m3u8?auth_key=1677944260-7de6a4a3b12ca466926a91cef83a96d6-0-e136ddd5ae7cf92d6122983963b4575b|referer=https://m.rctiplus.com/
+https://d3o5yreltwquyt.cloudfront.net/INEWS2022.m3u8|Referer=https://m.rctiplus.com/
 
 #EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStkV6WEZEmwnJZAFHwDzaLBKCyv3WQ3yR3-Q&usqp=CAU",AFF (Server 6) 
 https://d1211whpimeups.cloudfront.net/smil:rtb2/playlist.m3u8      
@@ -334,7 +334,7 @@ http://15.235.166.26:8080/live/SmileFree/PakaiYangBijak/13.ts
 http://15.235.166.26:8080/live/SmileFree/PakaiYangBijak/15.ts
 
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/EknqlDs.png?v=1.1.1.1" group-title="LOKAL" tvg-id="iNews",iNews
-https://d-inews.rctiplus.id/inews-sdi-avc1_600000=5-mp4a_96000=1.m3u8?auth_key=1677944260-7de6a4a3b12ca466926a91cef83a96d6-0-e136ddd5ae7cf92d6122983963b4575b|referer=https://m.rctiplus.com/
+https://d3o5yreltwquyt.cloudfront.net/INEWS2022.m3u8|Referer=https://m.rctiplus.com/
 
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/EknqlDs.png?v=1.1.1.1" group-title="LOKAL",JTV
 http://122.248.43.138:1935/ch2/myStream/playlist.m3u8

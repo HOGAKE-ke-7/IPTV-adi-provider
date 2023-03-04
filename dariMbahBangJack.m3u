@@ -108,7 +108,7 @@ http://golive.yn.lt/live/volleyball/04.m3u8
 #EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://raw.githubusercontent.com/Paijo29/1/main/proligavoli.jpg",Pro Liga Voli ( Server 5 ) 
 http://golive.yn.lt/live/volleyball/05.m3u8
 #EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://raw.githubusercontent.com/Paijo29/1/main/futsal.jpg",Futsal (Server 1) 
-https://m-mnctv.rctiplus.id/mnctv-sdi-avc1_600000=5-mp4a_96000=1.m3u8|referer=https://m.rctiplus.com/
+https://d2oaub8o4ti3xm.cloudfront.net/MNCTV_2021.m3u8|Referer=https://m.rctiplus.com/
 #EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://raw.githubusercontent.com/Paijo29/1/main/futsal.jpg",Futsal (Server 2) 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=531c6d50e3e9f9ba66446f624f492289:d769d9ae238bdd424f8bcdcdc9a3801f
@@ -236,25 +236,25 @@ https://bit.ly/Trans7yeyem3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/MNCTV_logo_2015.svg/1600px-MNCTV_logo_2015.svg.png" group-title="LOKAL" tvg-id="MNCTV.id" tvg-name="MNC TV", MNCTV HD
 https://nyanv-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 #EXTINF:-1 group-title="LOKAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/MNCTV_logo_2015.svg/1600px-MNCTV_logo_2015.svg.png",MNCTV HD
-https://mnctv-azure.rctiplus.id/mnctv-sdi-avc1_600000=5-mp4a_96000=1.m3u8|referer=https://m.rctiplus.com/
+https://d2oaub8o4ti3xm.cloudfront.net/MNCTV_2021.m3u8|Referer=https://m.rctiplus.com/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/dd/RCTI_logo_2015.svg/1280px-RCTI_logo_2015.svg.png" group-title="LOKAL" tvg-id="RCTI.id" tvg-name="RCTI", RCTI HD
 https://nyanv-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 #EXTINF:-1 group-title="LOKAL" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/dd/RCTI_logo_2015.svg/1280px-RCTI_logo_2015.svg.png",RCTI Rcti+
-https://d-rcti.rctiplus.id/rcti-sdi-avc1_600000=5-mp4a_96000=1.m3u8?auth_key=1677940624-c5f7e518693c1f39a06f2b7feefcf7fa-0-28c72d85e657f5d6be03fc287ec1f2d4|referer=https://m.rctiplus.com/
+https://rcti-linier.rctiplus.id/RCTI2022.m3u8|Referer=https://m.rctiplus.com/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/GTV_%282017%29.svg/1000px-GTV_%282017%29.svg.png" group-title="LOKAL" tvg-id="GTV.id" tvg-name="GTV", GTV HD
 https://nyanv-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
 #EXTINF:-1 group-title="LOKAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/GTV_%282017%29.svg/1000px-GTV_%282017%29.svg.png",GTV Rcti+
-https://gtv-azure.rctiplus.id/gtv-sdi-avc1_600000=5-mp4a_96000=1.m3u8|referer=https://m.rctiplus.com/
+https://d32k4dhnksn5q9.cloudfront.net/GTV2021.m3u8|referer=https://m.rctiplus.com/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sojdCIg.png" group-title="LOKAL" tvg-id="iNews.id" tvg-name="iNews", iNews
 https://nyanv-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
 #EXTINF:-1 group-title="LOKAL" tvg-logo="https://i.imgur.com/sojdCIg.png" ,iNews Rcti+
-https://d-inews.rctiplus.id/inews-sdi-avc1_600000=5-mp4a_96000=1.m3u8?auth_key=1677940608-cb03af6707668c52cb9716c356feb149-0-769c489571f35441a50bfa263ce39cdf|referer=https://m.rctiplus.com/
+https://d3o5yreltwquyt.cloudfront.net/INEWS2022.m3u8|Referer=https://m.rctiplus.com/
 #EXTINF:-1 group-title="LOKAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/512px-Antv_logo.svg.png",ANTV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm

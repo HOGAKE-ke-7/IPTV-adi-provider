@@ -960,7 +960,7 @@ https://newtest.webtv1.lol/lb/premium80/index.m3u8|referer=https://widevine.lice
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/yxL35WPL/20220926-145249.png" group-title="Lokal" tvg-id="RCTI.id" tvg-name="RCTI", RCTI HD
 https://anevi-live-channel-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 #EXTINF:-1 group-title="Lokal" tvg-id="RCTI.id" tvg-logo="https://i.postimg.cc/yxL35WPL/20220926-145249.png",RCTI (Vision+)
-https://d-rcti.rctiplus.id/rcti-sdi-avc1_600000=5-mp4a_96000=1.m3u8?auth_key=1677944207-b6144f59a2c8058f95b06e230cc375a4-0-6bc9d3861fdeb3a92564c2247ce7d93a|referer=https://m.rctiplus.com/
+https://rcti-linier.rctiplus.id/RCTI2022.m3u8|Referer=https://m.rctiplus.com/
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjhkOWZkZjYtOGViOC0zNTkzLWFhOWEtNGFhMzJkMDk3NGE2
@@ -977,7 +977,7 @@ https://geocities.ws/ariev7xx/moji.m3u8
 https://anevi-live-channel-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 
 #EXTINF:-1 group-title="Lokal" tvg-id="MNCTV.id" tvg-logo="https://i.postimg.cc/9Xb9zNhy/20220926-145209.png",MNCTV (Vision+)
-https://mnctv-azure.rctiplus.id/mnctv-sdi-avc1_600000=5-mp4a_96000=1.m3u8|referer=https://m.rctiplus.com/
+https://d2oaub8o4ti3xm.cloudfront.net/MNCTV_2021.m3u8|Referer=https://m.rctiplus.com/
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -1023,7 +1023,7 @@ https://video.detik.com/transtv/smil:transtv.smil/chunklist.m3u8
 https://anevi-live-channel-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
 
 #EXTINF:-1 group-title="Lokal" tvg-id="GTV.id" tvg-logo="https://i.postimg.cc/WbfJwFt3/20220926-145143.png",GTV (Vision+)
-https://gtv-azure.rctiplus.id/gtv-sdi-avc1_600000=5-mp4a_96000=1.m3u8|referer=https://m.rctiplus.com/
+https://d32k4dhnksn5q9.cloudfront.net/GTV2021.m3u8|referer=https://m.rctiplus.com/
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi

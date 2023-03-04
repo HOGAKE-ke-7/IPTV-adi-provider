@@ -1445,13 +1445,13 @@ http://ys-users.com:8080/obconline021/6eQmVNsDZY/497744
 http://ys-users.com:8080/obconline021/6eQmVNsDZY/497745
 ====================NASIONAL====================
 #EXTINF:-1 tvg-id="rcti.id" group-title="NASIONAL" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/dd/RCTI_logo_2015.svg/1280px-RCTI_logo_2015.svg.png",RCTI
-https://d-rcti.rctiplus.id/rcti-sdi-avc1_600000=5-mp4a_96000=1.m3u8?auth_key=1677944207-b6144f59a2c8058f95b06e230cc375a4-0-6bc9d3861fdeb3a92564c2247ce7d93a|referer=https://m.rctiplus.com/
+https://rcti-linier.rctiplus.id/RCTI2022.m3u8|Referer=https://m.rctiplus.com/
 #EXTINF:-1 tvg-id="gtv.id" group-title="NASIONAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/GTV_%282017%29.svg/1000px-GTV_%282017%29.svg.png",GTV
-https://gtv-azure.rctiplus.id/gtv-sdi-avc1_600000=5-mp4a_96000=1.m3u8|referer=https://m.rctiplus.com/
+https://d32k4dhnksn5q9.cloudfront.net/GTV2021.m3u8|referer=https://m.rctiplus.com/
 #EXTINF:-2 tvg-id="mnctv.id" group-title="NASIONAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/MNCTV_logo_2015.svg/1600px-MNCTV_logo_2015.svg.png" tvg-name="MNCTV",MNCTV
-https://mnctv-azure.rctiplus.id/mnctv-sdi-avc1_600000=5-mp4a_96000=1.m3u8|referer=https://m.rctiplus.com/
+https://d2oaub8o4ti3xm.cloudfront.net/MNCTV_2021.m3u8|Referer=https://m.rctiplus.com/
 #EXTINF:-1 tvg-id="inews.id" group-title="NASIONAL" tvg-logo="https://i.imgur.com/sojdCIg.png" , INEWS
-https://d-inews.rctiplus.id/inews-sdi-avc1_600000=5-mp4a_96000=1.m3u8?auth_key=1677944260-7de6a4a3b12ca466926a91cef83a96d6-0-e136ddd5ae7cf92d6122983963b4575b|referer=https://m.rctiplus.com/
+https://d3o5yreltwquyt.cloudfront.net/INEWS2022.m3u8|Referer=https://m.rctiplus.com/
 #EXTINF:-1 tvg-id="inews.id" group-title="NASIONAL" tvg-logo="https://i.imgur.com/sojdCIg.png" , INEWS
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
@@ -1528,7 +1528,7 @@ https://newanv-live-cdn.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
 #EXTINF:-1 tvg-id="rcti.id" tvg-logo="https://static.mncnow.id/images/channel/928ba7e3/38c2.png" group-title=" NASIONAL" tvg-name="RCTI", RCTI
 https://anevi-live-channel-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 #EXTINF:-1 tvg-id="rcti.id" tvg-logo="https://static.mncnow.id/images/channel/928ba7e3/38c2.png" group-title=" NASIONAL" tvg-name="RCTI", RCTI 2
-https://d-rcti.rctiplus.id/rcti-sdi-avc1_600000=5-mp4a_96000=1.m3u8?auth_key=1677944207-b6144f59a2c8058f95b06e230cc375a4-0-6bc9d3861fdeb3a92564c2247ce7d93a|referer=https://m.rctiplus.com/
+https://rcti-linier.rctiplus.id/RCTI2022.m3u8|Referer=https://m.rctiplus.com/
 http://golive.yn.lt/live/aff/01.m3u8
 $https://anevi-live-channel-cdn.mncnow.id/live/eds/RCTI/sa_dash_vmx/RCTI.mpd
 https://on-load.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
@@ -3610,7 +3610,7 @@ http://210.210.155.37/uq2663/h/h124/index.m3u8
 #EXTINF:-1 tvg-id=".id" tvg-logo="http://www.dens.tv/images/channel-logo/120.jpg" group-title="DENSTV",MOTO RACING
 http://210.210.155.37/uq2663/h/h223/index.m3u8
 #EXTINF:-1 tvg-id="rcti.id" tvg-logo="https://i.ibb.co/GCY8VdF/IMG-20221207-234520.png" group-title="DENSTV",RCTI
-https://d-rcti.rctiplus.id/rcti-sdi-avc1_600000=5-mp4a_96000=1.m3u8?auth_key=1677944207-b6144f59a2c8058f95b06e230cc375a4-0-6bc9d3861fdeb3a92564c2247ce7d93a|referer=https://m.rctiplus.com/
+https://rcti-linier.rctiplus.id/RCTI2022.m3u8|Referer=https://m.rctiplus.com/
 #EXTINF:-1 tvg-id="mnctv.id" tvg-logo="https://i.ibb.co/dG3cP14/IMG-20221207-234300.png" group-title="DENSTV",MNCTV
 https://d2oaub8o4ti3xm.cloudfront.net/MNCTV_2021.m3u8|Referer=https://m.rctiplus.com/
 #EXTINF:-1 tvg-id="gtv.id" tvg-logo="https://i.ibb.co/K2xHhRC/IMG-20221207-234208.png" group-title="DENSTV",GTV
