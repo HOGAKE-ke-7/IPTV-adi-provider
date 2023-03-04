@@ -1742,7 +1742,7 @@ https://anevi-live-channel-cdn.mncnow.id/live/eds/CrimeInvestigation/sa_dash_vmx
 https://anevi-live-channel-cdn.mncnow.id/live/eds/CGTN_Doc/sa_dash_vmx/CGTN_Doc.mpd
 ====================ISLAM====================
 #EXTINF:-1 tvg-id="RodjaTV.id" tvg-logo="http://www.dens.tv/images/channel-logo/21.jpg" group-title="ISLAM",RODJA TV 
-http://210.210.155.37/qwr9ew/s/s14/index.m3u8
+http://cors-server.fly.dev/http://210.210.155.37/qwr9ew/s/s14/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bTktkcr.png" group-title="ISLAM",  Ashiil TV
 https://h1.intechmedia.net/intech/ch2.m3u8
 #EXTINF:-1 tvg-logo="https://www.almagd.tv/en/images/logo.png" group-title="ISLAM",  Almagd TV
