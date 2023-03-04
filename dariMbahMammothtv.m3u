@@ -960,7 +960,7 @@ https://newtest.webtv1.lol/lb/premium80/index.m3u8|referer=https://widevine.lice
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/yxL35WPL/20220926-145249.png" group-title="Lokal" tvg-id="RCTI.id" tvg-name="RCTI", RCTI HD
 https://anevi-live-channel-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 #EXTINF:-1 group-title="Lokal" tvg-id="RCTI.id" tvg-logo="https://i.postimg.cc/yxL35WPL/20220926-145249.png",RCTI (Vision+)
-https://d-rcti.rctiplus.id/rcti-sdi-avc1_600000=5-mp4a_96000=1.m3u8?auth_key=1677783056-849358d83fe84d1aa4677d74daa9ecbe-0-06be09b6db207ad97e6a7b207006d334|referer=https://m.rctiplus.com/
+https://d-rcti.rctiplus.id/rcti-sdi-avc1_600000=5-mp4a_96000=1.m3u8?auth_key=1677944207-b6144f59a2c8058f95b06e230cc375a4-0-6bc9d3861fdeb3a92564c2247ce7d93a|referer=https://m.rctiplus.com/
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjhkOWZkZjYtOGViOC0zNTkzLWFhOWEtNGFhMzJkMDk3NGE2
@@ -1023,7 +1023,7 @@ https://video.detik.com/transtv/smil:transtv.smil/chunklist.m3u8
 https://anevi-live-channel-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
 
 #EXTINF:-1 group-title="Lokal" tvg-id="GTV.id" tvg-logo="https://i.postimg.cc/WbfJwFt3/20220926-145143.png",GTV (Vision+)
-https://d-gtv.rctiplus.id/gtv-sdi-avc1_600000=5-mp4a_96000=1.m3u8?auth_key=1677783024-0921e5f014773b6e79d44e6a2903b5b3-0-c5ef076925671a38ea0ff0cb466c3544|referer=https://m.rctiplus.com/
+https://gtv-azure.rctiplus.id/gtv-sdi-avc1_600000=5-mp4a_96000=1.m3u8|referer=https://m.rctiplus.com/
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
