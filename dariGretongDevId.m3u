@@ -641,13 +641,13 @@ http://210.210.155.37/uq2663/h/h23/index.m3u8
 #EXTINF:-1 tvg-id=".id" tvg-logo="http://www.dens.tv/images/channel-logo/56.jpg" group-title="DENSTV",AL JAZEERA ARABIC
 http://210.210.155.37/qwr9ew/s/s16/index.m3u8
 #EXTINF:-1 tvg-id="TRTWorld.id" tvg-logo="http://www.dens.tv/images/channel-logo/41.jpg" group-title="DENSTV",TRT WORLD
-https://d-rcti.rctiplus.id/rcti-sdi-avc1_600000=5-mp4a_96000=1.m3u8?auth_key=1677944207-b6144f59a2c8058f95b06e230cc375a4-0-6bc9d3861fdeb3a92564c2247ce7d93a|referer=https://m.rctiplus.com/
+http://210.210.155.37/uq2663/h/h156/index2.m3u8
 #EXTINF:-1 tvg-id="WION..id" tvg-logo="http://www.dens.tv/images/channel-logo/79.jpg" group-title="DENSTV",WION
-https://mnctv-azure.rctiplus.id/mnctv-sdi-avc1_600000=5-mp4a_96000=1.m3u8|referer=https://m.rctiplus.com/
+http://210.210.155.37/uq2663/h/h91/index2.m3u8
 #EXTINF:-1 tvg-id="UATV.id" tvg-logo="http://www.dens.tv/images/channel-logo/104.jpg" group-title="DENSTV",UA
-https://gtv-azure.rctiplus.id/gtv-sdi-avc1_600000=5-mp4a_96000=1.m3u8|referer=https://m.rctiplus.com/
+http://210.210.155.37/uq2663/h/h101/index2.m3u8
 #EXTINF:-1 tvg-id="AlJazeeraEnglish.id" tvg-logo="http://www.dens.tv/images/channel-logo/56.jpg" group-title="DENSTV",AL JAZEERA ENGLISH
-https://d-inews.rctiplus.id/inews-sdi-avc1_600000=5-mp4a_96000=1.m3u8?auth_key=1677944260-7de6a4a3b12ca466926a91cef83a96d6-0-e136ddd5ae7cf92d6122983963b4575b|referer=https://m.rctiplus.com/
+http://210.210.155.37/qwr9ew/s/s17/index.m3u8
 #EXTINF:-1 tvg-id="CCTV-4.cn" tvg-logo="http://www.dens.tv/images/channel-logo/85.jpg" group-title="DENSTV",CCTV 4
 http://210.210.155.37/qwr9ew/s/s19/index.m3u8
 #EXTINF:-1 tvg-id="France24.id" tvg-logo="http://www.dens.tv/images/channel-logo/69.jpg" group-title="DENSTV",FRANCE 24
