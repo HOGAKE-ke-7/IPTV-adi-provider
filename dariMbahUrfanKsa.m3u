@@ -735,7 +735,7 @@ http://rr2.dens.tv/s/s28/index10.m3u8
 http://rr2.dens.tv/s/s27/index10.m3u8
 
 #EXTINF:-1 tvg-id="RCTI.Id" tvg-logo="https://cdn.ksa.my.id/rcti.png" group-title="National TV",RCTI+
-https://d-rcti.rctiplus.id/rcti-sdi-avc1_600000=5-mp4a_96000=1.m3u8?auth_key=1678245893-bd365cdec5582b2b515df93ea32582b9-0-9da463b2bf8c39778af325190fb76b8c|referer=https://m.rctiplus.com/
+https://d-rcti.rctiplus.id/rcti-sdi-avc1_600000=5-mp4a_96000=1.m3u8?auth_key=1678271345-c02ce465a2019af4dc43ce5a561b349a-0-1fc6b621f81b5b513196e1530c6ea20e|referer=https://m.rctiplus.com/
 
 #EXTINF:-1 tvg-id="GTV.Id" tvg-logo="https://cdn.ksa.my.id/gtv.png" group-title="National TV",GTV+
 https://gtv-azure.rctiplus.id/gtv-sdi-avc1_600000=5-mp4a_96000=1.m3u8|referer=https://m.rctiplus.com/
@@ -744,7 +744,7 @@ https://gtv-azure.rctiplus.id/gtv-sdi-avc1_600000=5-mp4a_96000=1.m3u8|referer=ht
 https://mnctv-azure.rctiplus.id/mnctv-sdi-avc1_600000=5-mp4a_96000=1.m3u8|referer=https://m.rctiplus.com/
 
 #EXTINF:-1 tvg-id="iNews.Id" tvg-logo="https://cdn.ksa.my.id/inews.png" group-title="National TV",iNewsTV+
-https://d-inews.rctiplus.id/inews-sdi-avc1_600000=5-mp4a_96000=1.m3u8?auth_key=1678245948-61ae48ae7ac2dd9a36a228d0296f4dd9-0-572e1099e523bdee58435716f6f86906|referer=https://m.rctiplus.com/
+https://d-inews.rctiplus.id/inews-sdi-avc1_600000=5-mp4a_96000=1.m3u8?auth_key=1678271426-937c6a1339241fd913a3aa6070bb2570-0-3817bd8de91bc74aa1ad3d03697213bb|referer=https://m.rctiplus.com/
 
 #EXTINF:-1 tvg-id="Trans7.Id" group-title="National TV" tvg-logo="https://cdn.ksa.my.id/trans7.png",TRANS7
 https://video.detik.com/trans7/smil:trans7.smil/chunklist_w1440823282_b744100_sleng.m3u8
