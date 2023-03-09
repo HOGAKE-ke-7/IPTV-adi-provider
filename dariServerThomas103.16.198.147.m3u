@@ -189,3 +189,33 @@ https://cdn.thomasandi.my.id/ch/vision?id=FightSports
 #KODIPROP:inputstream.adaptive.license_key=https://thomasandi.my.id/drmlele/visiondrm
 #EXTINF:0 tvg-id="SoccerChannel.Id" tvg-logo="soccerchannel.png" group-title="Sports",Soccer Channel
 https://cdn.thomasandi.my.id/ch/vision?id=soccerchannel-HD
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo='' group-title='Vidio', SCTV ( Vidio )
+https://etslive-2-vidio-com.akamaized.net/exp=1678350076~acl=/hls-b/ingest_204_*/*~hmac=4931c97ecea892d352c5c2218789a997b50b04240279b67a5f93ee81c24e0a52/hls-b/ingest_204_720p/index.m3u8
+#EXTINF:-1 tvg-logo='' group-title='Vidio', INDOSIAR ( Vidio )
+https://etslive-2-vidio-com.akamaized.net/exp=1678350077~acl=/hls-b/ingest_205_*/*~hmac=5006867612cb1347b1713a3830c4f87ea6b8a2fecbed6f1584fabbd334b894ab/hls-b/ingest_205_720p/index.m3u8
+#EXTINF:-1 tvg-logo='' group-title='Vidio', Kompas TV ( Vidio )
+https://etslive-2-vidio-com.akamaized.net/exp=1678350078~acl=/hls-p/ingest_874_*/*~hmac=9eae5add22f8b63e0e7ecb694a2581ea173bb83963666546354281325fcb00dd/hls-p/ingest_874_360p/index.m3u8
+#EXTINF:-1 tvg-logo='' group-title='Vidio', Berita Satu ( Vidio )
+https://live-production.secureswiftcontent.com/exp=1678350079~acl=/hls-p/ingest_6165_*/*~hmac=797c92fd9bfe3352933b80f7cce8a7cf18504f77938c5b7c68098b4b906fa89e/hls-p/ingest_6165_360p/index.m3u8
+#EXTINF:-1 tvg-logo='' group-title='Vidio', Metro TV ( Vidio )
+https://etslive-2-vidio-com.akamaized.net/exp=1678350080~acl=/hls-p/ingest_777_*/*~hmac=0c15f81df1d755c26041793e2616c670844e420b259f8d7a18b1e06795633262/hls-p/ingest_777_360p/index.m3u8
+#EXTINF:-1 tvg-logo='' group-title='Vidio', Trans TV ( Vidio )
+https://etslive-2-vidio-com.akamaized.net/exp=1678350080~acl=/hls-b/ingest_733_*/*~hmac=5027dc13acc0f12c36a8fa4a7d2f5b5838151dd836588acfcadaada97d2c9fc2/hls-b/ingest_733_720p/index.m3u8
+#EXTINF:-1 tvg-logo='' group-title='Vidio', Trans7 ( Vidio )
+https://etslive-2-vidio-com.akamaized.net/exp=1678350081~acl=/hls-b/ingest_734_*/*~hmac=949973dd8ae02e75d3f3f897ad074a1518cfb339673b4fa84361bda9c4ecf455/hls-b/ingest_734_720p/index.m3u8
+#EXTINF:-1 tvg-logo='' group-title='Vidio', JAK TV ( Vidio )
+https://live-production.secureswiftcontent.com/exp=1678350082~acl=/hls-p/ingest_5415_*/*~hmac=11d8a439024eda93b8d93c5c003d3a73e22f1c018bf41b21acc9c2a95a496d80/hls-p/ingest_5415_360p/index.m3u8
+#EXTINF:-1 tvg-logo='' group-title='Vidio', NET TV ( Vidio )
+https://etslive-2-vidio-com.akamaized.net/exp=1678350082~acl=/hls-p/ingest_875_*/*~hmac=798964e3500eabd12981845ce74be444463fd2f74f051b2da95a42d5d09c5eb3/hls-p/ingest_875_360p/index.m3u8
+#EXTINF:-1 tvg-logo='' group-title='Vidio', Ajwa TV ( Vidio )
+https://live-production.secureswiftcontent.com/exp=1678350086~acl=/hls-p/ingest_7464_*/*~hmac=c39fe14a8e6fb54ef3bf8f53ee92f6f973cdbb22d28b47b71162b0451f7a58a3/hls-p/ingest_7464_360p/index.m3u8
+#EXTINF:-1 tvg-logo='' group-title='Vidio', Al Quran Al Kareem TV ( Vidio )
+https://live-production.secureswiftcontent.com/exp=1678350087~acl=/hls-p/ingest_6852_*/*~hmac=0dd02c55ecd55f4b9fc69a3a43b20270f062ac5a00f26cfa4767b033d457817e/hls-p/ingest_6852_360p/index.m3u8
