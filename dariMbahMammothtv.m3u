@@ -960,7 +960,7 @@ https://newtest.webtv1.lol/lb/premium80/index.m3u8|referer=https://widevine.lice
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/yxL35WPL/20220926-145249.png" group-title="Lokal" tvg-id="RCTI.id" tvg-name="RCTI", RCTI HD
 https://anevi-live-channel-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 #EXTINF:-1 group-title="Lokal" tvg-id="RCTI.id" tvg-logo="https://i.postimg.cc/yxL35WPL/20220926-145249.png",RCTI (Vision+)
-https://d-rcti.rctiplus.id/rcti-sdi.m3u8?auth_key=1678332410-c0ca10fb84855f9d740de6436ba3a6fb-0-bdbe55da207ce4758018f6dce6053e7b|referer=https://m.rctiplus.com/
+https://d-rcti.rctiplus.id/rcti-sdi.m3u8?auth_key=1678420306-23a8d39998daa288b6fdc7f98ac9da0a-0-18081e30f861b6bc2e66b1c17ec3e734|referer=https://m.rctiplus.com/
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjhkOWZkZjYtOGViOC0zNTkzLWFhOWEtNGFhMzJkMDk3NGE2
