@@ -1335,8 +1335,6 @@ https://597f64b67707a.streamlock.net/almagd.tv/almagd.smil/playlist.m3u8
 https://h1.intechmedia.net/intech/ch4.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tk16x6O.png" group-title="ISLAM",  Al Aqsa Channel
 https://live-1.linuxway.info/aqsatv/live/tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.alhayat.tv/images/logo/main.34f5c635.png" group-title="ISLAM",  Al Hayat TV
-http://media.islamexplained.com:1935/live/_definst_mp4:ahme.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/l7zer94.png" group-title="ISLAM",  Al Maali TV
 https://kali.vdopanel.com:3986/live/mbashalive.m3u8
 #EXTINF:-1 tvg-logo="https://almaaref.ch/wp-content/uploads/2021/10/Almaaref-Logo-Trial-2-300x198.png" group-title="ISLAM",  Al Maaref
