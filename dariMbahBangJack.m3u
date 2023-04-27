@@ -108,7 +108,7 @@ https://webudit.salamus1.lol/lb/premium375/index.m3u8?|referer=https://widevine.
 ======LIGA ITALIA=======
 #EXTINF:-1 tvg-id=" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaBycWLD6QlGX6vkq7kBCsksuDU3bt8zUQsQ&usqp=CAU" group-title="LIVE EVENT",1. [02.00] - FIORENTINA VS CREMONESE (CH 1) - Coppa Italia
 https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
-#EXTINF:-1 tvg-id=" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaBycWLD6QlGX6vkq7kBCsksuDU3bt8zUQsQ&usqp=CAU" group-title="LIVE EVENT",1. [02.00] - FIORENTINA VS CREMONESE (CH 2) - Coppa Italia
+https://mnctv-azure.rctiplus.id/mnctv-sdi-avc1_600000=5-mp4a_96000=1.m3u8|referer=https://m.rctiplus.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-018/stream.mpd
@@ -236,25 +236,25 @@ https://webudit.salamus1.lol/lb/premium289/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-022/stream.mpd
-#EXTINF:0 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRzRZWkUglO7k_rT5gkobN7hRz2Zde-W9dnw&usqp=CAU" group-title="LIVE EVENT",9. LIGA SINGAPORE - Singapore Premier League (Server 1) 
+https://mnctv-azure.rctiplus.id/mnctv-sdi-avc1_600000=5-mp4a_96000=1.m3u8|referer=https://m.rctiplus.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f5158194cc4044e699d0df01772f2212:072e611a383a2d1e3d4d8ea19e016a71
 https://tglmp04.akamaized.net/out/v1/6ec3ff8c3b5649249f9c8a6e2651195a/manifest.mpd
 #EXTINF:0 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRzRZWkUglO7k_rT5gkobN7hRz2Zde-W9dnw&usqp=CAU" group-title="LIVE EVENT",9. LIGA SINGAPORE - Singapore Premier League (Server 2) 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=deb6c84db4dc4578bdaa61e965b3424c:b2e6fff24da67654af548fe61aa6bd5a
+https://rcti-azure.rctiplus.id/rcti-sdi-avc1_600000=5-mp4a_96000=1.m3u8|referer=https://m.rctiplus.com/
 https://tglmp02.akamaized.net/out/v1/06bffdc183074130a6faf73d04502eaa/manifest.mpd
 ======LIGA BELANDA=======
 #EXTINF:-1 tvg-id=" tvg-logo="https://raw.githubusercontent.com/MrK0nt/J4x/main/bl.jpg" group-title="LIVE EVENT",9. LIGA BELANDA - Eredivisie Belanda  (Server 1) 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-022/stream.mpd
+https://gtv-azure.rctiplus.id/gtv-sdi-avc1_600000=5-mp4a_96000=1.m3u8|referer=https://m.rctiplus.com/
 #EXTINF:-1 tvg-id=" tvg-logo="https://raw.githubusercontent.com/MrK0nt/J4x/main/bl.jpg" group-title="LIVE EVENT",9. LIGA BELANDA - Eredivisie Belanda  (Server 2) 
 https://webudit.salamus1.lol/lb/premium101/index.m3u8?|referer=https://widevine.licenses4.me/
 =====LIGA PORTUGAL======
 #EXTINF:-1 tvg-id=" tvg-logo="https://raw.githubusercontent.com/MrK0nt/J4x/main/prt.jpg" group-title="LIVE EVENT",9. LIGA PORTUGAL - Liga Bwin Portugal (Server 1) 
 https://webudit.salamus1.lol/lb/premium49/index.m3u8?|referer=https://widevine.licenses4.me/
-#EXTINF:-1 tvg-id=" tvg-logo="https://raw.githubusercontent.com/MrK0nt/J4x/main/prt.jpg" group-title="LIVE EVENT",9. LIGA PORTUGAL - Liga Bwin Portugal (Server 2) 
+https://inews-azure.rctiplus.id/inews-sdi-avc1_600000=5-mp4a_96000=1.m3u8|referer=https://m.rctiplus.com/
 https://webudit.salamus1.lol/lb/premium430/index.m3u8|referer=https://widevine.licenses4.me/
 #EXTINF:-1 tvg-id=" tvg-logo="https://raw.githubusercontent.com/MrK0nt/J4x/main/prt.jpg" group-title="LIVE EVENT",9. LIGA PORTUGAL - Liga Bwin Portugal (Server 3) 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
